@@ -1,0 +1,35 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CULTUURCODE ONBEBOUWD"
+    id="id-a116701057e340ef9e5e6330cf4ee61f"
+    documentation="De mogelijke cultuurcodes bebouwd conform de waardelijst Cultuurcode Bebouwd van het Kadaster">
+  <properties
+      key="ggm-guid"
+      value="{ACAF3418-7E0F-43eb-B470-4AF98C37A49B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRK"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+</archimate:BusinessObject>

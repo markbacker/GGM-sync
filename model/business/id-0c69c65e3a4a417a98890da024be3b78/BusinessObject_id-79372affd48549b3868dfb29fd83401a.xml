@@ -1,0 +1,35 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KADASTRAAL PERCEEL"
+    id="id-79372affd48549b3868dfb29fd83401a"
+    documentation="Een KADASTRALE ONROERENDE ZAAK dat een kadastraal geïdentificeerd en met kadastrale grenzen begrensd deel van het Nederlands grondgebied betreft (art. 1 lid 1 Kadasterwet). &#xA;">
+  <properties
+      key="ggm-guid"
+      value="{172AFD36-B400-4660-BFAC-4BBC1077D666}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRK."/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+</archimate:BusinessObject>

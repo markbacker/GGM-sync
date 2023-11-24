@@ -1,0 +1,50 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Union (GGM)"
+    id="id-d89d003683e84acc856b69d9198e9fc8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-60494b35c4d34a8bbe69d22006e1c683"
+      textAlignment="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-775d61b730534faab67106ad142ecad7"
+        source="id-60494b35c4d34a8bbe69d22006e1c683"
+        target="id-283a46e77aaa48589e401634e73910a8">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-3f71ee43e93e4791aaded431989c5789.xml#id-3f71ee43e93e4791aaded431989c5789"/>
+    </sourceConnections>
+    <bounds
+        x="10"
+        y="10"
+        width="241"
+        height="101"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-283a46e77aaa48589e401634e73910a8"
+        targetConnections="id-775d61b730534faab67106ad142ecad7">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="30"
+          y="30"
+          width="181"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-34b4e0990a874a0b84e21111f4261188.xml#id-34b4e0990a874a0b84e21111f4261188"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-f6f997153ee547a89bc9233675686add.xml#id-f6f997153ee547a89bc9233675686add"/>
+  </children>
+  <properties
+      key="generate_view_param"
+      value="{&#xA; &quot;action&quot;: &quot;GenerateMultiple&quot;,&#xA; &quot;graphDepth&quot;: 2,&#xA; &quot;includeElementType&quot;: [&#xA;  &quot;data-object&quot;,&#xA;  &quot;grouping&quot;&#xA; ],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;&#xA; ],&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 180,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 60,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewNameSuffix&quot;: &quot; (GGM)&quot;,&#xA; &quot;viewName&quot;: &quot;Union (GGM)&quot;&#xA;}"/>
+</archimate:ArchimateDiagramModel>

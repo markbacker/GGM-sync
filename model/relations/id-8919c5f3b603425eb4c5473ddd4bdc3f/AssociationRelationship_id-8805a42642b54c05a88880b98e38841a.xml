@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is deelzaak van"
+    id="id-8805a42642b54c05a88880b98e38841a"
+    documentation="&lt;font color=&quot;#610e6a&quot;>De verwijzing naar de ZAAK, waarom verzocht is door de initiator daarvan, die door de zaakbehandelende organisatie is opgedeeld in twee of meer separaat te behandelen zaken waarvan de onderhavige zaak er één is.&lt;/font>"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{F95B6C11-B53E-4135-A96C-77C2F49379A9}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ebc89b3516334335ba08a5d424925911.xml#id-ebc89b3516334335ba08a5d424925911"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ebc89b3516334335ba08a5d424925911.xml#id-ebc89b3516334335ba08a5d424925911"/>
+</archimate:AssociationRelationship>

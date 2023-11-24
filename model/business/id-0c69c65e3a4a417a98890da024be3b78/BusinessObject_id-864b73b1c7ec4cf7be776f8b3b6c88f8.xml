@@ -1,0 +1,35 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerling"
+    id="id-864b73b1c7ec4cf7be776f8b3b6c88f8"
+    documentation="Mens die een opleiding volgt, heeft gevolgd of gaat volgen of opgaat of is opgegaan voor een toets. (Bron: KOI)">
+  <properties
+      key="ggm-guid"
+      value="{266057AF-58BD-42e1-B4D5-16EB266B9B7A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Onderwijsvolger"/>
+  <properties
+      key="domein-iv3"
+      value="Onderwijs"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+</archimate:BusinessObject>

@@ -1,0 +1,38 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZAKELIJK RECHT"
+    id="id-8ecfcc466f5e4f1782b80010bf06d5ff"
+    documentation="Het eigendom van, of een beperkt recht van een natuurlijk of niet-natuurlijk persoon (PERSOON) op, een onroerende zaak (met uitzondering van hypotheken en beslagen).">
+  <properties
+      key="ggm-guid"
+      value="{8C809341-AC60-4378-8BA0-0843E8C06AF3}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRK"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <properties
+      key="alternate name"
+      value="ZAKELIJK RECHT (RSGB Model)"/>
+</archimate:BusinessObject>

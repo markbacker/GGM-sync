@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verbalisant"
+    id="id-b4ea56a5398a4241acc9391d7af3ae49"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{AA01203B-68F8-49c7-93A0-50AF6F0CA78B}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-98294ff518824d0aaed3942126e45589.xml#id-98294ff518824d0aaed3942126e45589"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6ef228a724584f10bb735fa1fdd84cbc.xml#id-6ef228a724584f10bb735fa1fdd84cbc"/>
+</archimate:AssociationRelationship>

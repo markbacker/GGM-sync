@@ -1,0 +1,37 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bouwwerk"
+    id="id-fdb120efeb8d459786df81cbc020e2af"
+    documentation="Met de aarde verbonden duurzaam bouwwerk, dat niet valt onder de definities van een pand of kunstwerk  (bron: definities.geostandaarden.nl)">
+  <properties
+      key="ggm-guid"
+      value="{FFA16BB2-FA5A-49F1-B3E8-794499B0278}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <properties
+      key="Meer specifiek"
+      value="Bergingsbassin"/>
+</archimate:BusinessObject>

@@ -1,0 +1,20 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c6df5339eeef4dd89205035b8bb69098">
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <properties
+      key="Object ID data-object"
+      value="48156f14-1326-4a3b-8674-700991feffbd"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-6f0c1a77bd044f7693ab863df6f8032f.xml#id-6f0c1a77bd044f7693ab863df6f8032f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b943a621cf7e42088ebc70329d9c2263.xml#id-b943a621cf7e42088ebc70329d9c2263"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert"
+    id="id-36752ed8a22b49ba9d46b7cb89e3e9dc"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{42164840-C756-492e-A778-D778B6B90C19}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8600ab595dcc4d63bd1c255c9826cfad.xml#id-8600ab595dcc4d63bd1c255c9826cfad"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2eec1a3e6e3543f9a9a53562bb669da7.xml#id-2eec1a3e6e3543f9a9a53562bb669da7"/>
+</archimate:AssociationRelationship>

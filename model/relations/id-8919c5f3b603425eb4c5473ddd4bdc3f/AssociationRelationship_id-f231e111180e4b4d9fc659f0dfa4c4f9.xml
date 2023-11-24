@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is hoofdvestiging van"
+    id="id-f231e111180e4b4d9fc659f0dfa4c4f9"
+    documentation="De door de MAATSCHAPPELIJKE ACTIVITEIT aangemerkte VESTIGING als hoofdvestiging."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{E885D25B-BCD8-411c-B1D5-11DF58BEF6F2}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ba92760bd8de46c7b4ee19186abafb47.xml#id-ba92760bd8de46c7b4ee19186abafb47"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4b0a9e6efe4345e6b6491a34c1ef6015.xml#id-4b0a9e6efe4345e6b6491a34c1ef6015"/>
+</archimate:AssociationRelationship>

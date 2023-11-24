@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correspondentieadres buitenland"
+    id="id-717ffe7afa6a4795bcef2ea0acfe12b1"
+    documentation="De gegevens over het buitenlands correspondentie (-post)adres in het buitenland">
+  <properties
+      key="ggm-guid"
+      value="{CE58213C-7904-4c04-964C-8CE34C4443DF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="KING "/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f4c985d8-7fd9-4bd0-97b3-2bc660fa0603"/>
+</archimate:DataObject>

@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Toestelgroep"
+    id="id-c49a25e4fa594e37b164ff99ca523e1f">
+  <properties
+      key="ggm-guid"
+      value="{{25BDB9BC-85ED-493F-A3CD-B559FFFA5133}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="5ec52c21-1389-4e58-b3bf-0367104359c6"/>
+</archimate:DataObject>

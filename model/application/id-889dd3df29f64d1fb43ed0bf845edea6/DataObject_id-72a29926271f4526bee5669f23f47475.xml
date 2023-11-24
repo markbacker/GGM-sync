@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_PlaatsoriÃ«ntatie"
+    id="id-72a29926271f4526bee5669f23f47475">
+  <properties
+      key="ggm-guid"
+      value="{{8CFCC665-742E-45AD-A974-7672630F7015}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a7e4387a-c25a-40a9-a7c1-022fc0501522"/>
+</archimate:DataObject>

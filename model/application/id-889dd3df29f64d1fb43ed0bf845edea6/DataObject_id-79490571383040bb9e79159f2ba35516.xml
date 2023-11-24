@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INRICHTINGSELEMENT"
+    id="id-79490571383040bb9e79159f2ba35516"
+    documentation="Ruimtelijk object al dan niet ter detaillering dan wel ter inrichting van de&#xA;overige benoemde ruimtelijke objecten of een ander inrichtingselement.">
+  <properties
+      key="ggm-guid"
+      value="{4DA0EB59-963C-4558-B763-44F542BC8D89}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="IMGeo"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="17ca61e7-980b-4c0c-b81e-c5a6552f7cde"/>
+</archimate:DataObject>

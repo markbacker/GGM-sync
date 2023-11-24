@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Stamdiameterklasse"
+    id="id-8b5cb6a5335b47958db5957ce7d6620e">
+  <properties
+      key="ggm-guid"
+      value="{{C3BFA45D-09B5-47AE-ADFF-E2C9E59BF8C9}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2f9da9ec-5918-4b7c-8655-995d6c18fe51"/>
+</archimate:DataObject>

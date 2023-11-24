@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_OverbruggingsobjectModaliteit"
+    id="id-40929119698b4e1997067f848eddde8a">
+  <properties
+      key="ggm-guid"
+      value="{{071686B4-0AE0-4552-B573-0D4690B3D647}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="fff208a4-85da-4667-9fe7-f3a929b46e8e"/>
+</archimate:DataObject>

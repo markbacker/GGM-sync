@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ontsluitingswijzeVerdieping"
+    id="id-3984df9bcc19408ca3ed21d88af8acf4"
+    documentation="De verschillende waarden die de ontsluiting van een verdieping kan aannemen.">
+  <properties
+      key="ggm-guid"
+      value="{96FFDD15-A8C1-46aa-A233-2F0F50DC9069}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="9c2bd411-8f3a-4d10-a515-f67a53c2d509"/>
+</archimate:DataObject>

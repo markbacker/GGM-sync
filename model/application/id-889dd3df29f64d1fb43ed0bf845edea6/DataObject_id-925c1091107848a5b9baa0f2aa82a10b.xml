@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examenonderdeel"
+    id="id-925c1091107848a5b9baa0f2aa82a10b">
+  <properties
+      key="ggm-guid"
+      value="{D41DCE2D-4AD5-45b8-9527-EC416F4A4CC7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Inburgering"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="8326d744-f76a-435b-a0de-8883886c5061"/>
+</archimate:DataObject>

@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UitkeringsRun"
+    id="id-e9684970edfc41438b93807432134555">
+  <properties
+      key="ggm-guid"
+      value="{F787184D-3AA8-4132-96C4-23A363C3C1B7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="d322e53f-241d-4e31-a6f2-832b0a202e66"/>
+</archimate:DataObject>

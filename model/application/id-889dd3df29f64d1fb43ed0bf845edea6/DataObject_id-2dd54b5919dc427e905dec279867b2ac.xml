@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stelling"
+    id="id-2dd54b5919dc427e905dec279867b2ac"
+    documentation="Een systeem om goederen op te slaan die worden vervoerd en opgeslagen op pallets, in bundels of per stuk.(Wikipedia)">
+  <properties
+      key="ggm-guid"
+      value="{382D408F-41A3-49d2-9F66-DFFA6C75590D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Stellingkast"/>
+  <properties
+      key="domein-iv3"
+      value="Archeologie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ecb185df-cf3f-4ee0-9192-77bd28c59f20"/>
+</archimate:DataObject>

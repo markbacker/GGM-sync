@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OrgModelEenheid"
+    id="id-f2537fb1061e4aa9ba4c67fcbd955d12">
+  <properties
+      key="ggm-guid"
+      value="{40377CF8-3EC4-4123-9F4F-9F8195456FDA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0dd90ef0-4443-4cf4-a7be-5070054aa544"/>
+</archimate:DataObject>

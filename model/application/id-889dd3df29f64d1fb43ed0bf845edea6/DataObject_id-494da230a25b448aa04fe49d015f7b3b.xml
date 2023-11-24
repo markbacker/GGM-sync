@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SBI ACTIVITEIT"
+    id="id-494da230a25b448aa04fe49d015f7b3b"
+    documentation="De hiërarchische indeling van economische activiteiten conform SBI (Standaard Bedrijfsindeling).">
+  <properties
+      key="ggm-guid"
+      value="{B3F47842-F9C5-4417-BC76-05CA58D4998D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="CBS"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="6098697b-36b2-4e5d-91ce-c3df6be74dad"/>
+</archimate:DataObject>

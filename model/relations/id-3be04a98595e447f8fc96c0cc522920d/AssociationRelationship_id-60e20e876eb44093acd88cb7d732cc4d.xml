@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soort verlof"
+    id="id-60e20e876eb44093acd88cb7d732cc4d"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{3EDEEC77-46DE-47eb-AD90-10AA60A69F0C}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="5b9a33f2-d587-4c07-92d6-d3870985182d"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d8b6f5eda0ce4b828f69949206359d0c.xml#id-d8b6f5eda0ce4b828f69949206359d0c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d77975f859134d2cbae044c0bb00ca0e.xml#id-d77975f859134d2cbae044c0bb00ca0e"/>
+</archimate:AssociationRelationship>

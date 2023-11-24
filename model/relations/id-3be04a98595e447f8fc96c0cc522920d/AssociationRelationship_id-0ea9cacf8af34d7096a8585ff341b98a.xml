@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft verzuim"
+    id="id-0ea9cacf8af34d7096a8585ff341b98a"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{7702C4F6-A0C5-44d0-9857-96B1F62FD27F}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="c83d604b-b31f-4355-aa4b-9613704b0cae"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-34614bbc01a7488eb264fa2832218790.xml#id-34614bbc01a7488eb264fa2832218790"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7d1c2080d1d841279638aca4762d9c1c.xml#id-7d1c2080d1d841279638aca4762d9c1c"/>
+</archimate:AssociationRelationship>

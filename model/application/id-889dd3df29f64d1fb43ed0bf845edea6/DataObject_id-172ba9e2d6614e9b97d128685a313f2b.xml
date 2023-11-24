@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NUMMERAANDUIDING"
+    id="id-172ba9e2d6614e9b97d128685a313f2b"
+    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig toegekende aanduiding van een VERBLIJFSOBJECT, een STANDPLAATS of een LIGPLAATS.">
+  <properties
+      key="ggm-guid"
+      value="{31A87864-6CE0-4e93-A493-ECD0FBDD4461}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="Door KING toegevoegd objecttype (maakt geen deel uit van enige basisregistratie)."/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3ab46687-6f36-471b-997c-5910be801cf2"/>
+</archimate:DataObject>

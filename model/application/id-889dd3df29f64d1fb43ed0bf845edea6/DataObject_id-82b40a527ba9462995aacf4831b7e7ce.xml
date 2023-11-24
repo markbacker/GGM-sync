@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEBOUWINSTALLATIE"
+    id="id-82b40a527ba9462995aacf4831b7e7ce"
+    documentation="Een component aan de buitenzijde van een gebouw, die het aanzicht van het gebouw mede bepaalt.">
+  <properties
+      key="ggm-guid"
+      value="{6FDC646C-F9E2-4610-8FFE-1ECFA99FFBD7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="IMGeo"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="dad43c84-0324-422b-8c18-cf60494f84cf"/>
+</archimate:DataObject>

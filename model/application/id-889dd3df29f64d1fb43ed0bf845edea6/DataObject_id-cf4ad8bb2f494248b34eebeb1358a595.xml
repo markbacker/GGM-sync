@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UitstroomredenSHV"
+    id="id-cf4ad8bb2f494248b34eebeb1358a595">
+  <properties
+      key="ggm-guid"
+      value="{FBF79BF2-ACCD-49ce-8B78-84F27AEBA132}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Schuldhulpverlening"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7fae540f-f948-4021-8e9d-ae4a3e40ab7f"/>
+</archimate:DataObject>

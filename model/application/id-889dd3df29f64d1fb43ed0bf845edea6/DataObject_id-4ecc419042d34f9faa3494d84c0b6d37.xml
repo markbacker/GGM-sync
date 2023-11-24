@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Selectietabel Aanbesteding"
+    id="id-4ecc419042d34f9faa3494d84c0b6d37"
+    documentation="Gebaseerd op het procedureoverzicht inkoop. Hierin kan de tabel met drempelbedragen en bijbehorende procedures worden opgeslagen">
+  <properties
+      key="ggm-guid"
+      value="{B2BD6C5B-460E-4f2a-9B78-3E101DAD8D6B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Inkoop"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="bb275323-105c-4b40-8c76-e9f3dd2413a9"/>
+</archimate:DataObject>

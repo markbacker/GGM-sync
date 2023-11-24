@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="komt overeen"
+    id="id-41e2bd47616440c5ab9d85837b59a9f4"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{DC0AD24C-F485-4623-A82F-D7E8045A0CA2}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="241a5e9c-59b8-44e4-b601-5169b601a923"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a456ee9c00754720be244f9f448c5e9e.xml#id-a456ee9c00754720be244f9f448c5e9e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-1a17d258b8214bc782de6f093b7cba76.xml#id-1a17d258b8214bc782de6f093b7cba76"/>
+</archimate:AssociationRelationship>

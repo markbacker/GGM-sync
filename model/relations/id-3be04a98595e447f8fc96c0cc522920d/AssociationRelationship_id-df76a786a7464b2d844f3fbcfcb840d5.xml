@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="functie op afdeling"
+    id="id-df76a786a7464b2d844f3fbcfcb840d5"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{353670AB-745D-49a3-B06C-373CC43E3F1A}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="04f90b1c-ad8d-4f5f-be51-ae7cc319f27e"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-93b0437f2c414d1390001426829b33c4.xml#id-93b0437f2c414d1390001426829b33c4"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f4fa89e031d2415494f77c23729e16c4.xml#id-f4fa89e031d2415494f77c23729e16c4"/>
+</archimate:AssociationRelationship>

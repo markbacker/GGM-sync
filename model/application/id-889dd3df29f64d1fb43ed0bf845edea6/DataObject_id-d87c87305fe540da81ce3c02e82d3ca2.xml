@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kandidaat"
+    id="id-d87c87305fe540da81ce3c02e82d3ca2"
+    documentation="Iemand die een bepaalde baan of functie wil ">
+  <properties
+      key="ggm-guid"
+      value="{75B4E818-5ECD-45c5-98F9-66F57FC6117E}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Gegadigde"/>
+  <properties
+      key="domein-iv3"
+      value="Inkoop"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="362e18ca-9b5b-476a-b605-e9adeff2f586"/>
+</archimate:DataObject>

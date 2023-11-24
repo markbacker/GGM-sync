@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geslachtsaanduiding MEDEWERKER"
+    id="id-fd7fbae1d695469a866f0617f2d679b6">
+  <properties
+      key="ggm-guid"
+      value="{1A398341-6C0F-43b2-9A22-9DF3CF68EDF0}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="edf0884a-1e78-448c-964c-fb8bb77c7792"/>
+</archimate:DataObject>

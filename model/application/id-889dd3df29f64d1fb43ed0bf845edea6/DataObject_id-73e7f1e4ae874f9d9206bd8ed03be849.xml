@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_CultuurhistorischWaardevol"
+    id="id-73e7f1e4ae874f9d9206bd8ed03be849">
+  <properties
+      key="ggm-guid"
+      value="{{38B896E1-A02B-4636-A5E4-8BEAC3085B29}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0b86a52f-3047-4bc9-b34c-40af97e71cdf"/>
+</archimate:DataObject>

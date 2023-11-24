@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materiële historie"
+    id="id-560ad526de8845a099f2961fcaba6c7f">
+  <properties
+      key="ggm-guid"
+      value="{3D63DBCE-3FD5-4988-81D5-93A2D01A9D99}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Metagegevens"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="5cd4b61d-7be2-425e-8433-d349c6015211"/>
+</archimate:DataObject>

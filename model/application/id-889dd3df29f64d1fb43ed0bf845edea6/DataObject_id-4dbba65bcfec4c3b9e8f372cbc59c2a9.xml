@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Classificatie"
+    id="id-4dbba65bcfec4c3b9e8f372cbc59c2a9"
+    documentation="Ordening van informatieobjecten in een logisch verband, zoals vastgelegd in een classificatieschema.">
+  <properties
+      key="ggm-guid"
+      value="{81F207D0-A071-48c7-8C4C-25F8D25A3DE8}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1bb13f5a-338b-465f-9e8c-f4f65fc40ec8"/>
+</archimate:DataObject>

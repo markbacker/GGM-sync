@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ResultaatSHV"
+    id="id-4cf27e9a17fa41d5842fea128e4ee4e9">
+  <properties
+      key="ggm-guid"
+      value="{ED43ABF0-0753-48ea-B50A-CBE35DC95988}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Schuldhulpverlening"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="9db6d3be-03da-41b5-beb7-0b558d75c35a"/>
+</archimate:DataObject>

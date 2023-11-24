@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sluiting/aangaan huwelijk/geregistreerd partnerschap"
+    id="id-3fc6c9ee567040909c2b2468ef0c2aa6"
+    documentation="Gegevens over het gesloten huwelijk of het aangegane geregistreerd partnerschap.">
+  <properties
+      key="ggm-guid"
+      value="{28A0D7C0-DABF-403b-B263-22F424032A28}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="cc74daa3-3995-4772-9a31-ca0e1c466789"/>
+</archimate:DataObject>

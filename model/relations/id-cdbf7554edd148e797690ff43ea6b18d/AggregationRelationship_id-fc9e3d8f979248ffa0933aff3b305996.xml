@@ -1,0 +1,17 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fc9e3d8f979248ffa0933aff3b305996">
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="Object ID"
+      value="032719cf-9984-4a3a-92db-ff6e70b27834"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-cb9e7ae48452431c9a23c64891c0ce53.xml#id-cb9e7ae48452431c9a23c64891c0ce53"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-22f32f622b2d4d3d85e62e23c11262ff.xml#id-22f32f622b2d4d3d85e62e23c11262ff"/>
+</archimate:AggregationRelationship>

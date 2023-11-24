@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft als correspondentieadres postadres in"
+    id="id-b5ebcd43a89f4bb2b1ba7b4a5e5707c0"
+    documentation="De woonplaats die behoort bij het postadres van het SUBJECT"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{2A3BF217-F7B1-422a-9EAE-8EBB4422E5F2}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="87c83b71-ce10-42e1-b047-a6107b02ee56"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-647343fc187e4914b8515bef73250ff8.xml#id-647343fc187e4914b8515bef73250ff8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-268a11d2a18a47a9a60198a5492779d7.xml#id-268a11d2a18a47a9a60198a5492779d7"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroepenplaatsen"
+    id="id-0d6f51d09b954b19b52e64c9fc897335">
+  <properties
+      key="ggm-guid"
+      value="{F8ADD9AF-76C0-425c-B059-18BB0AA20D28}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Parkeren"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="eef27459-162c-4c05-ba8e-c6d18e9117e5"/>
+</archimate:DataObject>

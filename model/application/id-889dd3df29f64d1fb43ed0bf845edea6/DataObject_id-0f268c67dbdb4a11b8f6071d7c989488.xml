@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TrajectActiviteit"
+    id="id-0f268c67dbdb4a11b8f6071d7c989488">
+  <properties
+      key="ggm-guid"
+      value="{C84E20C3-9FE5-49bf-AFE2-C5A868F2D7D5}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1e471a5a-db31-4658-9905-6aafa7b5fc1e"/>
+</archimate:DataObject>

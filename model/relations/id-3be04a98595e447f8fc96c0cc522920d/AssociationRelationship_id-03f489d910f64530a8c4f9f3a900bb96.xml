@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is ingeschreven op"
+    id="id-03f489d910f64530a8c4f9f3a900bb96"
+    documentation="De NUMMERAANDUIDING bij het ADRESSEERBAAR OBJECT waarin de INGESCHREVEN NATUURLIJK PERSOON verblijft en die hij/zij gekozen heeft als inschrijvingsadres."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{3F23A45A-85D5-41da-AC81-926674F1F3D0}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="2e49e939-ee30-4f26-80c7-d5de4d470bb6"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e7d8935a347a477b9d9e197265881ecb.xml#id-e7d8935a347a477b9d9e197265881ecb"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-acffbab6bbac4ec690714c808e40800b.xml#id-acffbab6bbac4ec690714c808e40800b"/>
+</archimate:AssociationRelationship>

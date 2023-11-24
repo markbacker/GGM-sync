@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-e739d2d7e5424ea38ec796db5370b981"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{C07B0FB7-C253-47a8-8D08-228AFC02EC08}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="46686fac-7561-4f8e-9d6e-25b50a700c3b"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8650026d97f74b6d8972f4f8a84b3937.xml#id-8650026d97f74b6d8972f4f8a84b3937"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ffebb11bc93f4296b07d86a4ba091b1e.xml#id-ffebb11bc93f4296b07d86a4ba091b1e"/>
+</archimate:AssociationRelationship>

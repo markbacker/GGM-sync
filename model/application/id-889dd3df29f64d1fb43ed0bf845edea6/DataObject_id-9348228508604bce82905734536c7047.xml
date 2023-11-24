@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERSTEUNEND WATERDEEL"
+    id="id-9348228508604bce82905734536c7047"
+    documentation="Object dat in het kader van de waterhuishouding periodiek gedeeltelijk of geheel met water is bedekt.">
+  <properties
+      key="ggm-guid"
+      value="{7B92809F-CFAE-4be8-BE3A-4E4B94E83F52}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BGT"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="45d769f6-9b26-4b57-9872-e0824a2e7044"/>
+</archimate:DataObject>

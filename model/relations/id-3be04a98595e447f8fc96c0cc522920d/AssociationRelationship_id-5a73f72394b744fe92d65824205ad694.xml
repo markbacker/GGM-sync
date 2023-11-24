@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft huurrecht"
+    id="id-5a73f72394b744fe92d65824205ad694"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{02F47C2D-6990-48f3-A445-0A1010D4A818}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="b98ab364-f879-469a-8abc-7ca25c1ca1bc"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-01d65c5193944c1890edc05638374792.xml#id-01d65c5193944c1890edc05638374792"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-545d613af3674896b1e4dbf42be5ef89.xml#id-545d613af3674896b1e4dbf42be5ef89"/>
+</archimate:AssociationRelationship>

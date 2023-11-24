@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="contactpersoon"
+    id="id-1ac18d2aa4a14c39a28476278e071e5e"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{67833708-CC3D-4af7-A5DA-A4B56B1D9C11}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="96e155ac-06d8-4366-9bd6-c4f29768e7bc"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-56807d72bb6945e58264ab73ecf82335.xml#id-56807d72bb6945e58264ab73ecf82335"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0574915964784ee5bd0512fa14ea45cb.xml#id-0574915964784ee5bd0512fa14ea45cb"/>
+</archimate:AssociationRelationship>

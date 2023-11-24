@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft hoofdlocatie in of op"
+    id="id-344126e598b048ae81c40b59bfbdbaa4"
+    documentation="Het BENOEMD OBJECT waarin of waarop zich (het gedeelte van) de VESTIGING bevindt dat beschouwd wordt als hoofdlocatie voor de uitvoering van de activiteiten van deze VESTIGING"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{4A73BBFA-80FE-417c-A59A-81915FFD7BD1}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="39ef6cf8-c041-4ec4-af03-c434564064f9"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-429de719ac0741daa8c128724a326497.xml#id-429de719ac0741daa8c128724a326497"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a0e432eba14046c9afd62710ccd9b52e.xml#id-a0e432eba14046c9afd62710ccd9b52e"/>
+</archimate:AssociationRelationship>

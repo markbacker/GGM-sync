@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidieniveau"
+    id="id-558953dfe70e40a188d246d0587e27f1">
+  <properties
+      key="ggm-guid"
+      value="{B4CF1D3E-D000-467d-A9D5-4519704F4A6D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Subsidies"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="cacae49a-67db-4ca3-b882-30658b7a3ee1"/>
+</archimate:DataObject>

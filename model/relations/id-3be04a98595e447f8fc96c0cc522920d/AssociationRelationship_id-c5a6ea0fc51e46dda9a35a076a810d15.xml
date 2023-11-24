@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft prijs"
+    id="id-c5a6ea0fc51e46dda9a35a076a810d15"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{DD042091-C78F-421c-954A-3C8B4C688527}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="ceafe2ed-c177-4a4b-8a62-428069b62930"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0ea0caa13b124292b19e80c4a9bed1de.xml#id-0ea0caa13b124292b19e80c4a9bed1de"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-482d20f7c5454d54965b0ea38c2ddd95.xml#id-482d20f7c5454d54965b0ea38c2ddd95"/>
+</archimate:AssociationRelationship>

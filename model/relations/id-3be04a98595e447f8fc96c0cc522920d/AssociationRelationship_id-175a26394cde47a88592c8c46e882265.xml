@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is trajectsoort"
+    id="id-175a26394cde47a88592c8c46e882265"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{3B5FC847-25D1-4f84-A724-4AB8625880A8}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="d04d6cdd-2b40-4f6f-bb30-329539027fd4"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3755c8456a414e2cb3cda3d727375c4e.xml#id-3755c8456a414e2cb3cda3d727375c4e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f7032d68f0ca43df969eacdd87f34def.xml#id-f7032d68f0ca43df969eacdd87f34def"/>
+</archimate:AssociationRelationship>

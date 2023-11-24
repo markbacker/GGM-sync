@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is ontstaan uit andere kadastrale onroerende zaak bij"
+    id="id-30d8f44541c74533a3896943254e1cc1"
+    documentation="De verwijzing naar andere KADASTRALE ONROERENDE ZAAKen waaruit de KADASTRALE ONROERENDE ZAAK is ontstaan."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{EBEE5BED-D39A-4e50-ACD7-4924DF1DF463}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="63d01074-461a-4c5b-bc87-520df1e2eea9"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-19b6911f38b54d47b92baa873437f5f1.xml#id-19b6911f38b54d47b92baa873437f5f1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-19b6911f38b54d47b92baa873437f5f1.xml#id-19b6911f38b54d47b92baa873437f5f1"/>
+</archimate:AssociationRelationship>

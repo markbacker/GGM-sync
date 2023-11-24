@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perkeerzone"
+    id="id-a650f95d65f24b7ba0f89d38736f2484">
+  <properties
+      key="ggm-guid"
+      value="{27219A32-3B52-4f54-AA67-A972F4B7D9D0}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Parkeren"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="4eea5bb1-7620-4b81-9f3b-9b242cd67ddb"/>
+</archimate:DataObject>

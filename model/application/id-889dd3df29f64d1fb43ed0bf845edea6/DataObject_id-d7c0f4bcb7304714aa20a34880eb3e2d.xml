@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Areaal"
+    id="id-d7c0f4bcb7304714aa20a34880eb3e2d"
+    documentation="Het verspreidingsgebied van een een soort, een levensgemeenschap of een biotooptype.">
+  <properties
+      key="ggm-guid"
+      value="{9507EE24-6397-4a9c-B478-8C2899EC0BFB}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Verspreidingsgebied"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="536ac60b-d076-4fea-86a8-f6d2a1052532"/>
+</archimate:DataObject>

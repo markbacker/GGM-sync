@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_AanOfVrijliggend"
+    id="id-86a4d98bb266405bb2e916856a6dc071">
+  <properties
+      key="ggm-guid"
+      value="{{2F1446BA-CAB3-4FF2-A215-896F8FBD10A6}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="76cbf9bc-e4c5-4672-9ce3-9d4ed3b29003"/>
+</archimate:DataObject>

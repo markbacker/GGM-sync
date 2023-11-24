@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_GroenobjectBereikbaarheidPlus"
+    id="id-0cfe14a2d18a435ca4b093e8bdd8d991">
+  <properties
+      key="ggm-guid"
+      value="{{0831FF14-3D6E-4D1D-881E-9C3FD696ED19}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ae9d1667-d7bb-4b84-ad5c-6053bb23782f"/>
+</archimate:DataObject>

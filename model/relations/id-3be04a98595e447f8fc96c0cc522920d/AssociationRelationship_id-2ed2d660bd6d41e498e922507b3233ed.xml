@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monument functie"
+    id="id-2ed2d660bd6d41e498e922507b3233ed"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{FD27EB67-1CFA-4f40-AE79-329DE9DE6754}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="2a6396f8-e209-4351-897e-ab263596cf23"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-db90b8f275c94c25b2ea7ddd4a554236.xml#id-db90b8f275c94c25b2ea7ddd4a554236"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0eb54d55b9164c6a898b57b7de64267a.xml#id-0eb54d55b9164c6a898b57b7de64267a"/>
+</archimate:AssociationRelationship>

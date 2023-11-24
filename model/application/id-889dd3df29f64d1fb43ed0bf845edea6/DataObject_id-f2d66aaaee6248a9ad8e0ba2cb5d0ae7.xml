@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BESLUITTYPE"
+    id="id-f2d66aaaee6248a9ad8e0ba2cb5d0ae7"
+    documentation="&lt;font color=&quot;#610e6a&quot;>Generieke aanduiding van de aard van een besluit&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{922D3938-A0EA-42bf-9EFC-23A6A236AF9B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RGBZ Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1529f0d6-cfb8-41dc-b27f-cfba13b759ce"/>
+</archimate:DataObject>

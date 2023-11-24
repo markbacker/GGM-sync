@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beeindigd met reden"
+    id="id-a897515bd6eb4f14bd666cdaa6f4866f"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{33D7B618-C18E-4865-995F-C41A4CECC733}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="3d3ccb79-0d02-4884-a736-fcf3e48e9682"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3755c8456a414e2cb3cda3d727375c4e.xml#id-3755c8456a414e2cb3cda3d727375c4e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a59fa1d26eb545d097249ed06d4cefd7.xml#id-a59fa1d26eb545d097249ed06d4cefd7"/>
+</archimate:AssociationRelationship>

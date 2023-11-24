@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In onderzoek"
+    id="id-07d92384bd2e4cc3bc9fe5bd7593140a">
+  <properties
+      key="ggm-guid"
+      value="{E4DA500D-AB53-4e8a-B1A5-411F354F4AD2}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Metagegevens"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="44497944-ce40-4d4a-b312-762454973f7b"/>
+</archimate:DataObject>

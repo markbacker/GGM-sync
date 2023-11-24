@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studentenwoningen"
+    id="id-517fcc8b9e98487fb36302c50e3a49e2"
+    documentation="Een woning waar uitsluitend (meerdere) studenten (of soms ook werkende jongeren) een woongemeenschap vorme">
+  <properties
+      key="ggm-guid"
+      value="{98C74EAB-3411-4d1a-8321-FF30567B6877}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Studentenhuis"/>
+  <properties
+      key="domein-iv3"
+      value="Bouwen en Wonen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="6377ffe0-239f-4ddb-9b5e-54f7733cc4f1"/>
+</archimate:DataObject>

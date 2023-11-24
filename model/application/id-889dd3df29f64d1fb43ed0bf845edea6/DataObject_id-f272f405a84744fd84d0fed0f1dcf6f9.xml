@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervoersmiddel"
+    id="id-f272f405a84744fd84d0fed0f1dcf6f9"
+    documentation="Een voertuig dat zich over het land verplaatst.">
+  <properties
+      key="ggm-guid"
+      value="{E8C75DAB-F9AE-4fe2-9114-870434F2EA80}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Voertuig"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2e63425b-9703-4722-9fb9-8ee0163d352d"/>
+</archimate:DataObject>

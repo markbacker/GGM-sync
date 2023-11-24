@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stemmingsresultaattype"
+    id="id-f5f776879f0f4a38b5c4b4e7c7b75ae1">
+  <properties
+      key="ggm-guid"
+      value="{0A3A2E20-2A67-4e16-B11E-36C09F94331D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Griffie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="cf263274-0c3c-4d37-b3c9-95d5e0fc894d"/>
+</archimate:DataObject>

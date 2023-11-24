@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fractie"
+    id="id-89ed5ad3dc0c4de18e67f03426f20af3"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{9F46337A-7B77-464b-AAF3-E339F6D1E39A}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="10c68f04-1a45-483c-9649-9dcc9963d7ad"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-28a8a570d8ba4240baad6b7abf5924dd.xml#id-28a8a570d8ba4240baad6b7abf5924dd"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-70ade1a7cbf64e5e97389434c5dbc114.xml#id-70ade1a7cbf64e5e97389434c5dbc114"/>
+</archimate:AssociationRelationship>

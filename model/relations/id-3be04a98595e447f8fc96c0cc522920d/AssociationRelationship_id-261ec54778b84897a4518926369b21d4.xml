@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft velden"
+    id="id-261ec54778b84897a4518926369b21d4"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{FA630ACF-77F6-47a2-93B4-8FB6A9DF9A91}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="6b77a130-4f7a-4dc6-8656-2db38a4f5635"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-282f7af343124034b8e5126d89fd5532.xml#id-282f7af343124034b8e5126d89fd5532"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-05c390249f4a421bb2b2f72cedbdff10.xml#id-05c390249f4a421bb2b2f72cedbdff10"/>
+</archimate:AssociationRelationship>

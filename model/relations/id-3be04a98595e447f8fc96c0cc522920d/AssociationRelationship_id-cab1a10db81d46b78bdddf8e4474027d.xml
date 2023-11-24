@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geleverde zorg"
+    id="id-cab1a10db81d46b78bdddf8e4474027d"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{83C1A430-8D5D-484e-8D45-00CD5B692BCB}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="ed7694ae-2e79-4b0c-aafa-9e6972591731"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-42b0162032b84882a218a5308de605a7.xml#id-42b0162032b84882a218a5308de605a7"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d7f844be76764d6dbb080c5091db3f4f.xml#id-d7f844be76764d6dbb080c5091db3f4f"/>
+</archimate:AssociationRelationship>

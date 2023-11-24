@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werknemer"
+    id="id-34614bbc01a7488eb264fa2832218790"
+    documentation="De contractuele wederpartij van de werkgever bij de arbeidsovereenkomst.">
+  <properties
+      key="ggm-guid"
+      value="{BBBB63AC-B546-409b-B6D4-53DB561253B7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="5b62813e-d667-40bf-a7b0-9f404e2ca88f"/>
+</archimate:DataObject>

@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huishouden"
+    id="id-318f4cdb3e5b4098b524bc09b7ba3149"
+    documentation="persoon of groep personen die een huishouden voert waarbij sprake is van een onderlinge verbondenheid en continu√Øteit in de samenstelling ervan, die binnen een woning gebruik maakt van dezelfde voorzieningen">
+  <properties
+      key="ggm-guid"
+      value="{F0467610-553B-47cd-A9F7-3B1D20CC425E}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek Jeugd en Wmo"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2cf050d1-e64e-4526-8a31-b2aa75bdbdb7"/>
+</archimate:DataObject>

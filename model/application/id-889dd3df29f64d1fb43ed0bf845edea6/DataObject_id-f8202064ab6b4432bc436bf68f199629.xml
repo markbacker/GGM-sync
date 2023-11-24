@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asielstatushouder"
+    id="id-f8202064ab6b4432bc436bf68f199629"
+    documentation="De Inburgeringsplichtige die rechtmatig verblijf heeft">
+  <properties
+      key="ggm-guid"
+      value="{598F7015-C6B5-4eed-80A6-139B62324678}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Inburgering"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7511af7d-a2a8-4af1-9ee4-2572ac9c46cc"/>
+</archimate:DataObject>

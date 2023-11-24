@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verblijfadres ingeschreven natuurlijk persoon"
+    id="id-e7d8935a347a477b9d9e197265881ecb"
+    documentation="De gegevens over het verblijf en adres van de INGESCHREVEN NATUURLIJK PERSOON">
+  <properties
+      key="ggm-guid"
+      value="{E5E010C2-C1F3-4986-AA9A-C71C19263606}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="4103c01c-9309-4790-9405-97b011551449"/>
+</archimate:DataObject>

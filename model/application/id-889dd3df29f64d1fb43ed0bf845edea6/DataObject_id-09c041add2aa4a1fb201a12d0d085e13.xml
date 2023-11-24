@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migratie ingeschreven natuurlijk persoon"
+    id="id-09c041add2aa4a1fb201a12d0d085e13"
+    documentation="Om gegevens vast te leggen over immigratie en emigratie.">
+  <properties
+      key="ggm-guid"
+      value="{21BC7953-0237-44c7-ACA5-8A8BC7AE96AD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2c224c57-9169-46d8-b5df-3676b76fa4fb"/>
+</archimate:DataObject>

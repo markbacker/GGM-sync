@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Punt"
+    id="id-a0f49c4fec004e46aa75f5f4db70ac03"
+    documentation="Plaats in de ruimte">
+  <properties
+      key="ggm-guid"
+      value="{20437683-6777-4c7b-B44B-1E3A216239AA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="fbac9ac3-9971-4606-9769-45817458ab93"/>
+</archimate:DataObject>

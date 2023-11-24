@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gelost"
+    id="id-59f19dc7676c465f9b64e5ffef3308ab"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{99AE0490-31AD-4cde-9104-15B00595495C}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="f582ed93-4a4b-47d1-b341-320fd96cf8f0"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e9efdd696bd94712a2aed9a554c23c56.xml#id-e9efdd696bd94712a2aed9a554c23c56"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dbe72c67ef6f449eb514f73ee1a606b8.xml#id-dbe72c67ef6f449eb514f73ee1a606b8"/>
+</archimate:AssociationRelationship>

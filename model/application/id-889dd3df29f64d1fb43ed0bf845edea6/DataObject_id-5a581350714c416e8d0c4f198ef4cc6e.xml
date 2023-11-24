@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Splitsingstekeningreferentie "
+    id="id-5a581350714c416e8d0c4f198ef4cc6e"
+    documentation="&lt;font color=&quot;#0f0f0f&quot;>Verwijzing naar de splitsingstekening behorende bij de APPARTEMENTSRECHTSPLITSING&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{C97E674B-BCBC-45e8-B60C-1E0C7954D751}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 14:32:34"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="KING"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="589fb1b4-6252-43be-b189-178cf5c4d3a8"/>
+</archimate:DataObject>

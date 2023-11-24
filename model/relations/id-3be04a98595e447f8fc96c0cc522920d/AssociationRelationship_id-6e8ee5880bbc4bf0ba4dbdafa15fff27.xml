@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is functionaris van"
+    id="id-6e8ee5880bbc4bf0ba4dbdafa15fff27"
+    documentation="nog niet in NHR uitgewerkt"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{3270BFBF-5A15-4283-BD78-48CB364D4E88}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="e1a5275f-09a5-4de9-a88b-d8e2235a766e"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-1e6d944671114cdda1abaf5b41fd8479.xml#id-1e6d944671114cdda1abaf5b41fd8479"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0574915964784ee5bd0512fa14ea45cb.xml#id-0574915964784ee5bd0512fa14ea45cb"/>
+</archimate:AssociationRelationship>

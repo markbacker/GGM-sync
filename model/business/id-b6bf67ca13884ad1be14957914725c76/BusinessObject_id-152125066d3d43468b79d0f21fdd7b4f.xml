@@ -1,10 +1,11 @@
-<archimate:DataObject
+<archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nertwerkcomponent"
-    id="id-fbc8a292b2d74af39100d08bdc6b0bfb">
+    name="Toegangsmiddel"
+    id="id-152125066d3d43468b79d0f21fdd7b4f"
+    documentation="Een middel waarmee men zich toegang tot iets kan verschaffen.">
   <properties
       key="ggm-guid"
-      value="{DD277E82-0CA5-4460-918F-9178B5F01886}"/>
+      value="{D67A4AC2-9A17-4cd0-82D7-732A89018FDA}"/>
   <properties
       key="Latest Sync Date"
       value="24/11/2023 14:32:34"/>
@@ -28,6 +29,6 @@
       key="datum-tijd-export"
       value="06112023-07:59:13"/>
   <properties
-      key="Object ID"
-      value="8d2e3b61-aa62-4e10-80fa-7e9de08262e7"/>
-</archimate:DataObject>
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+</archimate:BusinessObject>

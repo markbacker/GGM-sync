@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identificatiekenmerk"
+    id="id-8fdc3630b9f749cd8b10c4890bb42fc1"
+    documentation="Nodig voor archivering om verschillende typen identificatie te kunnen onderscheiden:">
+  <properties
+      key="ggm-guid"
+      value="{D73AFAEC-3BF1-4309-93FE-5354EF26DA51}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RGBZ Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="d0e476d4-29fd-4835-8fb8-b7f12ed1609a"/>
+</archimate:DataObject>

@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaat uit"
+    id="id-cd98f99f96634a4596afdea804280b50"
+    documentation="De unieke aanduiding van het PAND dat geheel of gedeeltelijk deel uitmaakt van het WOZ-DEELOBJECT."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{61B75FF9-74DC-47af-8BED-F20EEFF1ABD3}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="1eb2237f-b388-42cc-bf04-39933eb6af73"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-08ed1a8e91094c29bfaaf4ff42c103c4.xml#id-08ed1a8e91094c29bfaaf4ff42c103c4"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-85c14f45f77642f1b4d41b865de67fd2.xml#id-85c14f45f77642f1b4d41b865de67fd2"/>
+</archimate:AssociationRelationship>

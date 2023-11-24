@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gaat over"
+    id="id-5c0e5d648d5a483ba0ce130a56385fba"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{F25E2F97-F385-4f6f-9D5F-9BE78A352254}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="a0f37262-19b1-4a8f-b1ea-037c036eae74"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-736d352a7a76480e8f6454df02d9fb80.xml#id-736d352a7a76480e8f6454df02d9fb80"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c87d3bf405194889a507980a4ffbcb67.xml#id-c87d3bf405194889a507980a4ffbcb67"/>
+</archimate:AssociationRelationship>

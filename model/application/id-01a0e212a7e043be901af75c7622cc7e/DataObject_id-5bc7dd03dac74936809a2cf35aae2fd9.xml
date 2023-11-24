@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Beheergebied"
+    id="id-5bc7dd03dac74936809a2cf35aae2fd9">
+  <properties
+      key="ggm-guid"
+      value="{{FF44C7E9-2FA3-4314-B4A9-D251EB6EB7B6}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="5f0f837b-b0bc-4428-9ee7-376d25ba44ac"/>
+</archimate:DataObject>

@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samengestelde naam natuurlijk persoon"
+    id="id-5f0475cb561d41a09a48c592bc6e676b"
+    documentation="Gegevens over de naam van de NATUURLIJK PERSOON">
+  <properties
+      key="ggm-guid"
+      value="{61321504-DFA1-4b65-853B-88C0581576F9}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e3082c17-c5de-48bb-99e6-aa4d0f1af0c1"/>
+</archimate:DataObject>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="rollen"
+    id="id-faf2d5d0700343ef8f886700773a6487"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{69D9DF4D-0CA8-46e6-8183-C7A6BA604AAC}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="bef603d3-b0b6-4c7c-8165-66056525e809"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2087c374c9614db5abf2589a6e2ad4c1.xml#id-2087c374c9614db5abf2589a6e2ad4c1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-758e266f28a14ec2963e71ffa0563f62.xml#id-758e266f28a14ec2963e71ffa0563f62"/>
+</archimate:AssociationRelationship>

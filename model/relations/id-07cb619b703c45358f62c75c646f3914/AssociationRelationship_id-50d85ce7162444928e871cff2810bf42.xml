@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stamt uit"
+    id="id-50d85ce7162444928e871cff2810bf42"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{F50E960E-F058-49d1-BEE4-CDC528BE386F}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="124cd740-9090-4b13-80ce-d32af1ff508a"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e14fd51068b04acdaeac8191447123b2.xml#id-e14fd51068b04acdaeac8191447123b2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9fbaff2ba0a648ad9b4e13212fbea5e9.xml#id-9fbaff2ba0a648ad9b4e13212fbea5e9"/>
+</archimate:AssociationRelationship>

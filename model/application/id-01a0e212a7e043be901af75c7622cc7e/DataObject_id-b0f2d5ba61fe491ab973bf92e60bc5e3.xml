@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notariele Status"
+    id="id-b0f2d5ba61fe491ab973bf92e60bc5e3">
+  <properties
+      key="ggm-guid"
+      value="{9748A1E1-0B37-493d-B294-ED6CDE4C8DE9}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Schuldhulpverlening"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3f9d7149-a6b2-4d86-a2d7-cb65a1cb5b60"/>
+</archimate:DataObject>

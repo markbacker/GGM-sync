@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontbinding huwelijk/geregistreerd partnerschap"
+    id="id-38ffbd7e81974510ad7d0803da98efc0"
+    documentation="Gegevens over het ontbonden huwelijk of geregistreerd partnerschap.">
+  <properties
+      key="ggm-guid"
+      value="{10E7F112-407D-4099-9CC7-F6B53DD094BF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ad5534a5-4675-4c6c-bec8-ce83b557e9f9"/>
+</archimate:DataObject>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vindbaar op"
+    id="id-cd2fdc4615e741eaa1385e0fccc6dbbf"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{44E14266-7033-40f1-AC08-6F9BF5ED5C00}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="26b2e2ad-01a3-4ee0-a211-6ca5f1ea4a5b"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d74c7914f78942029c4e7a98e8f4ff7b.xml#id-d74c7914f78942029c4e7a98e8f4ff7b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-5b5ed7f6879d4459a85ee4565a757893.xml#id-5b5ed7f6879d4459a85ee4565a757893"/>
+</archimate:AssociationRelationship>

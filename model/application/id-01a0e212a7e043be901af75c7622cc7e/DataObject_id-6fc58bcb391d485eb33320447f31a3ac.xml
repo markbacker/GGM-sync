@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beperking"
+    id="id-6fc58bcb391d485eb33320447f31a3ac"
+    documentation="Een stoornis of conditie ‚Äì lichamelijk, zintuiglijk en-of geestelijk ‚Äì die een normaal maatschappelijk functioneren belemmert en nadelige sociale gevolgen met zich meebrengt.">
+  <properties
+      key="ggm-guid"
+      value="{F110608E-9C6A-4d66-BDCB-F4B2465E3CFD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek Jeugd en Wmo"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="346795de-f065-4787-9b34-e2ca87336ff3"/>
+</archimate:DataObject>

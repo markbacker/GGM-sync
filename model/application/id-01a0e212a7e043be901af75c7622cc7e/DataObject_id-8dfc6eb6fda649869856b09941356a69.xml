@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hinderklasse"
+    id="id-8dfc6eb6fda649869856b09941356a69"
+    documentation="Op basis van &quot;Werkwijzer MinderHinder Deel B, de uitwerking&quot; van Ministerie van Infrastructuur en Milieu.&#xA;zie https://www.rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/werkwijzen/werkwijze-in-gww/communicatie-bij-werkzaamheden/werkwijzers-minder-hinder.aspx&#xA;">
+  <properties
+      key="ggm-guid"
+      value="{9387D652-A431-4f4c-9F35-4DB0A102B1EF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Verkeer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3a004aab-ef09-46f4-b092-2b79793670ac"/>
+</archimate:DataObject>

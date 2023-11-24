@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geboorte ingeschreven natuurlijk persoon"
+    id="id-d3e21f95b7fb418bb4c40742a8621bcd"
+    documentation="Gegevens over de geboorte van de INGESCHREVEN NATUURLIJK PERSOON.">
+  <properties
+      key="ggm-guid"
+      value="{C9DD308F-7EA7-4c1a-BC7D-68077692C113}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="9e4c8486-37e3-4e22-9462-ac3a3b0223e5"/>
+</archimate:DataObject>

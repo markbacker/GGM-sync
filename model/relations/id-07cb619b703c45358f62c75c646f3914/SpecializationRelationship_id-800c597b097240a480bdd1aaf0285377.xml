@@ -1,0 +1,23 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-800c597b097240a480bdd1aaf0285377">
+  <properties
+      key="ggm-guid"
+      value="{EBF0C505-6860-4103-A0D5-15DF00F88114}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Generalization"/>
+  <properties
+      key="Object ID"
+      value="0fbc7551-de71-485d-bf8a-fee005c4c089"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2087c374c9614db5abf2589a6e2ad4c1.xml#id-2087c374c9614db5abf2589a6e2ad4c1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b5fc4c28a3ae4addad4efd66d005a20d.xml#id-b5fc4c28a3ae4addad4efd66d005a20d"/>
+</archimate:SpecializationRelationship>

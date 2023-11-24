@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="op vacature"
+    id="id-c8af66a4f5e348d8a02253721e1266cb"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{69D5B4D8-4D23-4a03-AF7E-9DD4B3B0B439}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="52df6d43-c75a-4285-91b4-6ec308ab57f1"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c8149e0f3df247e5b63c4eb943595d39.xml#id-c8149e0f3df247e5b63c4eb943595d39"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-44236d4a31214fc5acc4b741a6d00675.xml#id-44236d4a31214fc5acc4b741a6d00675"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VESTIGING VAN ZAAKBEHANDELENDE ORGANISATIE"
+    id="id-003fd685a6de45d79836e840f352c627"
+    documentation="&lt;font color=&quot;#610e6a&quot;>Een VESTIGING van een onderneming of rechtspersoon zijnde de zaakbehandelende organisatie.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{D8142B98-64CB-408e-9941-92423543F08A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RGBZ Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f54ec9f0-198b-40ce-867f-6a2991bdd204"/>
+</archimate:DataObject>

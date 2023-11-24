@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regeling"
+    id="id-adc0d1fac6f44e0d85635931b9d40e98"
+    documentation="Verzamelnaam voor AMvB‚Äôs, Ministeri√´le regelingen, lokale verordeningen, etc. De regeling is de meest concrete uitleg van de wet. ">
+  <properties
+      key="ggm-guid"
+      value="{C25455F3-FEB0-4c6d-9AA4-3B027718BEE3}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="4e56a1c8-3bdf-4bba-a9ea-f14fe822fc00"/>
+</archimate:DataObject>

@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REDEN VERLIES NATIONALITEIT"
+    id="id-03401a37a3494beb8e7bb7cc56ee88fd"
+    documentation="Tabel waarin de redenen staan voor beëindiging van de Nederlandse nationaliteit.">
+  <properties
+      key="ggm-guid"
+      value="{7F97B43F-CCA1-4bfc-9824-9BEC8D2A70E6}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3bf0a874-5cee-41cb-95aa-27ebd1e3fc99"/>
+</archimate:DataObject>

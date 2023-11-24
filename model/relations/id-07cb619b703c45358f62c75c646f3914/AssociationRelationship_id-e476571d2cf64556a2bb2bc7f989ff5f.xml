@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ligt aan"
+    id="id-e476571d2cf64556a2bb2bc7f989ff5f"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{34F0EC28-CB38-4287-9F1F-10F93ADE6DB4}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="45524d5f-a15e-43e3-afb1-4e41a147a326"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6c00f0cdd168444986d4cdb4e7b8ab4f.xml#id-6c00f0cdd168444986d4cdb4e7b8ab4f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-97b9fc3730154533a9a21deeb6ba604d.xml#id-97b9fc3730154533a9a21deeb6ba604d"/>
+</archimate:AssociationRelationship>

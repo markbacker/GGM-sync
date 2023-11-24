@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keuzebudgetbestedingsoort"
+    id="id-9456ae53e46543e1863f3ba1074bb822"
+    documentation="Typering van een keuzebudgetbesteding">
+  <properties
+      key="ggm-guid"
+      value="{A0051651-4772-436d-9553-B432BDCE3A52}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7159c2d0-59de-4c17-907a-b44897b6083a"/>
+</archimate:DataObject>

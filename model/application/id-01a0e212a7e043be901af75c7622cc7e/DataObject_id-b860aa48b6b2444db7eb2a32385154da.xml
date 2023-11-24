@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postadres"
+    id="id-b860aa48b6b2444db7eb2a32385154da"
+    documentation="De gegevens die tezamen een postbusadres of antwoordnummeradres vormen">
+  <properties
+      key="ggm-guid"
+      value="{990C2EBD-AB9B-4f3f-AFF0-18BA11A552DA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="KING"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1038d0a7-b6d8-4782-8937-f508b1159068"/>
+</archimate:DataObject>

@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="statusVerblijfsobject"
+    id="id-e775df9fea2d4d6f8e634898a984d985"
+    documentation="Een aanduiding van alle waarden die de status van een verblijfsobject kan aannemen. ">
+  <properties
+      key="ggm-guid"
+      value="{77D2A1A7-BD0E-4d9f-B1AB-4C150BBE9804}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="BAG"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1a7ec05b-0cf8-429d-bf46-172a9798e5c6"/>
+</archimate:DataObject>

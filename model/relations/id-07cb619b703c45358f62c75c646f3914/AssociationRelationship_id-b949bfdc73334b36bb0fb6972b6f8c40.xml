@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aantal volgens inzet"
+    id="id-b949bfdc73334b36bb0fb6972b6f8c40"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{2F508CBE-E926-4a6d-B85C-401E0BBCDA2F}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="03159c69-8bff-4d9c-b887-f303210adb03"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0aa8ef7d680a4c348d1a7961f571023e.xml#id-0aa8ef7d680a4c348d1a7961f571023e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-bd44c21e7feb4ce1ba8aef616c3bab36.xml#id-bd44c21e7feb4ce1ba8aef616c3bab36"/>
+</archimate:AssociationRelationship>

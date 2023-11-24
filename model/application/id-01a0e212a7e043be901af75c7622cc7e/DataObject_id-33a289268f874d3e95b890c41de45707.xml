@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NEN2767 Conditiescore"
+    id="id-33a289268f874d3e95b890c41de45707"
+    documentation="&lt;font color=&quot;#262626&quot;>NEN 2767 zorgt voor het uniform inspecteren en in kaart brengen van de technische staat van alle bouw- en installatie delen m.b.t. gebouwen en/of infrastructuur. Door middel van conditiescores maakt u gemakkelijk vergelijkingen tussen de verschillende onderhoudstoestanden van objecten. Zo heeft u met de resultaten inzicht in onderhoudskosten en mogelijke risico’s en zo kunt u meerjarige onderhoudsplanningen opstellen. Kortom, met deze norm kunt u de kwaliteit waarborgen.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{81CA4474-4D1E-485d-94F9-1243FA00B1FE}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Vastgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="80851394-958c-484b-9b8e-77d09cf2da20"/>
+</archimate:DataObject>

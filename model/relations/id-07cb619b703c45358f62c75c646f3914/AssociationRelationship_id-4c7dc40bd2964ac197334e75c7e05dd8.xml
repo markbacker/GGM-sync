@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is budgetverantwoordelijk"
+    id="id-4c7dc40bd2964ac197334e75c7e05dd8"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{6FF88F9A-09E6-4941-9752-49B5B854D383}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="6232ed4f-f4b9-413f-acac-468b3a9f47a0"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e166ccc4536744bba568fdcf8a229cea.xml#id-e166ccc4536744bba568fdcf8a229cea"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-abdcff5dadc242d295867d0deeefb062.xml#id-abdcff5dadc242d295867d0deeefb062"/>
+</archimate:AssociationRelationship>

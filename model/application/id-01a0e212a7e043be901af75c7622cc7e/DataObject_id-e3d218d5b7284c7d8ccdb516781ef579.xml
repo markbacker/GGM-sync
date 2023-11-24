@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REISDOCUMENT"
+    id="id-e3d218d5b7284c7d8ccdb516781ef579"
+    documentation="Een document dat vereist is voor reizen naar het buitenland">
+  <properties
+      key="ggm-guid"
+      value="{CA9BC1BB-D572-4e47-BECF-17CFD379BD6A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="34f81120-3ca4-4be9-a4bf-5b33615d3d1a"/>
+</archimate:DataObject>

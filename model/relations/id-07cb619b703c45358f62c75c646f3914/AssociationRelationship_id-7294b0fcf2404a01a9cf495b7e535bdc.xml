@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="school heeft"
+    id="id-7294b0fcf2404a01a9cf495b7e535bdc"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{0B9864A5-0943-4b48-AB00-E932A450D1B7}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="c62eb32a-3e1e-498b-8bba-2821a49d3d5a"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cbc57f21ffd14e7589ec788467db1f23.xml#id-cbc57f21ffd14e7589ec788467db1f23"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ddcda38d828d451daba30f8338bb77da.xml#id-ddcda38d828d451daba30f8338bb77da"/>
+</archimate:AssociationRelationship>

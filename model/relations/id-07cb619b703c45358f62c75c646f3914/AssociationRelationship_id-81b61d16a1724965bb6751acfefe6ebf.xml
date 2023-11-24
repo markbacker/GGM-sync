@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="oefent uit"
+    id="id-81b61d16a1724965bb6751acfefe6ebf"
+    documentation="&lt;font color=&quot;#610e6a&quot;>De ROLlen die BETROKKENE heeft in de zaken waarin BETROKKENE een ROL speelt.&lt;/font>"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{066348C0-B9D0-49ba-A200-75D0213B2FB4}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="072960d0-e646-4717-82a7-2f423e18099e"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-033b7e0dc75444a6ad29583bc3b743ef.xml#id-033b7e0dc75444a6ad29583bc3b743ef"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b5d1c28052ba425c983169a6f55af2b0.xml#id-b5d1c28052ba425c983169a6f55af2b0"/>
+</archimate:AssociationRelationship>

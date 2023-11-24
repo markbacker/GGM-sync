@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_VerhardingsobjectWegfunctie"
+    id="id-352d89006a0b41a1a45d887a4da82797">
+  <properties
+      key="ggm-guid"
+      value="{{06D4FACD-7071-44E2-8E89-37BCFDD1FDB6}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="915ab99f-8bb1-47df-bd0c-32b4fd994e97"/>
+</archimate:DataObject>

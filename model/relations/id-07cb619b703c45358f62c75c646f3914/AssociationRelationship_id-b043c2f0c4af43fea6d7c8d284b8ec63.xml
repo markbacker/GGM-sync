@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft als locatie-adres"
+    id="id-b043c2f0c4af43fea6d7c8d284b8ec63"
+    documentation="De ADRESSEERBAAR OBJECT AANDUIDING bij het BENOEMD OBJECT waarin de VESTIGING (één van) haar lokatie(s) heeft en die bij inschrijving gekozen is als vestigingssadres."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{EC366E53-F18A-4208-AAFD-A255250D2F6A}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="d21c1821-6369-445b-b5eb-664894930a03"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6015d11f2d914b3494f4ce9275ba56ca.xml#id-6015d11f2d914b3494f4ce9275ba56ca"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e3f2b24b1084452fbe8907ea63d476e4.xml#id-e3f2b24b1084452fbe8907ea63d476e4"/>
+</archimate:AssociationRelationship>

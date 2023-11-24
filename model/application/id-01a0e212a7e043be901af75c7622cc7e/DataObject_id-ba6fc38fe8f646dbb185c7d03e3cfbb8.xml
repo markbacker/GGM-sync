@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_RioolputConstructieonderdeel"
+    id="id-ba6fc38fe8f646dbb185c7d03e3cfbb8">
+  <properties
+      key="ggm-guid"
+      value="{{23620E79-DC64-4F11-A8B1-DA8A2B872918}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="dac39f59-9aed-4c9c-a1e9-536b0a09dc5e"/>
+</archimate:DataObject>

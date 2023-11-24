@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt begrensd door"
+    id="id-0045a06478f64c15b73240b0601033bd"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{7C1BBED5-4316-433a-A13D-CB353DB9B13C}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="5b0c89bb-5664-4e37-8bed-ebf9b7d0edf4"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d7af80c4b24344dd808b37d5d17dd5c3.xml#id-d7af80c4b24344dd808b37d5d17dd5c3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-27cb84c0b9c640cea043cba60f8cfbf4.xml#id-27cb84c0b9c640cea043cba60f8cfbf4"/>
+</archimate:AssociationRelationship>

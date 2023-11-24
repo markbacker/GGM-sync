@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_SpeeltoestelToestelonderdeel"
+    id="id-a736818b3ef64be98c1c2bf762b9a610">
+  <properties
+      key="ggm-guid"
+      value="{{E02BE5A5-6D2B-414A-A19F-D4BC1E1B84C3}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="651a036b-7472-48d7-b74e-68ad4aa83974"/>
+</archimate:DataObject>

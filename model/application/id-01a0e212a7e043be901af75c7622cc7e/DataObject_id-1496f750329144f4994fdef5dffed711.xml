@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitnodiging"
+    id="id-1496f750329144f4994fdef5dffed711"
+    documentation="Een verzoek om iets bij te wonen.">
+  <properties
+      key="ggm-guid"
+      value="{BB182A6F-6935-4702-ABEA-B96E32A40B02}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Invitatie"/>
+  <properties
+      key="domein-iv3"
+      value="Inkoop"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e88e121d-0dd8-4542-a6f3-f0e9f50dabdb"/>
+</archimate:DataObject>

@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="locatie"
+    id="id-27cb84c0b9c640cea043cba60f8cfbf4">
+  <properties
+      key="ggm-guid"
+      value="{F25EE5A8-2CF4-498b-8DAD-8EEE48FAF3A5}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Archeologie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="b4776ebe-e12f-4fe5-8a1c-b669a7b2cb31"/>
+</archimate:DataObject>

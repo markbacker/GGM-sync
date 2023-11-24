@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verblijfsrecht ingeschreven natuurlijk persoon"
+    id="id-2c9b7a8e06954097aed5152dd3bd0720"
+    documentation="De gegevens om het verblijfsrecht vast te leggen.">
+  <properties
+      key="ggm-guid"
+      value="{0DC6F150-CF59-4376-A5F0-E0B600BE4C53}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="4a519f28-59d0-491e-831a-e03054acf8ca"/>
+</archimate:DataObject>

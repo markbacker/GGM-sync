@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft individueel keuzebudget"
+    id="id-67eee247482f4a25804a318d41031181"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{AEC374FB-B966-4408-9540-612BDB839919}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="55310bc9-8614-45f9-842d-13163833589b"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-775b620ac8ef4586a30cd72144875b6c.xml#id-775b620ac8ef4586a30cd72144875b6c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cf9e2c602fc247f8bb43f78436b348c9.xml#id-cf9e2c602fc247f8bb43f78436b348c9"/>
+</archimate:AssociationRelationship>

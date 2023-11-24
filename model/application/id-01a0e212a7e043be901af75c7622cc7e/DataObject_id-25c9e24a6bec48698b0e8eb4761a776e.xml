@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvraag"
+    id="id-25c9e24a6bec48698b0e8eb4761a776e"
+    documentation="(officieel) verzoek, iets (officieel) vragen aan een bevoegde macht.">
+  <properties
+      key="ggm-guid"
+      value="{446E3931-B9F2-4b5c-80E7-5B240B8F816F}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Verzoek"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a643ba67-fbd5-4c96-a3cb-7c7984933589"/>
+</archimate:DataObject>

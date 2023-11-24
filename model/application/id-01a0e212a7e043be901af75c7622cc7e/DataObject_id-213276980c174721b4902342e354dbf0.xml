@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TypeLabelpositie"
+    id="id-213276980c174721b4902342e354dbf0"
+    documentation="De positie van een label op de kaart, samengesteld uit plaatsingspunt en rotatiehoek. &#xA;">
+  <properties
+      key="ggm-guid"
+      value="{5EEC2C27-B576-4f86-9768-5E785592FA4F}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="DataType"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BGT"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Complex datatype"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="76f96a32-b147-4025-bd8c-5b5d8c0fcdaa"/>
+</archimate:DataObject>

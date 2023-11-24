@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="typeringOpenbareRuimte"
+    id="id-2bdee8d939bc470093ce97d69ee388e4"
+    documentation="De verschillende waarden die de typering van een openbare ruimte kan aannemen. ">
+  <properties
+      key="ggm-guid"
+      value="{AB6C1EDC-AF99-48fa-A1EB-DB9EA1ED58A9}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="BAG"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="04ac1286-a992-4931-9b71-6cfb1fc9b42e"/>
+</archimate:DataObject>

@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BENOEMD TERREIN"
+    id="id-452ff97b27554cdb8522d980e27c6e10"
+    documentation="Een STANDPLAATS, LIGPLAATS, of een OVERIG BENOEMD TERREIN.">
+  <properties
+      key="ggm-guid"
+      value="{73F1C4A1-481E-4052-A372-1A0895ED1295}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="Door KING toegevoegd objecttype (maakt geen deel uit van enige basisregistratie)."/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="71646263-5480-4a1c-9021-0dad3e40f0df"/>
+</archimate:DataObject>

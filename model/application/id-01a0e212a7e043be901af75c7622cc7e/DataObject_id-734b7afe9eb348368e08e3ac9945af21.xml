@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Soort spoor"
+    id="id-734b7afe9eb348368e08e3ac9945af21"
+    documentation="Gegevens over het soort spoor.">
+  <properties
+      key="ggm-guid"
+      value="{2F658B5B-1B89-437e-8EAD-FD544FD62A0A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="KING"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="8d4d90ed-48c5-4bee-a092-41ba3730e9a0"/>
+</archimate:DataObject>

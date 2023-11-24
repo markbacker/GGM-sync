@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMEENTE"
+    id="id-944d114290fe448b9eaf5fc708a92096"
+    documentation="Een gedeelte van het grondgebied van Nederland, ingesteld op basis van artikel 123 van de Grondwet.">
+  <properties
+      key="ggm-guid"
+      value="{B0D9792B-46E7-4b88-B267-C72691616733}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="Door KING toegevoegd objecttype, ontleend aan het GFO BG (maakt geen deel uit van enige basisregistratie)."/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ae33fbaf-c4fd-46e9-8b49-dacf3ebd7a95"/>
+</archimate:DataObject>

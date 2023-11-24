@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is van"
+    id="id-8f6f09669f824442a5c17845eff033b3"
+    documentation="&lt;font color=&quot;#610e6a&quot;>Aanduiding van de aard van het BESLUIT.&lt;/font>"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{90835500-2830-4eb0-812A-4088C8C3F672}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="dd9a848f-9a30-4ac5-aeef-a094d912632c"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-41db0ec30de4414e90e869bef54cc6d5.xml#id-41db0ec30de4414e90e869bef54cc6d5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-983aba5426a5459c9b978edabe0e921e.xml#id-983aba5426a5459c9b978edabe0e921e"/>
+</archimate:AssociationRelationship>

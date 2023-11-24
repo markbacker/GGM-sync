@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstituut"
+    id="id-bc4406595a774b5c972f4cd48f85ef2e"
+    documentation="Een instituut waar onderwijs wordt gegeven.">
+  <properties
+      key="ggm-guid"
+      value="{59F3063A-13A6-4cbc-A387-045A6B126746}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Onderwijsinstelling"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="165f59e4-05cc-4d78-aa38-2ec079473e33"/>
+</archimate:DataObject>

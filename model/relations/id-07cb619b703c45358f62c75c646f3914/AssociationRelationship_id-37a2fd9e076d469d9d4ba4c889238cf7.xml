@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gaat langs"
+    id="id-37a2fd9e076d469d9d4ba4c889238cf7"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{33F2F523-1BA7-4b83-A62D-19A8622465F5}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="25105141-f1de-4008-b09c-240ea14a2f8e"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-70c9b210e8ff4f6e823dcd1f84c9b67b.xml#id-70c9b210e8ff4f6e823dcd1f84c9b67b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ef9a459a40964bf5a0f5770af9f54bca.xml#id-ef9a459a40964bf5a0f5770af9f54bca"/>
+</archimate:AssociationRelationship>

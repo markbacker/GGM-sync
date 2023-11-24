@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mondt uit in"
+    id="id-e0bad772caa149009fd5744d01f99c61"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{AD817D28-F4F3-47c6-AB94-EE00A505B132}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="615b39ca-b971-47e4-aaa1-b20dff4c4117"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-5e58691fe9d74d26b2a10432252a0289.xml#id-5e58691fe9d74d26b2a10432252a0289"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-5ebdf30ead674302886d06a07e77e7b6.xml#id-5ebdf30ead674302886d06a07e77e7b6"/>
+</archimate:AssociationRelationship>

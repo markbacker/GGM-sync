@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indeling"
+    id="id-4cf11010cbf84acbae51d494ab171940"
+    documentation="Onderwerpen groeperen in samenhangende categorie√´n.">
+  <properties
+      key="ggm-guid"
+      value="{13119DEC-D451-4bec-BB37-7B1944ACCA9D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"
+      value="Archiefindeling"/>
+  <properties
+      key="domein-iv3"
+      value="Archief"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f87871a6-52c9-48e6-8d79-5a987d939902"/>
+</archimate:DataObject>

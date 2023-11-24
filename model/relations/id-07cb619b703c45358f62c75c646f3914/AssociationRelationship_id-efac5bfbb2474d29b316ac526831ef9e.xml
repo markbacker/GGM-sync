@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="in kader van"
+    id="id-efac5bfbb2474d29b316ac526831ef9e"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{34310019-D4F3-4952-97C7-EE9936584868}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="ecee04db-5cbc-43e7-83c6-45cc3a9aec88"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-da0fc0465d1747aca039d81773d2b80e.xml#id-da0fc0465d1747aca039d81773d2b80e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c8149e0f3df247e5b63c4eb943595d39.xml#id-c8149e0f3df247e5b63c4eb943595d39"/>
+</archimate:AssociationRelationship>

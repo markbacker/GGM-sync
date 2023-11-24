@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verblijfplaats AZC"
+    id="id-4c26e4a3f1594648b775612ae5a1d0f5">
+  <properties
+      key="ggm-guid"
+      value="{40C9655E-15CF-4b46-8B59-FD8D4CBC57B5}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Inburgering"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="072e023b-183e-46fc-bc24-0d1ba8f6ddfd"/>
+</archimate:DataObject>

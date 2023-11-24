@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft verlof"
+    id="id-28ca2536d74d4ab0b6be7d10ddaba74f"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{A4816678-4407-46e7-B5EC-2FEAB323A83A}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="d34b5df8-3711-4ac8-86b5-3096fd8d3f36"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cf9e2c602fc247f8bb43f78436b348c9.xml#id-cf9e2c602fc247f8bb43f78436b348c9"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3c4128d4eb204379a2403eaa6621a914.xml#id-3c4128d4eb204379a2403eaa6621a914"/>
+</archimate:AssociationRelationship>

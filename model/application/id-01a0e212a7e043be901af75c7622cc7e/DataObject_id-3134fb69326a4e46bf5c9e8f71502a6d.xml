@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlijden ingeschreven natuurlijk persoon"
+    id="id-3134fb69326a4e46bf5c9e8f71502a6d"
+    documentation="Gegevens over het overlijden van de ingeschreven natuurlijk persoon.">
+  <properties
+      key="ggm-guid"
+      value="{26BCBA8B-C96C-4fc1-8CC3-40698E0FB71E}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRP"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3cf625f5-ae71-4d2d-aade-42c856cb7adb"/>
+</archimate:DataObject>

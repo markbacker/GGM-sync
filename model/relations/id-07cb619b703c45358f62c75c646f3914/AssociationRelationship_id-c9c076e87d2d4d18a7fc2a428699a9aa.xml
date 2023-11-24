@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="procesleider"
+    id="id-c9c076e87d2d4d18a7fc2a428699a9aa"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{083C9CF6-C21B-46b3-A933-1DDAFA9F771F}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="66c8be9e-30a2-4dc5-b911-fd18caa81ab2"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cdd4d73422804e2eb2930c966e95c826.xml#id-cdd4d73422804e2eb2930c966e95c826"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-758e266f28a14ec2963e71ffa0563f62.xml#id-758e266f28a14ec2963e71ffa0563f62"/>
+</archimate:AssociationRelationship>

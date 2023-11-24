@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft financiele situatie"
+    id="id-4895425be786487bbdea28fc2d830163"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{F322131F-9EF6-47c6-8571-1D9568CE3393}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="139e8263-9e17-44d8-ad0f-b8acedd0bc1d"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-718b307e056940c694a2d5fdb403d87d.xml#id-718b307e056940c694a2d5fdb403d87d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-5f245246152b4d75b92b1d1e3b360e93.xml#id-5f245246152b4d75b92b1d1e3b360e93"/>
+</archimate:AssociationRelationship>

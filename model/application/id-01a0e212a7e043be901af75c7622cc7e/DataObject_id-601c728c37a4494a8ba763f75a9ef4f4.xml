@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TypeAdresseerbaarObject"
+    id="id-601c728c37a4494a8ba763f75a9ef4f4">
+  <properties
+      key="ggm-guid"
+      value="{8C51DCF1-E81C-4590-88B2-EE5661B15F9A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="BAG"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1e60505a-d513-42be-8e6d-ce134f45d626"/>
+</archimate:DataObject>

@@ -1,0 +1,34 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pomp"
+    id="id-cd171e1e3f4a4fb9af6ddef982de839b"
+    documentation="Een technische installatie die het (afval) water onder druk transporteert.">
+  <properties
+      key="ggm-guid"
+      value="{01E06F2E-E561-4D6E-8625-2D0F284BE88}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a59aaeeb-17f8-4431-9127-ec9eb2270b3e"/>
+</archimate:DataObject>

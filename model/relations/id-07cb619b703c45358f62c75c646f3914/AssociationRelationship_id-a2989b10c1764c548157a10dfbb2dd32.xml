@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="volgens"
+    id="id-a2989b10c1764c548157a10dfbb2dd32"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{27329A36-5B92-44c6-8A47-EE43404FD628}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="ef163144-d404-41d1-9527-0c3ce369d4ec"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dee240da52524f1095b1cacd5d382c42.xml#id-dee240da52524f1095b1cacd5d382c42"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-70c9b210e8ff4f6e823dcd1f84c9b67b.xml#id-70c9b210e8ff4f6e823dcd1f84c9b67b"/>
+</archimate:AssociationRelationship>

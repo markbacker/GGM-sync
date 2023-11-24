@@ -1,0 +1,33 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soortWoonobject"
+    id="id-af02127fe3ef4939a4a9bfe6ad94889e"
+    documentation="&lt;font color=&quot;#0f0f0f&quot;>De verschillende waarden die een soort woonobject kan aannemen.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{C862F3C5-9E96-4755-B8B6-10A1508FD768}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"/>
+  <properties
+      key="bron"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="BAG"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="fafa7e61-79b0-48d3-a7ba-6bf3639a6b52"/>
+</archimate:DataObject>

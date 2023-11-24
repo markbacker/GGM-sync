@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monument bouwactiviteit"
+    id="id-2f87c42e737c4986b419f6a3066bf43e"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{55585CB9-E569-47ca-9EFE-B9D5CF46BCBD}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="aa3e673d-b894-445e-8fcc-7f7df191dd22"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7557138f32414bf09da471dd46f482d6.xml#id-7557138f32414bf09da471dd46f482d6"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f366d838f412424d9de5fa1524e26d57.xml#id-f366d838f412424d9de5fa1524e26d57"/>
+</archimate:AssociationRelationship>

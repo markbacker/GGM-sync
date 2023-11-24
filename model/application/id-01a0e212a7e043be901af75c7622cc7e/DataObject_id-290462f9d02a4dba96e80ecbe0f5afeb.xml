@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Soort scheiding"
+    id="id-290462f9d02a4dba96e80ecbe0f5afeb"
+    documentation="Gegevens over de soort scheiding">
+  <properties
+      key="ggm-guid"
+      value="{E500F84E-81CE-4984-832E-C3B53D14722A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="24/11/2023 10:29:14"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="KING"/>
+  <properties
+      key="toelichting"
+      value="undefined"/>
+  <properties
+      key="synoniemen"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7cc61936-50ab-43cf-91a2-ba6162ee2308"/>
+</archimate:DataObject>

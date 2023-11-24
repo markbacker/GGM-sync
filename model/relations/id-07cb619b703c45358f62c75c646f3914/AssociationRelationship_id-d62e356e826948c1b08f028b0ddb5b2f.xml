@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderkent leefgebiieden"
+    id="id-d62e356e826948c1b08f028b0ddb5b2f"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{CA494862-38C0-4098-8995-1953CABDDBF3}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="886b81d0-b1bb-4cec-98d7-fde51115a687"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0602bb84550548f0acd07a768ad24b97.xml#id-0602bb84550548f0acd07a768ad24b97"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-19e10215a5cd4ad1818ba12d7ea12add.xml#id-19e10215a5cd4ad1818ba12d7ea12add"/>
+</archimate:AssociationRelationship>

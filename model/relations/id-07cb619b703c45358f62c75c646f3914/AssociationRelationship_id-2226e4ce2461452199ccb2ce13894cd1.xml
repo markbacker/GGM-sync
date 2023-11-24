@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afgerond met"
+    id="id-2226e4ce2461452199ccb2ce13894cd1"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{61E77119-7B76-4855-9CFE-39C02A9AB2E8}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="1f084be1-3f96-4f6b-9e5f-b98492eaa83b"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e2242a86ad474b57b69a4883a3a23c4d.xml#id-e2242a86ad474b57b69a4883a3a23c4d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8544c6d73cf44ef1a52279e44ee1e2fd.xml#id-8544c6d73cf44ef1a52279e44ee1e2fd"/>
+</archimate:AssociationRelationship>

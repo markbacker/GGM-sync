@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Indiener (Veiligheid en Vergunningen)"/>
+  <properties
+      key="Object ID"
+      value="cae2e372-edbe-48fc-a63f-54da2a6fe4bf"/>
 </archimate:BusinessObject>

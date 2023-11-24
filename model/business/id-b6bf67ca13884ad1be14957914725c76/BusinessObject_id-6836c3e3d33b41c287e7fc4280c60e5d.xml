@@ -35,4 +35,7 @@
   <properties
       key="Meer specifiek"
       value="OVERIG BENOEMD TERREIN, STANDPLAATS, LIGPLAATS"/>
+  <properties
+      key="Object ID"
+      value="598a8f2b-89bc-4424-83ca-20e62ffd105b"/>
 </archimate:BusinessObject>

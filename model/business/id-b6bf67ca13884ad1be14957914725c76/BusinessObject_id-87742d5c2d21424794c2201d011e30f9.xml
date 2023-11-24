@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Archiefstuk, Museumobject"/>
+  <properties
+      key="Object ID"
+      value="c3fe6c0e-a07a-4650-a649-007d7a2deaac"/>
 </archimate:BusinessObject>

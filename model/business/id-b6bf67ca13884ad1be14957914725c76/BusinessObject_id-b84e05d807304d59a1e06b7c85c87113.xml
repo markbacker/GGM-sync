@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Product (Financien)"/>
+  <properties
+      key="Object ID"
+      value="df900141-13eb-4720-8ade-9f8d74ad7ee8"/>
 </archimate:BusinessObject>

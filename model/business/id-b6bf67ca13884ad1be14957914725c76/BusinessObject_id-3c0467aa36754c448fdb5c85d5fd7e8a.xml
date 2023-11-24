@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Studentenwoningen, Koopwoningen, Huurwoningen"/>
+  <properties
+      key="Object ID"
+      value="90a9ccde-ef4b-42ac-8bcf-2f6b53bec0aa"/>
 </archimate:BusinessObject>

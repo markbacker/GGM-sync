@@ -37,4 +37,7 @@
   <properties
       key="alternate name"
       value="AanvraagOfMelding (Dienstverlening)"/>
+  <properties
+      key="Object ID"
+      value="7c92be69-6b74-4580-9151-b8766a626196"/>
 </archimate:BusinessObject>

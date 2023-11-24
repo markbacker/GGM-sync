@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Put (Archeologie)"/>
+  <properties
+      key="Object ID"
+      value="974b824c-5b3d-463e-aad9-679db944df2f"/>
 </archimate:BusinessObject>

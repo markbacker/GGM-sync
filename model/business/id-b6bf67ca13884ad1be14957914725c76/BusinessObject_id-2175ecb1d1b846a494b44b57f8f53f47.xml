@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="Melding (ICT)"/>
+  <properties
+      key="Object ID"
+      value="b497a15f-0e4a-4b28-82f2-1d0ca694fb98"/>
 </archimate:BusinessObject>

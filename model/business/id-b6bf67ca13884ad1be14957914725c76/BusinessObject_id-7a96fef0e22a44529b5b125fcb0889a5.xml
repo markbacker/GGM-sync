@@ -35,4 +35,7 @@
   <properties
       key="Meer specifiek"
       value="Hotel, Verkooppunt"/>
+  <properties
+      key="Object ID"
+      value="1d8702bb-e2e5-4355-a16f-fee75f5d26d6"/>
 </archimate:BusinessObject>

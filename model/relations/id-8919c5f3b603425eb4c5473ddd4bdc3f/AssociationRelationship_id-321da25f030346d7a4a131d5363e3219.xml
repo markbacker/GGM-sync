@@ -16,6 +16,9 @@
   <properties
       key="Latest GGM GEMMA sync"
       value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <properties
+      key="Object ID"
+      value="d4d649fe-542b-41f5-b788-82d63f40ee2a"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-04d4a04d5d0745c9a8e315ff0e257aa6.xml#id-04d4a04d5d0745c9a8e315ff0e257aa6"/>

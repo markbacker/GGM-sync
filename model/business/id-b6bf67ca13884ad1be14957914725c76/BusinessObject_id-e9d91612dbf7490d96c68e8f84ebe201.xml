@@ -37,4 +37,7 @@
   <properties
       key="alternate name"
       value="Locatie (Generiek)"/>
+  <properties
+      key="Object ID"
+      value="19e8f5b8-fd8f-464e-b65b-e9de0d589629"/>
 </archimate:BusinessObject>

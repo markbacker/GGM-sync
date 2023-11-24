@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Werknemer, Clientbegeleider, Samensteller, Leerplichtambtenaar"/>
+  <properties
+      key="Object ID"
+      value="662dc796-61e4-42ba-9ee6-28b33b2b83e6"/>
 </archimate:BusinessObject>

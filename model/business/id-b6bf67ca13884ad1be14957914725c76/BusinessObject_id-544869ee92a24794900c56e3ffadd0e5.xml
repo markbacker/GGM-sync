@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Balieverkoop Entreekaart"/>
+  <properties
+      key="Object ID"
+      value="ff14371c-cbce-4dea-bd75-75f238d37b49"/>
 </archimate:BusinessObject>

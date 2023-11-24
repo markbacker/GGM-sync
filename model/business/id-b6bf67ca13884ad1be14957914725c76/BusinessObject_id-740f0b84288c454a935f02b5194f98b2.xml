@@ -35,4 +35,7 @@
   <properties
       key="Meer specifiek"
       value="STANDPLAATS, LIGPLAATS, VERBLIJFSOBJECT, OVERIG GEBOUWD OBJECT"/>
+  <properties
+      key="Object ID"
+      value="f471c6f6-eb04-463a-b2b5-1e0f2907e092"/>
 </archimate:BusinessObject>

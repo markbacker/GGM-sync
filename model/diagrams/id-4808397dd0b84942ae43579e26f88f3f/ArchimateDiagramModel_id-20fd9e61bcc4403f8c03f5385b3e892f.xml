@@ -263,6 +263,12 @@
         href="BusinessObject_id-e76f57a20a8b45a480495d66b077d020.xml#id-e76f57a20a8b45a480495d66b077d020"/>
   </children>
   <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;GenerateMultiple&quot;,&#xA; &quot;graphDepth&quot;: 2,&#xA; &quot;includeElementType&quot;: [&#xA;  &quot;business-object&quot;,&#xA;  &quot;grouping&quot;&#xA; ],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;&#xA; ],&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 180,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 60,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewName&quot;: &quot;Verkeer&quot;&#xA;}"/>
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="domein-iv3"
+      value="Verkeer"/>
+  <properties
+      key="Object ID"
+      value="d9c5d8c2-a8c5-49df-ba59-f28fe3975d02"/>
 </archimate:ArchimateDiagramModel>

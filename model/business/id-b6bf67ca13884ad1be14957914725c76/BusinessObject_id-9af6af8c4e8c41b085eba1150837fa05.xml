@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="WOONPLAATS (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="4776e17d-a6a8-4f52-bc44-aba021d93c94"/>
 </archimate:BusinessObject>

@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Aanvraag (Archief)"/>
+  <properties
+      key="Object ID"
+      value="fb5df76a-0eda-4a03-8b3f-7618123e95fd"/>
 </archimate:BusinessObject>

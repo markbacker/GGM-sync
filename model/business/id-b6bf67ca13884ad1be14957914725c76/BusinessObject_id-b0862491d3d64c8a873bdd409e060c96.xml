@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Belprovider, Uitvoerder Graafwerkzaamheden, Vervoerder"/>
+  <properties
+      key="Object ID"
+      value="a48a7d8d-a6c9-4c2c-826e-cd22d93b2220"/>
 </archimate:BusinessObject>

@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="HUISHOUDEN (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="eca5390a-8adb-463c-a3c1-5c08d135e4e7"/>
 </archimate:BusinessObject>

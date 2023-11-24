@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="WABOAanvraagOfMelding, VTHAanvraagOfMelding"/>
+  <properties
+      key="Object ID"
+      value="35f09f0e-6175-4e28-bb9c-4536fbd844a2"/>
 </archimate:BusinessObject>

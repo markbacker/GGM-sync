@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Omgevingswaarde, Omgevingsnorm"/>
+  <properties
+      key="Object ID"
+      value="f0e5b78b-6cbe-4bb7-a9d5-414ff1909c9e"/>
 </archimate:BusinessObject>

@@ -94,6 +94,12 @@
         href="BusinessObject_id-4cec999bb6a54bdea6237415b44d2a75.xml#id-4cec999bb6a54bdea6237415b44d2a75"/>
   </children>
   <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;GenerateMultiple&quot;,&#xA; &quot;graphDepth&quot;: 2,&#xA; &quot;includeElementType&quot;: [&#xA;  &quot;business-object&quot;,&#xA;  &quot;grouping&quot;&#xA; ],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;&#xA; ],&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 180,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 60,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewName&quot;: &quot;Gemeentebegrafenissen&quot;&#xA;}"/>
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="domein-iv3"
+      value="Gemeentebegrafenissen"/>
+  <properties
+      key="Object ID"
+      value="24a438ce-cbe9-436b-bc80-b99bba044ace"/>
 </archimate:ArchimateDiagramModel>

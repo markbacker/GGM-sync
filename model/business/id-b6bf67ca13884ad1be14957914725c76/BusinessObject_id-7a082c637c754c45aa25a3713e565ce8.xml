@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Asielstatushouder, Gezinsmigrant en Overige migrant&#xA;"/>
+  <properties
+      key="Object ID"
+      value="50c5435c-dd53-4862-868f-9114f3d948e7"/>
 </archimate:BusinessObject>

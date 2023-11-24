@@ -2065,6 +2065,9 @@
         href="DataObject_id-fbb546dd07274fe2ba2650c2b1160007.xml#id-fbb546dd07274fe2ba2650c2b1160007"/>
   </children>
   <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;GenerateMultiple&quot;,&#xA; &quot;graphDepth&quot;: 2,&#xA; &quot;includeElementType&quot;: [&#xA;  &quot;data-object&quot;,&#xA;  &quot;grouping&quot;&#xA; ],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;&#xA; ],&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 180,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 60,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewNameSuffix&quot;: &quot; (GGM)&quot;,&#xA; &quot;viewName&quot;: &quot;Dienstverlening (GGM)&quot;&#xA;}"/>
+      key="domein-iv3"
+      value="Dienstverlening"/>
+  <properties
+      key="Object ID"
+      value="515af3c7-5cb5-4388-91e8-99a3d5114a5f"/>
 </archimate:ArchimateDiagramModel>

@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Aanbesteding (Vastgoed)"/>
+  <properties
+      key="Object ID"
+      value="1bd61c4d-398a-4d98-b818-396c71feaf38"/>
 </archimate:BusinessObject>

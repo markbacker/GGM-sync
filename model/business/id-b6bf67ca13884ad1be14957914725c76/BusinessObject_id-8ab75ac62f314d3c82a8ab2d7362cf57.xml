@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Bak, Sensor, Weginrichtingsobject, Waterobject, Waterinrichtingsobject, Verlichtingsobject, Verhardingsobject, Vegetatieobject, Tunnelobject, Terreindeel, Scheiding, Put, Paal, Overbruggingsobject, Meubilair, Mast, Leidingelement, Leiding, Kunstwerk, Kast, Installatie, Groenobject, FunctioneelGebied, Bouwwerk, Bord"/>
+  <properties
+      key="Object ID"
+      value="b7a968bd-3545-4b2f-ab86-7d20c8673de4"/>
 </archimate:BusinessObject>

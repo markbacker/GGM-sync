@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="PAND (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="41e9dbd7-cedb-40f3-8347-08b230dc0d86"/>
 </archimate:BusinessObject>

@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Bergingsbassin"/>
+  <properties
+      key="Object ID"
+      value="57ad1b0a-52ae-4ca6-bd1c-f1aa77e63d05"/>
 </archimate:BusinessObject>

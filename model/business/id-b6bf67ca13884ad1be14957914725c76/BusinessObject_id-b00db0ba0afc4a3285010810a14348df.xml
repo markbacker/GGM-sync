@@ -33,4 +33,7 @@
   <properties
       key="Meer specifiek"
       value="B1, Z, Onderwijs"/>
+  <properties
+      key="Object ID"
+      value="fcef85d2-edb6-4ae0-b745-e5f61cad472b"/>
 </archimate:BusinessObject>

@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Traject (Participatie)"/>
+  <properties
+      key="Object ID"
+      value="fe87014e-568e-4e5e-abb8-6c45b415b830"/>
 </archimate:BusinessObject>

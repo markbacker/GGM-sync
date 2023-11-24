@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Boom, Klimplant, SolitairePlant"/>
+  <properties
+      key="Object ID"
+      value="4b7ac4f2-0d49-4600-84b7-ce1f364903ec"/>
 </archimate:BusinessObject>

@@ -37,4 +37,7 @@
   <properties
       key="alternate name"
       value="Melding (Beheer Openbare Ruimte)"/>
+  <properties
+      key="Object ID"
+      value="2b66ffb6-e507-4ff0-85b1-2d4661c6e85c"/>
 </archimate:BusinessObject>

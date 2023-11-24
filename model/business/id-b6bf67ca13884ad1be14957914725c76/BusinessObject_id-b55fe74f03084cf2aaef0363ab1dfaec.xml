@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Raadslid, Collegelid"/>
+  <properties
+      key="Object ID"
+      value="af0e1137-963d-4d84-a072-8ee0454e93ac"/>
 </archimate:BusinessObject>

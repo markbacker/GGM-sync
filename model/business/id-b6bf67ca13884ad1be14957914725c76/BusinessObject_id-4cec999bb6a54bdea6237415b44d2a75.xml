@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="INGESCHREVEN PERSOON, Projectleider, Historisch Persoon , Bezoeker, Relatie, Vreemdeling, Relatie, Sollicitant"/>
+  <properties
+      key="Object ID"
+      value="2efa9685-5454-44b3-8807-37b3465de0de"/>
 </archimate:BusinessObject>

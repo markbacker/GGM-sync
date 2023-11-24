@@ -35,4 +35,7 @@
   <properties
       key="Meer specifiek"
       value="VERBLIJFSOBJECT, OVERIG GEBOUWD OBJECT"/>
+  <properties
+      key="Object ID"
+      value="358180c2-095f-4e28-a1bc-0e3bfcb483cb"/>
 </archimate:BusinessObject>

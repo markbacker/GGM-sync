@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="BUURT (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="bc0c11fd-c6ba-4764-bfd5-fd848840b9ff"/>
 </archimate:BusinessObject>

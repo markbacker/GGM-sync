@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Product (ICT)"/>
+  <properties
+      key="Object ID"
+      value="c84120e1-7a88-44b0-a33e-caedd06c80d6"/>
 </archimate:BusinessObject>

@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="OPENBARE RUIMTE (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="dfe42902-d009-473a-9cda-c8dce2a5db27"/>
 </archimate:BusinessObject>

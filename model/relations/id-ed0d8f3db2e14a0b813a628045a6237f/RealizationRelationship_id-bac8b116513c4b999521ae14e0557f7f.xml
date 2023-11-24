@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realiseert bedrijfsobject"
     id="id-bac8b116513c4b999521ae14e0557f7f">
+  <properties
+      key="Object ID"
+      value="d79950c9-054a-4ea2-b28b-791d7aa1e5a0"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-f39a5091a5664da5b3ba60d3ed586a97.xml#id-f39a5091a5664da5b3ba60d3ed586a97"/>

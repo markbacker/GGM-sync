@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="NUMMERAANDUIDING (BAG)"/>
+  <properties
+      key="Object ID"
+      value="9c85fad2-adf9-46a6-a3a1-e10d08451dd2"/>
 </archimate:BusinessObject>

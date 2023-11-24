@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Combibon, Fietsregistratie, Waarneming"/>
+  <properties
+      key="Object ID"
+      value="28e6399c-c773-4674-8484-d655566713bf"/>
 </archimate:BusinessObject>

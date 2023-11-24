@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Uitvoerder Graafwerkzaamheden"/>
+  <properties
+      key="Object ID"
+      value="460044c9-3e15-4bd0-9c2e-5dc57da30e1c"/>
 </archimate:BusinessObject>

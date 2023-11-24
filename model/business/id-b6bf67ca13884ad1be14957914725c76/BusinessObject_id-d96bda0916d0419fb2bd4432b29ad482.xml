@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Putdeksel, Verkeersdrempel"/>
+  <properties
+      key="Object ID"
+      value="4711380a-5965-42bd-9977-d64ed9e16a2b"/>
 </archimate:BusinessObject>

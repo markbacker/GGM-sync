@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Pomp"/>
+  <properties
+      key="Object ID"
+      value="6c64dd66-16a7-4666-a1fa-cba3a2e0ad39"/>
 </archimate:BusinessObject>

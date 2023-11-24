@@ -21,6 +21,12 @@
         href="Grouping_id-eaa32b9e108d4e34af8a178418d0b276.xml#id-eaa32b9e108d4e34af8a178418d0b276"/>
   </children>
   <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;GenerateMultiple&quot;,&#xA; &quot;graphDepth&quot;: 2,&#xA; &quot;includeElementType&quot;: [&#xA;  &quot;business-object&quot;,&#xA;  &quot;grouping&quot;&#xA; ],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [&#xA;  &quot;aggregation-relationship&quot;&#xA; ],&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 180,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 60,&#xA; &quot;debug&quot;: false,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewName&quot;: &quot;Groepattribuutsoort&quot;&#xA;}"/>
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="Object ID"
+      value="5570f2cc-49ac-4aee-8d1e-d00dfd0094f5"/>
 </archimate:ArchimateDiagramModel>

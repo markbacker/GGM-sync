@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Offerte (Inkoop)"/>
+  <properties
+      key="Object ID"
+      value="821a2085-6a84-460a-9e88-7718f32591ef"/>
 </archimate:BusinessObject>

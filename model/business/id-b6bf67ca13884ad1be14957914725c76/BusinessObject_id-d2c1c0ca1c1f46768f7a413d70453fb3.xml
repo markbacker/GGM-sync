@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Offerte (RGBZ Model)"/>
+  <properties
+      key="Object ID"
+      value="f30cbb45-f198-4442-93aa-36013f1625e2"/>
 </archimate:BusinessObject>

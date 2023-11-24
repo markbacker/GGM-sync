@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Melding (Afval)"/>
+  <properties
+      key="Object ID"
+      value="6f518281-4314-492b-af35-57fb7809a922"/>
 </archimate:BusinessObject>

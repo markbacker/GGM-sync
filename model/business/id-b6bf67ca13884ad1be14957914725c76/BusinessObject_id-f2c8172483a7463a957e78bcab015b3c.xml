@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="GEMEENTE (BAG)"/>
+  <properties
+      key="Object ID"
+      value="163ea691-4591-4a47-868d-4662b940ad50"/>
 </archimate:BusinessObject>

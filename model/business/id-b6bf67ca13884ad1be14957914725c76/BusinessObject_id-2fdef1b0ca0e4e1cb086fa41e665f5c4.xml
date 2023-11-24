@@ -37,4 +37,7 @@
   <properties
       key="alternate name"
       value="Put (Beheer Openbare Ruimte)"/>
+  <properties
+      key="Object ID"
+      value="0cbd990b-9d84-49b0-b3ad-c3766efe8255"/>
 </archimate:BusinessObject>

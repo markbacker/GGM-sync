@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Projectontwikkelaar, Sportvereniging, School, Onderwijsinstituut"/>
+  <properties
+      key="Object ID"
+      value="f7910cc9-9617-41fd-b16b-527e5178fb64"/>
 </archimate:BusinessObject>

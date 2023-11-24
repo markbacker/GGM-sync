@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Instructieregel, Omgevingswaarderegel, Regel voor Iedereen"/>
+  <properties
+      key="Object ID"
+      value="199f4dc5-976c-431e-a065-257281e50fa5"/>
 </archimate:BusinessObject>

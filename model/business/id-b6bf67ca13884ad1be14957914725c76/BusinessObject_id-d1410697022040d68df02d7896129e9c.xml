@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="OPENBARE RUIMTE (BAG)"/>
+  <properties
+      key="Object ID"
+      value="bce07d06-7c2d-4a2e-994a-91b19f4949c7"/>
 </archimate:BusinessObject>

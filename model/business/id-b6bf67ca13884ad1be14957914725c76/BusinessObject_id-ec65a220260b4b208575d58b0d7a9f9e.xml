@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="WIJK (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="8d7f6699-eda1-438d-87bf-29ffbf5309a0"/>
 </archimate:BusinessObject>

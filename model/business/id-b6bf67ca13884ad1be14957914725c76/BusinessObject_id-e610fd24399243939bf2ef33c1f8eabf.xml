@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Beperkingsgebied, Functie"/>
+  <properties
+      key="Object ID"
+      value="9a36ae99-20ea-4c0c-9a7a-e05ef55c845e"/>
 </archimate:BusinessObject>

@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="Aanvraag (ICT)"/>
+  <properties
+      key="Object ID"
+      value="4cd3b466-1929-49dc-92ce-4f90e05bb085"/>
 </archimate:BusinessObject>

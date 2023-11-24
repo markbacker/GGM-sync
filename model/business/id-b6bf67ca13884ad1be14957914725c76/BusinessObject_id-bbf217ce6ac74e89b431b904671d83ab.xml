@@ -35,4 +35,7 @@
   <properties
       key="Meer specifiek"
       value="APPARTEMENTSRECHT, KADASTRAAL PERCEEL"/>
+  <properties
+      key="Object ID"
+      value="92e2ca26-4026-49d3-9a12-501d52af93f3"/>
 </archimate:BusinessObject>

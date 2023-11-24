@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Zakelijk Recht (Vastgoed)"/>
+  <properties
+      key="Object ID"
+      value="c7263be9-6a2e-4fe1-b00d-b119629afa34"/>
 </archimate:BusinessObject>

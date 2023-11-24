@@ -37,4 +37,7 @@
   <properties
       key="alternate name"
       value="Product (Museum)"/>
+  <properties
+      key="Object ID"
+      value="ab36d438-8429-4805-b356-d3815a1acdc6"/>
 </archimate:BusinessObject>

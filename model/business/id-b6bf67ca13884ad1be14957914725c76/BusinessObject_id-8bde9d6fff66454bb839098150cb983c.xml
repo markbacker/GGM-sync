@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Brug, Ecoduct, Flyover, Viaduct"/>
+  <properties
+      key="Object ID"
+      value="2a706ca4-ab34-4db5-bed4-f521219795c2"/>
 </archimate:BusinessObject>

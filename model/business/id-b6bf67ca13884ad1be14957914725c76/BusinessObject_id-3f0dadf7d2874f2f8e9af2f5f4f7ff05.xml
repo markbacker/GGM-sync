@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Gemaal, Uitlaatconstructie, Overstortconstructie"/>
+  <properties
+      key="Object ID"
+      value="29d1144d-3c27-4070-a8dc-e600cd1681e5"/>
 </archimate:BusinessObject>

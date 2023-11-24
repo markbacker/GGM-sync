@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Binnenlocatie, Sportpark"/>
+  <properties
+      key="Object ID"
+      value="c03b8840-e3ee-4723-9b45-968230d99bff"/>
 </archimate:BusinessObject>

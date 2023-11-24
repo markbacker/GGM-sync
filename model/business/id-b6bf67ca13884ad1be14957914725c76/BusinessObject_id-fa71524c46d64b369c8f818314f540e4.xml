@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Doelstelling (Sociale Teams)"/>
+  <properties
+      key="Object ID"
+      value="e3add78c-ebdd-4387-9e6f-aade659ede36"/>
 </archimate:BusinessObject>

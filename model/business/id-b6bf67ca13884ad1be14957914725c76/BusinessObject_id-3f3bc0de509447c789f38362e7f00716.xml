@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Afvalbak"/>
+  <properties
+      key="Object ID"
+      value="20bdbe1f-e58b-41aa-b851-d75354f7bb29"/>
 </archimate:BusinessObject>

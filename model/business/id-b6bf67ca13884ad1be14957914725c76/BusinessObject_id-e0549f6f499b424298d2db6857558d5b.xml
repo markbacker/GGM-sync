@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Inschrijving (Inkoop)"/>
+  <properties
+      key="Object ID"
+      value="e911c26f-1bae-48d5-8f1d-6da627e1b965"/>
 </archimate:BusinessObject>

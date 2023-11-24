@@ -37,4 +37,7 @@
   <properties
       key="alternate name"
       value="AanvraagOfMelding (Leerplicht en Leerlingenvervoer)"/>
+  <properties
+      key="Object ID"
+      value="e318afda-68e5-4a9c-8024-8606da8cc7f0"/>
 </archimate:BusinessObject>

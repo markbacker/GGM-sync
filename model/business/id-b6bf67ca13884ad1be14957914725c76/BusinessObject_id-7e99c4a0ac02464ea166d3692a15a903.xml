@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Locatie"/>
+  <properties
+      key="Object ID"
+      value="812431bf-63f4-4e88-8c99-fa717da3d951"/>
 </archimate:BusinessObject>

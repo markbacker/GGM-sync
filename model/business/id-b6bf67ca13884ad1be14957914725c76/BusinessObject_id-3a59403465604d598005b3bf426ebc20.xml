@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="WOONPLAATS (BAG)"/>
+  <properties
+      key="Object ID"
+      value="30f61c0e-b252-4020-b722-0b2eec076279"/>
 </archimate:BusinessObject>

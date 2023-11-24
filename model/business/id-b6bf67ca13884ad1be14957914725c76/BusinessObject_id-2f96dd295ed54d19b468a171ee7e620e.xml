@@ -35,4 +35,7 @@
   <properties
       key="Meer specifiek"
       value="Beschikking Leerlingenvervoer, Vrijstelling, Procesverbaal Onderwijs, Doorgeleiding OM, HALT-verwijzing"/>
+  <properties
+      key="Object ID"
+      value="d1290397-50b7-4d48-afd5-6ded5ed054e9"/>
 </archimate:BusinessObject>

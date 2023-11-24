@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Traject (Schuldhulpverlening)"/>
+  <properties
+      key="Object ID"
+      value="eb96e972-e415-4393-b11c-875cb343c7a4"/>
 </archimate:BusinessObject>

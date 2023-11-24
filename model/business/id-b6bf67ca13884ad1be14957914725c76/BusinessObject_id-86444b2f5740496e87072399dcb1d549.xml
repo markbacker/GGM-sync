@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Verplichting WMO Jeugd"/>
+  <properties
+      key="Object ID"
+      value="66e0a223-f184-4a70-8e64-305f3f6c7f2d"/>
 </archimate:BusinessObject>

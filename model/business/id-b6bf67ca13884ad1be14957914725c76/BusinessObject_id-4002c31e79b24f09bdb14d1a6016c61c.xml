@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Bemalingsgebied, Stuwgebied, Sportterrein, Speelterrein, Rioleringsgebied"/>
+  <properties
+      key="Object ID"
+      value="5ed647f8-8afa-4131-a9a3-abdfcbf5c6da"/>
 </archimate:BusinessObject>

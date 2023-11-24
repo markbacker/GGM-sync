@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Doelstelling (Financien)"/>
+  <properties
+      key="Object ID"
+      value="859c7e3d-7b68-433a-991f-158adda19bc0"/>
 </archimate:BusinessObject>

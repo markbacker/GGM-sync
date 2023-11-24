@@ -34,4 +34,7 @@
   <properties
       key="alternate name"
       value="Activiteit (Omgevingswet)"/>
+  <properties
+      key="Object ID"
+      value="b19733c4-5d1a-4a90-81e7-9b58674deb1f"/>
 </archimate:BusinessObject>

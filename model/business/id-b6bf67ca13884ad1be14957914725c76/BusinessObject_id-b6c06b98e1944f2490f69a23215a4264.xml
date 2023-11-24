@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Linkbaar CMDB-item, Vervoersmiddel, Toegangsmiddel, Software, Nertwerkcomponent, Licentie, Inventaris, Hardware"/>
+  <properties
+      key="Object ID"
+      value="416cafe5-7bb4-4c73-a917-8e8cc611892b"/>
 </archimate:BusinessObject>

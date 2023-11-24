@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Conclusie, Indieningsvereisten, Maatregelen"/>
+  <properties
+      key="Object ID"
+      value="5274482a-33aa-4f6d-9972-6784301e3e7f"/>
 </archimate:BusinessObject>

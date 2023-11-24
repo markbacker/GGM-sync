@@ -33,4 +33,7 @@
   <properties
       key="Meer specifiek"
       value="Parkeergarage"/>
+  <properties
+      key="Object ID"
+      value="24cadcc2-e87d-44e2-bc43-8ab3f61fcba5"/>
 </archimate:BusinessObject>

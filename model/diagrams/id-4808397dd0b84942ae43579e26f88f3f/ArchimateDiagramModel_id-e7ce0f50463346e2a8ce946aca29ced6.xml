@@ -708,6 +708,12 @@
         href="Grouping_id-11db6e08c777451c92c25d2ce6c666eb.xml#id-11db6e08c777451c92c25d2ce6c666eb"/>
   </children>
   <properties
-      key="generate_view_param"
-      value="{&#xA; &quot;action&quot;: &quot;Generate&quot;,&#xA; &quot;graphDepth&quot;: 1,&#xA; &quot;includeElementType&quot;: [],&#xA; &quot;includeRelationType&quot;: [],&#xA; &quot;layoutReversed&quot;: [&#xA;  &quot;realization-relationship&quot;,&#xA;  &quot;serving-relationship&quot;,&#xA;  &quot;specialization-relationship&quot;&#xA; ],&#xA; &quot;layoutNested&quot;: [],&#xA; &quot;graphDirection&quot;: &quot;LR&quot;,&#xA; &quot;ranker&quot;: &quot;network-simplex&quot;,&#xA; &quot;nodeWidth&quot;: 200,&#xA; &quot;nodeHeight&quot;: 60,&#xA; &quot;hSep&quot;: 20,&#xA; &quot;vSep&quot;: 180,&#xA; &quot;debug&quot;: true,&#xA; &quot;viewNameSuffix&quot;: &quot;&quot;,&#xA; &quot;viewName&quot;: &quot;Geo-Object&quot;&#xA;}"/>
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="Object ID"
+      value="243516f8-6be3-4a7d-abf8-13a69a803f6c"/>
 </archimate:ArchimateDiagramModel>

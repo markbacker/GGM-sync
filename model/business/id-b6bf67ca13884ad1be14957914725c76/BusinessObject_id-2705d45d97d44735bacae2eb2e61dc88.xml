@@ -34,4 +34,7 @@
   <properties
       key="Meer specifiek"
       value="Auteur"/>
+  <properties
+      key="Object ID"
+      value="d02ef5bf-d4c3-4518-9064-39fc863b0053"/>
 </archimate:BusinessObject>

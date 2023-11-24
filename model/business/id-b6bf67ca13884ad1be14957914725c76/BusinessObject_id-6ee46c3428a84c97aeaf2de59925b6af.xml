@@ -35,4 +35,7 @@
   <properties
       key="alternate name"
       value="GEMEENTE (RSGB Model)"/>
+  <properties
+      key="Object ID"
+      value="2ad467a1-6fb1-43bf-a049-71cd3ece24ea"/>
 </archimate:BusinessObject>

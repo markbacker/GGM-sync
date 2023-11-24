@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="maakt deel uit van"
+    id="id-897d46f5e23f4364846629e8df78d5d5"
+    documentation="De unieke aanduidingen van de PANDEN waarvan het VERBLIJFSOBJECT onderdeel uitmaakt."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{3644F34A-DFBA-455b-8EB9-E35A0FF1CD92}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-625b2549331c452db770661adb0ab2a9.xml#id-625b2549331c452db770661adb0ab2a9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8159b2d7716d4100a7de445ab2e2f84d.xml#id-8159b2d7716d4100a7de445ab2e2f84d"/>
+</archimate:AssociationRelationship>

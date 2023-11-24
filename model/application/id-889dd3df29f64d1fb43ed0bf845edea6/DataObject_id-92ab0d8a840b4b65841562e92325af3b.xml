@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vlak"
     id="id-92ab0d8a840b4b65841562e92325af3b"
-    documentation="Plat, oneindig oppervlak of vari√´teit zonder enige kromming. ">
+    documentation="Plat, oneindig oppervlak of variëteit zonder enige kromming. ">
   <properties
       key="ggm-guid"
       value="{0644BD52-8C2B-462d-94B9-9C99908952F5}"/>
@@ -14,7 +14,7 @@
       value="Class"/>
   <properties
       key="archimate-type"
-      value="Data object"/>
+      value="Business object"/>
   <properties
       key="bron"/>
   <properties

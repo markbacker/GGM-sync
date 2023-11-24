@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Locatie"
     id="id-7c3b38a741664b5280b12207400ef2e3"
-    documentation="De locatie beschrijft middels co√∂rdinaten de ruimtelijke dimensie of ruimtelijke afbakening van een regel of van een objecttype die in de regel beschreven wordt. (CIMOW)">
+    documentation="De locatie beschrijft middels coördinaten de ruimtelijke dimensie of ruimtelijke afbakening van een regel of van een objecttype die in de regel beschreven wordt. (CIMOW)">
   <properties
       key="ggm-guid"
       value="{3119A4DB-BB23-4adc-98BD-82F2D7996C6B}"/>

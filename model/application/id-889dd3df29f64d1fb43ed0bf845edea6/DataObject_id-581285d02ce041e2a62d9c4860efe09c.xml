@@ -13,7 +13,8 @@
       key="uml-type"
       value="Class"/>
   <properties
-      key="archimate-type"/>
+      key="archimate-type"
+      value="Business object"/>
   <properties
       key="bron"
       value="Door KING toegevoegd objecttype,ontleend aan het GFO BG (maakt geen deel uit van enige basisregistratie)."/>

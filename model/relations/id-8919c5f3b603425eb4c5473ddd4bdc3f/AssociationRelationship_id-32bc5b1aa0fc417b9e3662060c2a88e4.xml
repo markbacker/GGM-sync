@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ligt in"
+    id="id-32bc5b1aa0fc417b9e3662060c2a88e4"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{62D762C1-0619-4436-A35A-37EF3A010BE8}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d1410697022040d68df02d7896129e9c.xml#id-d1410697022040d68df02d7896129e9c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3a59403465604d598005b3bf426ebc20.xml#id-3a59403465604d598005b3bf426ebc20"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft betaling"
+    id="id-b21361ef9f57476889f142a8e6e48b1a"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{4792EF86-3EA9-4e05-A5CC-0EA419541F79}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-15bc6ade8f9444148bc0f89ca1653a17.xml#id-15bc6ade8f9444148bc0f89ca1653a17"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-93534be193064c5b9fca740e6ce52d33.xml#id-93534be193064c5b9fca740e6ce52d33"/>
+</archimate:AssociationRelationship>

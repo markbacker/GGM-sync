@@ -12,7 +12,8 @@
       key="uml-type"
       value="Class"/>
   <properties
-      key="archimate-type"/>
+      key="archimate-type"
+      value="Business object"/>
   <properties
       key="bron"/>
   <properties

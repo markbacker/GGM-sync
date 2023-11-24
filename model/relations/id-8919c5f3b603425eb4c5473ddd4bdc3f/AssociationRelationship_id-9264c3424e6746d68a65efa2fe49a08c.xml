@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft fraudegegevens"
+    id="id-9264c3424e6746d68a65efa2fe49a08c"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{50341C5C-E368-4014-9469-EA71F63EBA95}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2389e1768e99473583d1ed2b328f438c.xml#id-2389e1768e99473583d1ed2b328f438c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e99e0fd9d795483ea5515bf296141b12.xml#id-e99e0fd9d795483ea5515bf296141b12"/>
+</archimate:AssociationRelationship>

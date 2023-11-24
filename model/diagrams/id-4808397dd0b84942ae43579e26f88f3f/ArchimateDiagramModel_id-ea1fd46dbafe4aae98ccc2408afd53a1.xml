@@ -5,25 +5,26 @@
     id="id-ea1fd46dbafe4aae98ccc2408afd53a1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-31b70d6f07d94c2297a9c6eef0a857a1"
+      id="id-c24de7aa03b84f5bb4b3d1267066a14f"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1">
     <features
         name="deriveElementLineColor"
         value="false"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b53275c913e740e79014fd020d314a5f"
-        source="id-31b70d6f07d94c2297a9c6eef0a857a1"
-        target="id-fe0ee468a54d40b4929e8bc8f271b9da">
+        id="id-928eddf59c4143beaa79e89c70cca517"
+        source="id-c24de7aa03b84f5bb4b3d1267066a14f"
+        target="id-485b19ebbae5470a90fe8b68cc73dee9">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-f7fba0437a594ca295ca19645b353827.xml#id-f7fba0437a594ca295ca19645b353827"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0d81f4c2ed7b4c8b8b08ef2f958069cd"
-        source="id-31b70d6f07d94c2297a9c6eef0a857a1"
-        target="id-42eae76e44f843f58da2ba2a91f282eb">
+        id="id-7b8481d3aede4381a3e4cb289833e161"
+        source="id-c24de7aa03b84f5bb4b3d1267066a14f"
+        target="id-3beab6ae9c2d49539e12e212b8b9bfed">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-2f98274c1c8b4082a0b5e8fbc2445642.xml#id-2f98274c1c8b4082a0b5e8fbc2445642"/>
@@ -35,16 +36,21 @@
         height="111"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-fe0ee468a54d40b4929e8bc8f271b9da"
-        targetConnections="id-0063c811493b45b6b2d234e7373feca9 id-b53275c913e740e79014fd020d314a5f">
+        id="id-485b19ebbae5470a90fe8b68cc73dee9"
+        targetConnections="id-9483bea2e3454ebaba1e77e3878d8de8 id-928eddf59c4143beaa79e89c70cca517"
+        fillColor="#FFFFCC"
+        alpha="200">
       <features
           name="deriveElementLineColor"
           value="false"/>
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-0ff41b188c0e4c829eb6bb887ba0a55f"
-          source="id-fe0ee468a54d40b4929e8bc8f271b9da"
-          target="id-42eae76e44f843f58da2ba2a91f282eb">
+          id="id-fe8f31cc4b5b45b5b021ff354baa44f8"
+          source="id-485b19ebbae5470a90fe8b68cc73dee9"
+          target="id-3beab6ae9c2d49539e12e212b8b9bfed">
         <bendpoints
             startX="120"
             startY="-20"
@@ -85,11 +91,16 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-42eae76e44f843f58da2ba2a91f282eb"
-        targetConnections="id-0ff41b188c0e4c829eb6bb887ba0a55f id-0d81f4c2ed7b4c8b8b08ef2f958069cd">
+        id="id-3beab6ae9c2d49539e12e212b8b9bfed"
+        targetConnections="id-fe8f31cc4b5b45b5b021ff354baa44f8 id-7b8481d3aede4381a3e4cb289833e161"
+        fillColor="#FFFFCC"
+        alpha="200">
       <features
           name="deriveElementLineColor"
           value="false"/>
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="390"
           y="30"
@@ -105,15 +116,19 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-db5bc41c68f54aeda530cfb69b29a438">
+      id="id-e49974bbc06c4052bd2157fd6b750df2">
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="${name}&#xA;(${property:domein-iv3})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0063c811493b45b6b2d234e7373feca9"
-        source="id-db5bc41c68f54aeda530cfb69b29a438"
-        target="id-fe0ee468a54d40b4929e8bc8f271b9da">
+        id="id-9483bea2e3454ebaba1e77e3878d8de8"
+        lineColor="#229954"
+        source="id-e49974bbc06c4052bd2157fd6b750df2"
+        target="id-485b19ebbae5470a90fe8b68cc73dee9">
       <bendpoints
           startX="-120"
           startY="-85"

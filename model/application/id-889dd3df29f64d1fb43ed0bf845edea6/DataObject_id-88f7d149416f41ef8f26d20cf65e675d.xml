@@ -13,7 +13,8 @@
       key="uml-type"
       value="Enumeration"/>
   <properties
-      key="archimate-type"/>
+      key="archimate-type"
+      value="Data object"/>
   <properties
       key="bron"/>
   <properties

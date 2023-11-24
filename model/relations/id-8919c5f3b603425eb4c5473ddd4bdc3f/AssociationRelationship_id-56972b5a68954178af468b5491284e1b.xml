@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is ontstaan uit / overgegaan in"
+    id="id-56972b5a68954178af468b5491284e1b"
+    documentation="De verwijzing naar vervallen BENOEMD(e) OBJECT(en) waaruit het BENOEMD OBJECT is ontstaan en naar BENOEMD(e) OBJECT (en) waarin een vervallen BENOEMD OBJECT is overgegaan."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{9A56AD9F-136A-485a-93B1-7137FCC39416}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="Op 2023-11-24 gesynchroniseerd. Wijzigingen via het GGM model, wijzigingen in GGM ArchiMate-model worden overgeschreven"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-53f18c52a8844edb9cd3a587a4ca5a93.xml#id-53f18c52a8844edb9cd3a587a4ca5a93"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-53f18c52a8844edb9cd3a587a4ca5a93.xml#id-53f18c52a8844edb9cd3a587a4ca5a93"/>
+</archimate:AssociationRelationship>

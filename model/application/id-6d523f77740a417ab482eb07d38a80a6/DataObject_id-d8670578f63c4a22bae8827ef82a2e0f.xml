@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelstelling"
+    id="id-d8670578f63c4a22bae8827ef82a2e0f"
+    documentation="Een op korte of middellange termijn nagestreefde situatie">
+  <properties
+      key="ggm-guid"
+      value="{28C572B5-C147-4b99-B920-00062C843FDE}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Sociale Teams"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="b349e0e6-2085-476a-8e73-a343c681f0bc"/>
+</archimate:DataObject>

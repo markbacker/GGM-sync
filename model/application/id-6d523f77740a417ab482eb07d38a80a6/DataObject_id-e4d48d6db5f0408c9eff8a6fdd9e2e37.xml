@@ -1,0 +1,24 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="statusVoortgangBouw"
+    id="id-e4d48d6db5f0408c9eff8a6fdd9e2e37"
+    documentation="Een aanduiding van alle fases die de voortgang bouw pand kan aannemen.">
+  <properties
+      key="ggm-guid"
+      value="{932D4E44-A37E-453e-9EE7-FD21C5D8D94D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="domein-iv3"
+      value="BAG"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="009d1564-d8e1-43e9-8323-c24f76aed0d7"/>
+</archimate:DataObject>

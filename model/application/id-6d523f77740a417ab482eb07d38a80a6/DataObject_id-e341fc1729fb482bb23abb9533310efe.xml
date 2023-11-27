@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Omgevingsnorm"
+    id="id-e341fc1729fb482bb23abb9533310efe"
+    documentation="Een norm over de fysieke leefomgeving die in een kwantitatieve of kwalitatieve waarde wordt uitgedrukt en geen omgevingswaarde is.">
+  <properties
+      key="ggm-guid"
+      value="{F90F8E5E-7402-4c44-AC69-91A4175E5D47}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Omgevingswet"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="801c4611-2383-46c4-a9db-74772ee2a964"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzuimmelding"
+    id="id-228f40f0fb6e4ef98a1f59333d92ec19"
+    documentation="Een melding dat een leerling niet op school verschijnt. De school moet actie ondernemen naar de leerling (en zijn ouders). Een school moet het verzuim melden bij de gemeente. ">
+  <properties
+      key="ggm-guid"
+      value="{252C70B1-4E02-4033-B2B5-86F65496D7AB}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Leerplicht en Leerlingenvervoer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0ba83da6-e12c-41af-ac76-752b23640f80"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product"
+    id="id-55fb95f092e746f78317c01e2992711c"
+    documentation="Het resultaat van een proces dat in het economisch verkeer een waarde bezit.">
+  <properties
+      key="ggm-guid"
+      value="{FF566C6B-077B-4914-8AF7-40EB1EDD388A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Museum"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="5cbc5ee6-947b-4924-a6c3-f3c1c42cac8c"/>
+</archimate:DataObject>

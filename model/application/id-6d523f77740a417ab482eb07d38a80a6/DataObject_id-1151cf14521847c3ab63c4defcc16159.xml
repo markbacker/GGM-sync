@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kolk"
+    id="id-1151cf14521847c3ab63c4defcc16159"
+    documentation="Een reservoir bestemd voor de opvang van hemelwater afkomstig van erop aangesloten oppervlakken, het laten bezinken van in dit water meegevoerde bezinkbare stoffen en de afvoer van dit water naar een rioolstelsel of naar de ondergrond.&#xA;Synoniemen: Afvoerput">
+  <properties
+      key="ggm-guid"
+      value="{E6AFE8F7-95A7-4A0C-A6E8-F6D2091FB8B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e3202be4-4702-4795-bf73-d22f2ae2afc6"/>
+</archimate:DataObject>

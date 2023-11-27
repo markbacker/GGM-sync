@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="valt binnen"
+    id="id-c8fb92f4605d49ad80377fc4df4ddc73"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{CF9A5227-0396-435a-8734-0980E5661383}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="56b767dd-ce78-4111-a951-6e8ac904fca4"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-23c8f17448394df89cc34f4cc43e7057.xml#id-23c8f17448394df89cc34f4cc43e7057"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-23c8f17448394df89cc34f4cc43e7057.xml#id-23c8f17448394df89cc34f4cc43e7057"/>
+</archimate:AssociationRelationship>

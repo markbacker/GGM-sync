@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-cd96fa58f91f48ed9a322dee563934ba"
+    documentation="Een ORGANISATORISCHE EENHEID als specialisatie van BETROKKENE"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{6B62BEFD-0485-4a41-9C55-A1480F0DF153}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="a093e9f9-8142-4e0f-af62-eb61f3bc84ae"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d785b7a6fc6a4fa888821a4b101f9023.xml#id-d785b7a6fc6a4fa888821a4b101f9023"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3d82b40787794292884f7cd26f76a4dd.xml#id-3d82b40787794292884f7cd26f76a4dd"/>
+</archimate:AssociationRelationship>

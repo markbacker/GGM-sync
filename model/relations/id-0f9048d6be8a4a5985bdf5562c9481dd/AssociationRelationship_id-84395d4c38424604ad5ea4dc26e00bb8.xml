@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan leiden tot"
+    id="id-84395d4c38424604ad5ea4dc26e00bb8"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{87F9EA19-0A1D-4c3f-ADCA-C8F48F216312}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="39610e88-459d-4bdf-ba49-88bdc1cd7156"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-cb71335b62b445cabfbc693cf199c216.xml#id-cb71335b62b445cabfbc693cf199c216"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f9a80416eb2c495aadf8cec2aaeedc86.xml#id-f9a80416eb2c495aadf8cec2aaeedc86"/>
+</archimate:AssociationRelationship>

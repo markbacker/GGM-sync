@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mulder Feit"
+    id="id-ea0da116c7d24920b11583d9261a58c6">
+  <properties
+      key="ggm-guid"
+      value="{4EA4D754-FAD7-4caf-8060-342689EC16FE}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Parkeren"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0c7fa71b-7af7-4d9a-80a9-de4d6def6bbb"/>
+</archimate:DataObject>

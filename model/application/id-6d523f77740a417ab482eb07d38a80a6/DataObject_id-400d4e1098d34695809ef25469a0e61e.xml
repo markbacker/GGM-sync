@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevoegd Gezag"
+    id="id-400d4e1098d34695809ef25469a0e61e"
+    documentation="Bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit.  ">
+  <properties
+      key="ggm-guid"
+      value="{FB771E02-8FE3-496b-B99B-CF4A496A7B80}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Omgevingswet"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="38d87ae8-1cb1-45a7-8931-f11186738125"/>
+</archimate:DataObject>

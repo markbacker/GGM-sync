@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft notariele status"
+    id="id-83bb0fab2d864446bf092f01d04121a0"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{4D5D505E-B7CA-41a4-91BA-3D0CB6B190E2}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="750619bb-c6ee-4946-93f2-9e07d3b3060e"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-da188a7751204509907c515745b0e7f1.xml#id-da188a7751204509907c515745b0e7f1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-87e61c67aab84d368999263ca83363f4.xml#id-87e61c67aab84d368999263ca83363f4"/>
+</archimate:AssociationRelationship>

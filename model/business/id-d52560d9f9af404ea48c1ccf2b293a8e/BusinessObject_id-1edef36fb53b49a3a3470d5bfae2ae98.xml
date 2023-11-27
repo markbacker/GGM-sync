@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kolk"
+    id="id-1edef36fb53b49a3a3470d5bfae2ae98"
+    documentation="Een reservoir bestemd voor de opvang van hemelwater afkomstig van erop aangesloten oppervlakken, het laten bezinken van in dit water meegevoerde bezinkbare stoffen en de afvoer van dit water naar een rioolstelsel of naar de ondergrond.&#xA;Synoniemen: Afvoerput">
+  <properties
+      key="ggm-guid"
+      value="{E6AFE8F7-95A7-4A0C-A6E8-F6D2091FB8B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="1d925417-0b9a-4693-b6dd-a3474532a70f"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsmiddel"
+    id="id-1c0156169ab64dceb0c31cc7e6b9a308"
+    documentation="Een middel waarmee men zich toegang tot iets kan verschaffen.">
+  <properties
+      key="ggm-guid"
+      value="{D67A4AC2-9A17-4cd0-82D7-732A89018FDA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="709d54b5-aa64-4f87-b947-898793d9000d"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verbalisant"
+    id="id-5f86713684ba4da599e113aae9bbdf99"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{AA01203B-68F8-49c7-93A0-50AF6F0CA78B}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="61f2dd27-d902-4155-8cac-44168b0882c3"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-bf5817a3a754422d9ee7c1c9ad995d86.xml#id-bf5817a3a754422d9ee7c1c9ad995d86"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2bd2f37c88654db78a33fe03b44d53c2.xml#id-2bd2f37c88654db78a33fe03b44d53c2"/>
+</archimate:AssociationRelationship>

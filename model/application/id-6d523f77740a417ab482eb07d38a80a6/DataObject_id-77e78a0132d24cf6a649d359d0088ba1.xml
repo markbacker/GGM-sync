@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="typeringInrichtingselement"
+    id="id-77e78a0132d24cf6a649d359d0088ba1"
+    documentation="&lt;font color=&quot;#0f0f0f&quot;>De verschillende waarden die de typering van het inrichtingselement kan aannemen.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{4A445D67-F0F4-47a9-834F-F99508939495}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="c5f55b81-fb3b-4ea4-9751-07f8a4184abb"/>
+</archimate:DataObject>

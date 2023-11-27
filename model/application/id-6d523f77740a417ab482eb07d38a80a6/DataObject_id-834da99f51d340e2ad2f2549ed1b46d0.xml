@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienst"
+    id="id-834da99f51d340e2ad2f2549ed1b46d0"
+    documentation="Het uitvoeren van werkzaamheden met een continu of periodiek karakter om waarde te realiseren voor een afnemer.">
+  <properties
+      key="ggm-guid"
+      value="{45AFD4E2-9909-4c33-93CE-F2466B85CA0F}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ba263310-6d68-4290-b712-ffa157c103b0"/>
+</archimate:DataObject>

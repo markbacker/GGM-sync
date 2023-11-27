@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruikleen"
+    id="id-66581fe7786b42ef9fea5b21f448d1d9"
+    documentation="Lening voor tijdelijk gebruik">
+  <properties
+      key="ggm-guid"
+      value="{452312FD-05FB-4abc-A48B-C605F7E3E193}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Museum"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="5145e92e-7ca8-4f4f-999c-43f19bf28674"/>
+</archimate:DataObject>

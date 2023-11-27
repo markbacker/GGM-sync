@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft als officieel adres"
+    id="id-9b0102057f564351afccfcc6c04b5cd8"
+    documentation="De OVERIGE ADRESSEERBAAR OBJECT AANDUIDING waaronder het officiële adres is opgenomen."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{EA30E741-5270-4eec-A922-9F0E5D133B52}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="07a3d400-46a5-4260-9886-f5d1615b1133"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-26196d1b962a4984814372a20ab13aa6.xml#id-26196d1b962a4984814372a20ab13aa6"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-71db9a053f264714b7bb0d2889c101f2.xml#id-71db9a053f264714b7bb0d2889c101f2"/>
+</archimate:AssociationRelationship>

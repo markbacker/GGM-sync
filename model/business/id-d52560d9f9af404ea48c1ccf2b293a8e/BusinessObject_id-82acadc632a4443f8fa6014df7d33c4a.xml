@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bouwactiviteit"
+    id="id-82acadc632a4443f8fa6014df7d33c4a"
+    documentation="Het bouwen van een bouwwerk.">
+  <properties
+      key="ggm-guid"
+      value="{4AD539EC-A308-43da-B025-17A1647303F3}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Monumenten "/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="6e094234-4e96-4dee-aeb7-817cb61386ab"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

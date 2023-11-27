@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Programma"
+    id="id-d061fab6d9914899a0c9feab26258bab"
+    documentation="Een tijdelijke, flexibele organisatiestructuur, die is opgezet om de implementatie van een verzameling met elkaar samenhangende projecten en activiteiten te co√∂rdineren, te sturen en te controleren teneinde te zorgen voor de realisatie van de eindresultaten en benefits die zijn gerelateerd aan de strategische doelstellingen van de organisatie.">
+  <properties
+      key="ggm-guid"
+      value="{0E19C86B-9088-41bd-9DD0-15094426570E}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Organisatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a7868c0d-9a34-41de-9fb6-f91aff315a5f"/>
+</archimate:DataObject>

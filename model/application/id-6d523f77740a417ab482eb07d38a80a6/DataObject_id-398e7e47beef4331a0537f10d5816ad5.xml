@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fietsregistratie"
+    id="id-398e7e47beef4331a0537f10d5816ad5"
+    documentation="Adminstreren van fietsen">
+  <properties
+      key="ggm-guid"
+      value="{FF9A4A36-6674-4590-BC33-7B6DC5256490}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Veiligheid en Vergunningen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="588b3c20-ae5f-4748-b8e1-744e4c49dade"/>
+</archimate:DataObject>

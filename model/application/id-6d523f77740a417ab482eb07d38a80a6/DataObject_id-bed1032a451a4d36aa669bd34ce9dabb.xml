@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zakelijkrecht"
+    id="id-bed1032a451a4d36aa669bd34ce9dabb">
+  <properties
+      key="ggm-guid"
+      value="{0B6706E7-4CF8-42d8-90EA-BDD1F5588D3F}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Vastgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="44ef6adb-ca00-43f5-8756-de28a436be80"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aanduidingInhoudingVermissingReisdocument"
+    id="id-c2f26d18f10e4b5f991b465e7390a5fd"
+    documentation="De mogelijke waarden van de aanduiding van inhouding of vermissing van een Nederlands reisdocument. &#xA;Zie logisch ontwerp BRP bij de stamtabellen&#xA;">
+  <properties
+      key="ggm-guid"
+      value="{9B477DCC-620F-4128-A65D-0CD045BCE16B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ce87579e-a199-477a-a0ac-b22043a60310"/>
+</archimate:DataObject>

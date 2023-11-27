@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adelijkeTitel"
+    id="id-016a7862a5954ccf909c763b95cca48f"
+    documentation="Zie logisch ontwerp BRP bij de stamtabellen">
+  <properties
+      key="ggm-guid"
+      value="{C27488AF-81A5-4ae3-8838-C036EA0B3167}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e0dd8461-584b-402b-8160-6962207cac27"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspectie"
+    id="id-0e979b381af44af3a6e00995026ab139"
+    documentation="het inwinnen, verwerken en interpreteren van informatie met het doel om de momentane toestand van de boezemkade vast te stellen.">
+  <properties
+      key="ggm-guid"
+      value="{C73E52A5-F66E-47f0-8DEA-467A54F64DD2}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ac91cdce-84f8-4308-984e-c0455eef1fa0"/>
+</archimate:DataObject>

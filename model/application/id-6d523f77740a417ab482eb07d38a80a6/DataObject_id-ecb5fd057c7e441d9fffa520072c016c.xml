@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LocatieOnroerendeZaak "
+    id="id-ecb5fd057c7e441d9fffa520072c016c"
+    documentation="Locatie van een geregistreerd goed">
+  <properties
+      key="ggm-guid"
+      value="{049E7FD0-D515-4057-9C87-A09980C5DE6A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Vastgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="49484080-5cc6-4501-bf66-e7b7b2e3810b"/>
+</archimate:DataObject>

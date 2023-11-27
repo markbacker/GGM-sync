@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PAND"
+    id="id-109c468fd3244c22bebb1196141a7540"
+    documentation="De kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is.">
+  <properties
+      key="ggm-guid"
+      value="{26D1113F-F7B3-4bdd-9AAE-EA14CC9F3C3F}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BAG"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="191d71f2-9ffa-4511-9f7c-179efcf437e8"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

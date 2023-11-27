@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="server van database"
+    id="id-0870c32dcf5544e793b82f8171453c83"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{647B7DC0-6FCE-4d30-9CC7-9739BA6627E8}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="e3a6e07d-a88e-49ed-9594-282d1bf75dc5"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-108a46172ed14519ae43c4d23299e5d6.xml#id-108a46172ed14519ae43c4d23299e5d6"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-45481390b3764fe3a639a06cb17abf9f.xml#id-45481390b3764fe3a639a06cb17abf9f"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,35 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft nevenlocatie in of op"
+    id="id-2d5dd4c0f37443d5a4444743ee22053c"
+    documentation="De BENOEMDe OBJECTen waarin zich de gedeelten van een VESTIGING bevinden die niet beschouwd worden als hoofdlocatie voor de uitvoering van de activiteiten van deze VESTIGING."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{12085260-E4B0-4852-9F69-FF79A2FB9E67}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="437a2b5f-7446-4f90-ac3f-a2d4140642f0"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7e7facaad48e4c94a45a15aac2c2083d.xml#id-7e7facaad48e4c94a45a15aac2c2083d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ba0fc9c18f7d4f4ca953a0d95bee9baa.xml#id-ba0fc9c18f7d4f4ca953a0d95bee9baa"/>
+</archimate:AssociationRelationship>

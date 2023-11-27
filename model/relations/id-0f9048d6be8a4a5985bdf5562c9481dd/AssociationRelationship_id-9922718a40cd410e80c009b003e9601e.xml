@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doet"
+    id="id-9922718a40cd410e80c009b003e9601e"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{1208CAFE-5505-4681-A175-BBF40F2DB352}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="2e7b12b1-ca29-416d-b9f6-c5b978a3df2b"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8a2b946729624a55ba08ae71d3bad77a.xml#id-8a2b946729624a55ba08ae71d3bad77a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e5a1c6a85d8c4ac28392b1dca33605af.xml#id-e5a1c6a85d8c4ac28392b1dca33605af"/>
+</archimate:AssociationRelationship>

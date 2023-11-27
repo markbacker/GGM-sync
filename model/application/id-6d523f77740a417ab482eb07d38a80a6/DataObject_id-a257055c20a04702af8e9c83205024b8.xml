@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Externe Bron"
+    id="id-a257055c20a04702af8e9c83205024b8"
+    documentation="Bron buiten de eigen organisatie">
+  <properties
+      key="ggm-guid"
+      value="{841FC453-80B3-4389-A91F-9498FDC629CF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Dienstverlening"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f1038e4e-ce0f-48a8-857f-4b97c61d3129"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taak"
+    id="id-e58bfd49f0a24c4397bb3addb68e6170"
+    documentation="Een samenhangende set activiteiten in het kader van een subsidie.">
+  <properties
+      key="ggm-guid"
+      value="{156C82B1-2641-40c8-9E99-60031643C29A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Subsidies"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="b738f975-3f58-4b78-a116-b164d5675f5f"/>
+</archimate:DataObject>

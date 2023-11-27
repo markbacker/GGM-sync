@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OVERIG BENOEMD TERREIN"
+    id="id-122cd9c53ed44df6b5e0b2b77b4800fa"
+    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen onbebouwd terrein of een gedeelte daarvan, geen standplaats of gedeelte van een ligplaats zijnde, dat bestemd is voor het gedurende langere tijd verrichten van een maatschappelijke activiteit.">
+  <properties
+      key="ggm-guid"
+      value="{CFA3D54E-C8E0-4559-9475-29D31AF2DECD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="Door KING toegevoegd objecttype (maakt geen deel uit van enige basisregistratie)."/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="b6e354a3-a13d-48d8-bae8-533927d96cee"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

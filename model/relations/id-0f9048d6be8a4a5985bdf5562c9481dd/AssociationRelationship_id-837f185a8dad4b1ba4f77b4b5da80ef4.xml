@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ingediend door"
+    id="id-837f185a8dad4b1ba4f77b4b5da80ef4"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{8E6F2106-48ED-4640-8D57-232E09A4B65F}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="3b063b09-839c-411f-b359-4dc8eb2943e2"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-323f83acddc84e6aa79d3653cebe76bd.xml#id-323f83acddc84e6aa79d3653cebe76bd"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-bd9270a78e784fdbb14984f1f40b058f.xml#id-bd9270a78e784fdbb14984f1f40b058f"/>
+</archimate:AssociationRelationship>

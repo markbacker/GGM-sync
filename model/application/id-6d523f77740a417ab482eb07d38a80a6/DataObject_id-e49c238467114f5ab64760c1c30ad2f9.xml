@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Boombeeld"
+    id="id-e49c238467114f5ab64760c1c30ad2f9">
+  <properties
+      key="ggm-guid"
+      value="{{6B64A1DD-5B26-4610-8368-E456851C50AF}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="6ef86bb9-c91d-4d4c-847b-69d2fa3ab77a"/>
+</archimate:DataObject>

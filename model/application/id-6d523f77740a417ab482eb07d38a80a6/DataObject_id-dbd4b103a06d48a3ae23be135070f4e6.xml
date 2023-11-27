@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkooppunt"
+    id="id-dbd4b103a06d48a3ae23be135070f4e6"
+    documentation="Locatie waar iets wordt verkocht">
+  <properties
+      key="ggm-guid"
+      value="{8F05E7BA-E7ED-45d1-9626-C8D7FBDB2F1B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Economie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="b94a7fd2-0050-4132-be52-5026aad3626e"/>
+</archimate:DataObject>

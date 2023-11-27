@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grondslag"
+    id="id-f300fe37a2a6433aacb53b74ff219078">
+  <properties
+      key="ggm-guid"
+      value="{94E2B19A-6942-4164-8A52-3C0BBDE45808}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Veiligheid en Vergunningen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0cb2f515-e8ca-4579-8a6f-a6baac706db0"/>
+</archimate:DataObject>

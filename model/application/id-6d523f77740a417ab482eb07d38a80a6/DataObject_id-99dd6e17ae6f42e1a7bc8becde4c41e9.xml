@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afwijkend correspondentie postadres ROL"
+    id="id-99dd6e17ae6f42e1a7bc8becde4c41e9"
+    documentation="&lt;font color=&quot;#610e6a&quot;>De gegevens die tezamen een postbusadres of antwoordnummeradres vormen waarvan BETROKKENE, geen ORGANISATORISCHE EENHEID en MEDEWERKER ziinde, heeft aangegeven schriftelijk bereikbaar te zijn in verband met zijn/haar ROL in de ZAAK en dat afwijkt van de reguliere correspondentiegegevens van BETROKKENE.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{8F133649-AE11-491c-998B-6288B7FC8FE4}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Groepattribuutsoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="501fbe7a-038d-4365-a444-978a5b492431"/>
+</archimate:DataObject>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="medewerker heeft dienstverband"
+    id="id-6f28d78d58654a1b93f39468120330cd"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{8AB912F9-CF51-4288-85FB-DC19C1E92659}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="64b19e1a-dc5b-4259-bcf2-dea5e4c6584e"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6e786114a07e4d66b0472a428d9f5287.xml#id-6e786114a07e4d66b0472a428d9f5287"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-38c54266351343bfa84901da0e4e29ed.xml#id-38c54266351343bfa84901da0e4e29ed"/>
+</archimate:AssociationRelationship>

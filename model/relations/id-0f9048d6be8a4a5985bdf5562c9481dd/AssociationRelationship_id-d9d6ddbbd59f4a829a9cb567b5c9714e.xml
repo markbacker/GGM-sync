@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ophalen"
+    id="id-d9d6ddbbd59f4a829a9cb567b5c9714e"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{C09F3E43-5B6A-460b-AD49-C26FE2DCFF78}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="a4228158-78c6-4a89-bc57-84710b659153"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c4eb6603338f479db4073982b4c83079.xml#id-c4eb6603338f479db4073982b4c83079"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-48d583b271974838845c0b337589efd4.xml#id-48d583b271974838845c0b337589efd4"/>
+</archimate:AssociationRelationship>

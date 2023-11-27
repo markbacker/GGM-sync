@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="id-af097f39744c4effbb9d6c71974f7208"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{0064520F-0125-42ea-8D01-13183E102F6C}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="3345cc2a-e379-42fc-a1f7-75a4a32ad490"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-bbf96e058d3447e7ac2599cfd6655827.xml#id-bbf96e058d3447e7ac2599cfd6655827"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2c9841f833ea4e34b6631bf9a1c83aad.xml#id-2c9841f833ea4e34b6631bf9a1c83aad"/>
+</archimate:AssociationRelationship>

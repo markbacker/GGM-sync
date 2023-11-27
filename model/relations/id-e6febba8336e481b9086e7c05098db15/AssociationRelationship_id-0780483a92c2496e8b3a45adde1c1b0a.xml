@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft individueel keuzebudget"
+    id="id-0780483a92c2496e8b3a45adde1c1b0a"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{AEC374FB-B966-4408-9540-612BDB839919}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="7802be67-7e4f-4d7a-b4b3-2f9b227e0edf"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1f8c2e46a61143c7accd0084d7954d02.xml#id-1f8c2e46a61143c7accd0084d7954d02"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a3533ae7c4db47718600009f17f1f9f9.xml#id-a3533ae7c4db47718600009f17f1f9f9"/>
+</archimate:AssociationRelationship>

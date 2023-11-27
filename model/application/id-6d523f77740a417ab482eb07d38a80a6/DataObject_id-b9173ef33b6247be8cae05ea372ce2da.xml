@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huishoudensoort"
+    id="id-b9173ef33b6247be8cae05ea372ce2da"
+    documentation="&lt;b>Definitie&lt;/b>:&#xA;&#xA;Typering van het huishouden naar grootte en verbondenheid.&#xA;&#xA;&lt;b>Toelichting&lt;/b>:&#xA;&#xA;Voor de definities van institutioneel huishouden en particulier huishouden: zie de toelichting bij het objecttype Huishouden. Onder Thuiswonende kinderen wordt verstaan: alle in het huishouden van hun ouder(s) aanwezige eigen, pleeg-, stief- of adoptiekinderen die ongehuwd zijn en zelf geen kinderen hebben (CBS, Huishoudensprognose 1996). In een adresseerbaar object kunnen één of meer huishoudens wonen. In de tabel worden de huishoudens gekarakteriseerd, uitgaande van de CBS-Huishoudensprognose. Tot de categorie Overig particulier huishouden behoren bijvoorbeeld: een woongroep, studenten die gezamenlijk een huishouden vormen, een kamerbewoner die in zijn eigen onderhoud voorziet, twee zussen die samenwonen.">
+  <properties
+      key="ggm-guid"
+      value="{593847E0-1DB5-4db9-89D0-BDBAA608A143}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="db4f01c4-3132-4c3c-81a2-c69f7031d5ce"/>
+</archimate:DataObject>

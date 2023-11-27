@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NAD_AanvullingBRP"
+    id="id-29ccbb6cef9d452390e1b3eb47576996">
+  <properties
+      key="ggm-guid"
+      value="{46386087-923F-402e-BB6B-6DE39D73349A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Vastgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="b9ca6276-6756-4a59-a0a4-6a6305084107"/>
+</archimate:DataObject>

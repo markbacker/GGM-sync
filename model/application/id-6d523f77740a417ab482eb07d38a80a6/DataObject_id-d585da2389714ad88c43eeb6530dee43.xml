@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beslissing"
+    id="id-d585da2389714ad88c43eeb6530dee43"
+    documentation="Selectie van een voorstelbare werkelijkheid (voorkeursvariant) uit een aantal mogelijke werkelijkheden (varianten) op basis van een verzameling van criteria.">
+  <properties
+      key="ggm-guid"
+      value="{B65280CD-3429-4966-AD2D-CB3EE76EE2E8}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="synoniemen"
+      value="Besluit"/>
+  <properties
+      key="domein-iv3"
+      value="Leerplicht en Leerlingenvervoer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ac6a9f26-bc4e-482f-8b2f-5f23c634bcdf"/>
+</archimate:DataObject>

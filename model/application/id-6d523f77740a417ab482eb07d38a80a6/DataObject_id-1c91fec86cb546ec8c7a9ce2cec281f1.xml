@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvraag Leerlingenvervoer"
+    id="id-1c91fec86cb546ec8c7a9ce2cec281f1"
+    documentation="Een aanvraag voor een leerling die recht heeft op vervoer van en naar onderwijs.">
+  <properties
+      key="ggm-guid"
+      value="{07F40D10-74AC-4f56-8B71-A236A63C2122}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Leerplicht en Leerlingenvervoer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="21faf6d5-0fa5-4da8-a058-c5aa6eb081e5"/>
+</archimate:DataObject>

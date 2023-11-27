@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Is"
+    id="id-fcdd7fb063444c6c92bf0784dda7dd54"
+    documentation="Een INGEZETENE is een specialisatie van OBJECT."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{93320AED-D823-4ac6-BD19-2C55AFE2D453}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="acc25517-275d-44e5-b637-6a26420cb1d8"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3d4792d13cf548ad801c2275529c285f.xml#id-3d4792d13cf548ad801c2275529c285f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fad01567ebf445cc900be276e6d3b7fc.xml#id-fad01567ebf445cc900be276e6d3b7fc"/>
+</archimate:AssociationRelationship>

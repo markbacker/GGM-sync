@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soort besteding"
+    id="id-aa51c79397c143c2b60fcceaef597a08"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{42E94BB7-BBBE-4cfd-BE12-83932898ADDA}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="f89b86a8-7694-4a1b-aace-abad6ea5d4cb"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9f9a9b1ee97942848798071a0de111df.xml#id-9f9a9b1ee97942848798071a0de111df"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7ffb8ffc0a1646059f2a0c1071d36f18.xml#id-7ffb8ffc0a1646059f2a0c1071d36f18"/>
+</archimate:AssociationRelationship>

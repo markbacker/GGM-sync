@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regeling"
+    id="id-8abbc819b7944f22aa4355506d876cef"
+    documentation="Verzamelnaam voor AMvB‚Äôs, Ministeri√´le regelingen, lokale verordeningen, etc. De regeling is de meest concrete uitleg van de wet. ">
+  <properties
+      key="ggm-guid"
+      value="{C25455F3-FEB0-4c6d-9AA4-3B027718BEE3}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="13c9b5bb-84a6-487b-8570-5c3a02dd424c"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

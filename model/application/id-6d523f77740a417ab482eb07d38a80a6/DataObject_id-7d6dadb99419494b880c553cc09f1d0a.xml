@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelstellingsoort"
+    id="id-7d6dadb99419494b880c553cc09f1d0a"
+    documentation="Typering van een doelstellig">
+  <properties
+      key="ggm-guid"
+      value="{79A14AF2-F1F9-43a3-914B-FD04CB609F44}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Sociale Teams"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="262f8aee-b719-4373-bb77-736f2bc44140"/>
+</archimate:DataObject>

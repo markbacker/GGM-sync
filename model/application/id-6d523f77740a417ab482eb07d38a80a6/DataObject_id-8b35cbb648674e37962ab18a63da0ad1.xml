@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hotelbezoek"
+    id="id-8b35cbb648674e37962ab18a63da0ad1"
+    documentation="Verblijf in een hotel">
+  <properties
+      key="ggm-guid"
+      value="{669000E9-25D6-4346-B718-516CDB8B88B7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Economie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="6ba4369d-647e-4ae2-b5ab-b5bdf48ced8c"/>
+</archimate:DataObject>

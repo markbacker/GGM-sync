@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activasoort"
+    id="id-b9ae99b151cb45f891acfbe183c3486f"
+    documentation="Typering van activa">
+  <properties
+      key="ggm-guid"
+      value="{2483BD14-7FA7-4514-A565-C7F7967E226D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Financien"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7585396d-179c-423c-92f4-15bcd0d08599"/>
+</archimate:DataObject>

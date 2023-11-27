@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Categorie"
+    id="id-80417924ebc34fcd9daf7136568244d9"
+    documentation="Categorie waarop leveranciers zich voor de levering van personeel voor kunnen kwalificeren">
+  <properties
+      key="ggm-guid"
+      value="{B9B82B25-5D7F-4d2b-84F9-4DF74525EEAD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Griffie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="dad18a92-a162-4876-b6fe-9489f73289a1"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitscatalogus Openbare Ruimte"
+    id="id-931f7700332f4c7580979a9540a9d163"
+    documentation="zie https://www.crow.nl/publicaties/kwaliteitscatalogus-openbare-ruimte-2018&#xA;">
+  <properties
+      key="ggm-guid"
+      value="{2C6C809D-28B0-4037-BBFA-3E438A2DF81D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0881638c-2e45-48b2-ab93-b1bdd3e33e22"/>
+</archimate:DataObject>

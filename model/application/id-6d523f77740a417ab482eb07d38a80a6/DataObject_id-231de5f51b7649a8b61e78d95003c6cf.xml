@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_BereikbaarheidKolk"
+    id="id-231de5f51b7649a8b61e78d95003c6cf">
+  <properties
+      key="ggm-guid"
+      value="{{60E66776-5271-431E-A582-C7591BCB1500}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="cdb66413-202b-4a47-ae14-cb041c34a432"/>
+</archimate:DataObject>

@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stremmingstatus"
+    id="id-aa96aa9078774876a3c9f2cc26ade2dd">
+  <properties
+      key="ggm-guid"
+      value="{94230A7B-8876-4a0b-B660-424E397045B2}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Verkeer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="31b23c95-2e6c-4e3d-9d42-ad11ce530b5f"/>
+</archimate:DataObject>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is op vestiging"
+    id="id-c44af24296a44070a9d6297b1e441d1a"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{DAE508E1-5EDF-4ff6-B108-E83324586885}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="f35926d6-43c7-415d-825b-889d572fbbef"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-38c54266351343bfa84901da0e4e29ed.xml#id-38c54266351343bfa84901da0e4e29ed"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-64daebb1d27044848cb3b55243f1b589.xml#id-64daebb1d27044848cb3b55243f1b589"/>
+</archimate:AssociationRelationship>

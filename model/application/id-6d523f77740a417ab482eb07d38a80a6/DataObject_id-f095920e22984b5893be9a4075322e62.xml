@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CROW-Melding"
+    id="id-f095920e22984b5893be9a4075322e62"
+    documentation="BOR-MELD is een CROW-standaard voor het vastleggen van meldingen. ">
+  <properties
+      key="ggm-guid"
+      value="{4A8E659E-F088-446d-8614-BA31B106A417}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="synoniemen"
+      value="BOR-MELD"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ea4dd56a-cb70-46f0-8ad4-6a635264050d"/>
+</archimate:DataObject>

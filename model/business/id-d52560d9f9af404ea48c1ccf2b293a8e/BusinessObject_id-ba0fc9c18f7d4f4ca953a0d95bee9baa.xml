@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BENOEMD OBJECT"
+    id="id-ba0fc9c18f7d4f4ca953a0d95bee9baa"
+    documentation="Een GEBOUWD OBJECT of een BENOEMD TERREIN">
+  <properties
+      key="ggm-guid"
+      value="{3E9E08B7-574E-43dc-8D93-251BFA8F8D75}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="KING"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Meer specifiek"
+      value="GEBOUWD OBJECT, BENOEMD TERREIN"/>
+  <properties
+      key="Object ID"
+      value="41a7f4c8-0cdf-4ebb-942c-f4ab7c432f83"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

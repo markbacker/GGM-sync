@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fietsparkeervoorziening"
+    id="id-94c7219b860a482b97b259ea77b9a603"
+    documentation="Een duurzaam verankerd rek in de openbare ruimte voor het stallen van fietsen">
+  <properties
+      key="ggm-guid"
+      value="{CA558CCA-4DF7-458A-B8BF-AEA0E428489}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="816c623f-e1e4-45ef-9dc8-c7ae2d9c27ff"/>
+</archimate:DataObject>

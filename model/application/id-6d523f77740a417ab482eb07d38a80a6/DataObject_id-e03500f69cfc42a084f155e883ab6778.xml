@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="statusWOZ-Beschikking"
+    id="id-e03500f69cfc42a084f155e883ab6778"
+    documentation="&lt;font color=&quot;#0f0f0f&quot;>De verschillende waarden die de status van een beschikking waarmee de waarde is vastgesteld, kan aannemen.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{AF94EA13-2E6F-49fe-A6F8-1C599E9B27EC}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="00e564bc-4e42-46e5-8354-2a60e183e362"/>
+</archimate:DataObject>

@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monument ambacht"
+    id="id-d691c1c6b92d4b0c8373839ea5909a05"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{8E18F665-2A86-44fd-AD55-3E435A282BDF}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="7dddc3f0-53a2-4894-bb46-35342b65b211"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0de1ae53be974431826cca39b57bebad.xml#id-0de1ae53be974431826cca39b57bebad"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-454ed71de0fc424392359f8835950409.xml#id-454ed71de0fc424392359f8835950409"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LOCATIEAANDUIDING ADRES WOZ OBJECT"
+    id="id-f639e516c9064392bb5e5ffd8c55f0ee"
+    documentation="Nadere aanduiding van het WOZ-object middels een locatieomschrijving van ADRESSEERBAAR OBJECT AANDUIDING.">
+  <properties
+      key="ggm-guid"
+      value="{DF81069D-CBE4-433e-AB7C-CB06170275C9}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Relatieklasse"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="4531f601-26ac-4b15-a234-3a45b37a23dc"/>
+</archimate:DataObject>

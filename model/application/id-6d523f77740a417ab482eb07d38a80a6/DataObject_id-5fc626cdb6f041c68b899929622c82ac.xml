@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BEGROEID TERREINDEEL"
+    id="id-5fc626cdb6f041c68b899929622c82ac"
+    documentation="Kleinste functioneel onafhankelijk stukje van een terrein dat er binnen het objecttype Terrein van NEN 3610 wordt onderscheiden, met aaneengesloten homogene vegetatie.">
+  <properties
+      key="ggm-guid"
+      value="{D872C213-09D7-4dca-A020-EA363480FC7D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BGT"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="43304f41-4eb3-49b4-8854-4c670ae8a790"/>
+</archimate:DataObject>

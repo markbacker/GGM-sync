@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oorspronkelijke Functie"
+    id="id-b943d9ab207a4ed39ddfbb26eda633c8"
+    documentation="De functie van een object na bouw of oplevering">
+  <properties
+      key="ggm-guid"
+      value="{49993EF9-ED8B-49e0-B8F7-FC7C8C28669D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Monumenten "/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="447e690e-73b7-4373-ab92-ae49b03df644"/>
+</archimate:DataObject>

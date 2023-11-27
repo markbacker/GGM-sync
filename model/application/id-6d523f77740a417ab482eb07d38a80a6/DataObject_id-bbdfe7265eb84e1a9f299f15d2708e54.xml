@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_BoomhoogteklasseActueel"
+    id="id-bbdfe7265eb84e1a9f299f15d2708e54">
+  <properties
+      key="ggm-guid"
+      value="{{637AB25C-23ED-4105-8AD4-FEA3697069A8}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="de37a396-614b-438b-a710-14bbf983c1fc"/>
+</archimate:DataObject>

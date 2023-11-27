@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beperkingscoresoort "
+    id="id-129f1705e41b4797ac495baa97d053e4"
+    documentation="Typering van beperkingscores">
+  <properties
+      key="ggm-guid"
+      value="{6B63630A-8A30-454d-B8C4-252D4C30A3BF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek Jeugd en Wmo"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="078a30bb-8199-4324-b06a-c2f53137f53f"/>
+</archimate:DataObject>

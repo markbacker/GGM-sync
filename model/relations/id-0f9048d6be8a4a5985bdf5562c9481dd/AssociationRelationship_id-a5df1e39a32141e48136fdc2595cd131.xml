@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft behandeling"
+    id="id-a5df1e39a32141e48136fdc2595cd131"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{6D7DECEC-F17A-4ecb-B263-9AA07C56EF1E}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="5adbb203-5fd0-495d-bc17-34cf250e835a"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d814d35b80584ccc97c42b982020a518.xml#id-d814d35b80584ccc97c42b982020a518"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6a34dc7fbe984bbba08a50a78551cc6b.xml#id-6a34dc7fbe984bbba08a50a78551cc6b"/>
+</archimate:AssociationRelationship>

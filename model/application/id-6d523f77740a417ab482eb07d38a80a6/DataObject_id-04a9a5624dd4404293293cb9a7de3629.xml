@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkgelegenheid"
+    id="id-04a9a5624dd4404293293cb9a7de3629"
+    documentation="De vraag naar arbeid, te berekenen door de totale productie te delen door de arbeidsproductiviteit per persoon.">
+  <properties
+      key="ggm-guid"
+      value="{EB35F5B8-9289-49cc-8DF4-8BD20EC662A9}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Economie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="73a10093-98f6-41af-9a0e-6d8c669f10db"/>
+</archimate:DataObject>

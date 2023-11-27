@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weginrichtingsobject"
+    id="id-25eeca4033584b71b9dd3fd18e327968"
+    documentation="Een ruimtelijk object dat dient voor de inrichting van de openbare weg.">
+  <properties
+      key="ggm-guid"
+      value="{7F3202B1-9A3B-4E02-B4F4-31EBCE6B8DE}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Meer specifiek"
+      value="Putdeksel, Verkeersdrempel"/>
+  <properties
+      key="Object ID"
+      value="df2d99b1-5457-434f-9940-a673f4567c6e"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

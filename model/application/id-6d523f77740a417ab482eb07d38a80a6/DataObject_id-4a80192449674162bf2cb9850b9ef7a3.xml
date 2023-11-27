@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bouwdeelelement"
+    id="id-4a80192449674162bf2cb9850b9ef7a3"
+    documentation="Onderdeeel van een bouwdeel">
+  <properties
+      key="ggm-guid"
+      value="{BE147761-326E-4859-9366-5157CE865EC1}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Vastgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="21b438ce-a809-48b2-9ca8-46030c773149"/>
+</archimate:DataObject>

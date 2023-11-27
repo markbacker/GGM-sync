@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlichtingsobject"
+    id="id-ba0bb9ab15ca4421be748633a3f6a166"
+    documentation="Paal of mast waaraan openbare verlichting is bevestigd.">
+  <properties
+      key="ggm-guid"
+      value="{8CD4C799-C403-41B6-B409-06D37398E31}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="384e3ebb-ebb4-4f6c-aab0-0e21f42609e9"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgever"
+    id="id-1ea11e5696ad410fa6f12bc2d828a18d"
+    documentation="Iemand die iets op de markt brengt; iemand die iets uitgeeft">
+  <properties
+      key="ggm-guid"
+      value="{59CF7225-3D61-42e2-A399-7EB13450D97D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Archief"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="95997b69-92fa-43a0-88e1-56b070887faa"/>
+</archimate:DataObject>

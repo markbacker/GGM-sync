@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sportmateriaal"
+    id="id-7006b1db784f499ab7f3c0c788647b9d"
+    documentation="Materieel om sport mee te beoefenen of ter odnersteuning van de sportuitvoering.">
+  <properties
+      key="ggm-guid"
+      value="{5B64A5F8-64B5-4d1b-BEDD-486ED2C2C493}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Sport"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2fb11269-2d6a-4f68-8958-2b82b1f12bef"/>
+</archimate:DataObject>

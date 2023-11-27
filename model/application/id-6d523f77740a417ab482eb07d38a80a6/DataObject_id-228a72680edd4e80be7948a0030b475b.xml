@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Belasting"
+    id="id-228a72680edd4e80be7948a0030b475b">
+  <properties
+      key="ggm-guid"
+      value="{{2199CDFC-A8FD-4224-B83F-2A2FDE72AB6A}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="78761348-ecf9-496a-940a-cf8b53b345a1"/>
+</archimate:DataObject>

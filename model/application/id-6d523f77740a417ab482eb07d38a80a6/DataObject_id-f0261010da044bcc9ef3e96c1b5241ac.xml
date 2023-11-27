@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strooiroute Uitvoering"
+    id="id-f0261010da044bcc9ef3e96c1b5241ac"
+    documentation="De route die uiteindelijk is gevolgd voor het strooien ">
+  <properties
+      key="ggm-guid"
+      value="{B825D33A-6DCE-4263-A031-E6E92C4EE86B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Verkeer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1dfcbdc4-f671-4f90-93f9-1cc8dc946481"/>
+</archimate:DataObject>

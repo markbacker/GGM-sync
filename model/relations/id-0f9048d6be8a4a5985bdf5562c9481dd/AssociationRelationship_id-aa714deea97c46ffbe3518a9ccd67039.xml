@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bezit"
+    id="id-aa714deea97c46ffbe3518a9ccd67039"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{36EB4818-D2B7-4dc9-B3E3-9B4E71091C92}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="459e9740-f98d-424e-8c50-7def4a0cf94f"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9ffccd2bd8454d8aac05d632ab82dd56.xml#id-9ffccd2bd8454d8aac05d632ab82dd56"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d1ef6b39e85142e3abdd2919456cab1c.xml#id-d1ef6b39e85142e3abdd2919456cab1c"/>
+</archimate:AssociationRelationship>

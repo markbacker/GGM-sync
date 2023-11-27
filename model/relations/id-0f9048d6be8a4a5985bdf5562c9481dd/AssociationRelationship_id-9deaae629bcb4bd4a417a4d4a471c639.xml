@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is overgegaan in"
+    id="id-9deaae629bcb4bd4a417a4d4a471c639"
+    documentation="De nieuwe GEMEENTE waarin de GEMEENTE bij zijn opheffing c.q. na herindeling is overgegaan."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{37F200B1-6FE0-4e06-BD2C-633C7FD25541}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="872dc7fd-18d6-49f4-acb6-9667037ed112"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ea357a5205614f04af6e3e9295356c5b.xml#id-ea357a5205614f04af6e3e9295356c5b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ea357a5205614f04af6e3e9295356c5b.xml#id-ea357a5205614f04af6e3e9295356c5b"/>
+</archimate:AssociationRelationship>

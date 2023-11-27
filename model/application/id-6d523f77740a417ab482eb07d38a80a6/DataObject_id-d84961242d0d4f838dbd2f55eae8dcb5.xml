@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEBOUWD OBJECT"
+    id="id-d84961242d0d4f838dbd2f55eae8dcb5"
+    documentation="Een VERBLIJFSOBJECT of een OVERIG GEBOUWD OBJECT">
+  <properties
+      key="ggm-guid"
+      value="{752621CC-D5CA-4f4c-A937-AF6C84E6ADED}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="Door KING toegevoegd objecttype (maakt geen deel uit van enige basisregistratie)."/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="54e3e3b8-44c4-4e69-b289-051f4ea7f8d3"/>
+</archimate:DataObject>

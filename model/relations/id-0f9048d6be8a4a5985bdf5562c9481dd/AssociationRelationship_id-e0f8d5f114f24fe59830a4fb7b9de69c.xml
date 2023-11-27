@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-e0f8d5f114f24fe59830a4fb7b9de69c"
+    documentation="&lt;font color=&quot;#610e6a&quot;>De ENKELVOUDIGe DOCUMENTen die deel uit maken van het SAMENGESTELD DOCUMENT.&lt;/font>"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{98544267-83F6-43ed-A9B5-5775C5462D91}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="06d00e77-4fee-4418-b6d3-2b727f90ccee"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e96ad96c55514044a857ae4d361cbe20.xml#id-e96ad96c55514044a857ae4d361cbe20"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8adf41cbde524e9faa5e9baaac325271.xml#id-8adf41cbde524e9faa5e9baaac325271"/>
+</archimate:AssociationRelationship>

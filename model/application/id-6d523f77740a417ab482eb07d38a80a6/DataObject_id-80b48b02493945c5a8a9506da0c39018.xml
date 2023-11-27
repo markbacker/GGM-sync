@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Verbindingstype"
+    id="id-80b48b02493945c5a8a9506da0c39018">
+  <properties
+      key="ggm-guid"
+      value="{{7FDFE0D5-EE2F-414A-865D-9E3D4C87F015}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="fd157c54-5c91-4fbc-b4dc-44f27b76fe32"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatiedossier"
+    id="id-cd917f5c576f45559469c2e1d88b0033"
+    documentation="Overzicht van alle informatie over integratie en participatie betreffende een inwoner">
+  <properties
+      key="ggm-guid"
+      value="{F1DA83DA-4F56-408c-B2C4-AB6AF02E37B4}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="86d64303-7b32-41cc-8826-8862a294d9b4"/>
+</archimate:DataObject>

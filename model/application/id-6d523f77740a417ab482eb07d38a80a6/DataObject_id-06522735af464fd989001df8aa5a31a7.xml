@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CultuurOnbebouwd"
+    id="id-06522735af464fd989001df8aa5a31a7"
+    documentation="Een aanduiding voor de soort cultuur van het onbebouwde gedeelte van de onroerende zaak.">
+  <properties
+      key="ggm-guid"
+      value="{01C1622D-23E7-4a63-9B63-F45CA63E76CA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Vastgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="26f9c1ce-4988-47cf-9abb-c275e8b6bbf8"/>
+</archimate:DataObject>

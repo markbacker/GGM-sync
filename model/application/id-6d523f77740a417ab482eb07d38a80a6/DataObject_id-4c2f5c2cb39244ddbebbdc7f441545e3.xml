@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Team"
+    id="id-4c2f5c2cb39244ddbebbdc7f441545e3"
+    documentation="Een groep personen die door middel van samenwerking een gezamenlijk doel nastreeft, waarbij de teamleden afhankelijk van elkaar zijn om het doel te bereiken.">
+  <properties
+      key="ggm-guid"
+      value="{909A4134-4697-481e-9110-6386D0F6CAAD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek Jeugd en Wmo"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f22c1da3-f870-48ee-9fff-b000652c65b0"/>
+</archimate:DataObject>

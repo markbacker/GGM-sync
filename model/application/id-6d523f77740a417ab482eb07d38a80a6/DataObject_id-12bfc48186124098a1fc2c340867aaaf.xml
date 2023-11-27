@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vertrouwelijk aanduiding DOCUMENT"
+    id="id-12bfc48186124098a1fc2c340867aaaf">
+  <properties
+      key="ggm-guid"
+      value="{6219C450-09BD-4b0d-887B-911F72EDEF1B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f9845d2d-6041-4fe3-9530-3094f5bbabf5"/>
+</archimate:DataObject>

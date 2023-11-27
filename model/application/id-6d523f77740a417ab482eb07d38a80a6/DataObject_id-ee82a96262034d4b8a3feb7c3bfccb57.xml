@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inwinningsmethodeGeometrie"
+    id="id-ee82a96262034d4b8a3feb7c3bfccb57"
+    documentation="Een codering van de verschillende waarden die de inwinning geometrie kan aannemen">
+  <properties
+      key="ggm-guid"
+      value="{C6594858-EB0F-4fe0-A8AD-B952291429E4}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ca396baa-a15e-4cf9-8da7-32069d3b1bdb"/>
+</archimate:DataObject>

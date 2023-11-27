@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbesteding"
+    id="id-b8eb5ed61d764675920e1dffbd5ef5c6"
+    documentation="Kan een (enkel of meervoudige) onderhandse aanbesteding, of een nationale of Europese aanbesteding ">
+  <properties
+      key="ggm-guid"
+      value="{44EC6082-2682-43c7-A52E-0AD05B06A046}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Inkoop"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="c3b7b123-3de1-4f2e-afbf-df7d3c90849a"/>
+</archimate:DataObject>

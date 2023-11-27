@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opdrachtsoort"
+    id="id-ab72d04496e7435e9b3aefe5f7b7ccc0">
+  <properties
+      key="ggm-guid"
+      value="{5D6461E2-0D66-4039-BBF4-B413322EF194}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Inkoop"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="85f930eb-965b-4701-9f09-00f867dea4d0"/>
+</archimate:DataObject>

@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monument bouwactiviteit"
+    id="id-31874e78fbb4478185fab84b712d24d1"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{55585CB9-E569-47ca-9EFE-B9D5CF46BCBD}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="ecec3c97-57a6-48d1-82bf-f390804e748e"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0de1ae53be974431826cca39b57bebad.xml#id-0de1ae53be974431826cca39b57bebad"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-82acadc632a4443f8fa6014df7d33c4a.xml#id-82acadc632a4443f8fa6014df7d33c4a"/>
+</archimate:AssociationRelationship>

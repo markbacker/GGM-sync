@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CULTUURCODE BEBOUWD"
+    id="id-b8f3005d9db04e339ca264d16acf9f7e"
+    documentation="De mogelijke cultuurcodes bebouwd conform de waardelijst Cultuurcode Bebouwd van het Kadaster">
+  <properties
+      key="ggm-guid"
+      value="{DADECD97-1605-4c24-84A7-46AB2327468D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRK"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7b4bd42b-0d6b-4cb0-b580-b33ed53fb093"/>
+</archimate:DataObject>

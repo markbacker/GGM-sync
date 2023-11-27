@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidieprogramma"
+    id="id-398cf87e7495435f8b162fb0ebc079c5"
+    documentation="Programma waarin meerdere subsidies worden verleend vanuit een bepaalde samenhang">
+  <properties
+      key="ggm-guid"
+      value="{8F1A719D-C89A-4194-8FF4-1F3E0F174D3D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Subsidies"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="22a15a1c-4fb7-4e51-8a67-9615b2b710cd"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brug"
+    id="id-9c990ea845054e9ea3f4cf0b0b33a487"
+    documentation="Kunstwerk over een waterweg, watergang of waterloop, bestaande uit een brugdek gesteund door pijlers en/of landhoofden.">
+  <properties
+      key="ggm-guid"
+      value="{B56B8C37-AA54-4266-B96B-C466946D1C3}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a348f695-f22d-4c9e-a5b2-e41f53e96a9c"/>
+</archimate:DataObject>

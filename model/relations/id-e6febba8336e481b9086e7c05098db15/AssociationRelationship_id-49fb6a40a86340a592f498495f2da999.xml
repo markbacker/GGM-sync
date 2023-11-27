@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is budgetverantwoordelijk"
+    id="id-49fb6a40a86340a592f498495f2da999"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{6FF88F9A-09E6-4941-9752-49B5B854D383}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="61c7a6ea-dab0-45fe-b0ef-d09d0f079fbd"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-cd4a8cec3efb4300a42f2a6d1313d2ad.xml#id-cd4a8cec3efb4300a42f2a6d1313d2ad"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2651999252874d13bb19a94ce627261d.xml#id-2651999252874d13bb19a94ce627261d"/>
+</archimate:AssociationRelationship>

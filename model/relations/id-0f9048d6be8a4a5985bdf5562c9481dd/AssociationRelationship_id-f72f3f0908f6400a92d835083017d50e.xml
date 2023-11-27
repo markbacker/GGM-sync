@@ -1,0 +1,29 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bezwaart"
+    id="id-f72f3f0908f6400a92d835083017d50e"
+    documentation="De TENAAMSTELLING waarop een ZEKERHEIDSRECHT rust."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{318C7F68-3C41-4539-981A-F0204B8BBE28}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="72cd2403-56f0-412d-bbf5-50b33e7fd793"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dccbeb545a8740448840f4b1ead68e83.xml#id-dccbeb545a8740448840f4b1ead68e83"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-4599847c3d994e85a7293c008337f842.xml#id-4599847c3d994e85a7293c008337f842"/>
+</archimate:AssociationRelationship>

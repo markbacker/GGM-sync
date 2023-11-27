@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verblijfstitel"
+    id="id-49dff82ddd2548e9a82b70a778a9ddc6">
+  <properties
+      key="ggm-guid"
+      value="{0F51B100-1C60-4d54-9B60-1C9BF9C856A2}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="038bcc5b-6bf9-49e0-a754-0220004e8387"/>
+</archimate:DataObject>

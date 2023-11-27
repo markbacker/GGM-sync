@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kast"
+    id="id-06cb97a6b58e4d66ae20ebfc8f8d8f12"
+    documentation="Object met een permanent karakter dat dient om iets in te bergen en te beschermen.">
+  <properties
+      key="ggm-guid"
+      value="{E89ECEBE-796F-4CB7-9E9F-860EBC21B4B}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="d3d76d1e-30c7-4d0f-a747-7f03fb4e8ec8"/>
+</archimate:DataObject>

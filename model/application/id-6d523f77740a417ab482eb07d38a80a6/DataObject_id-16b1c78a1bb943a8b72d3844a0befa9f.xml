@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ligplaatsontheffing"
+    id="id-16b1c78a1bb943a8b72d3844a0befa9f"
+    documentation="Tijdelijke toestemming voor het innemen van een ligplaats op een locatie in een gebied met een verbod op ligplaatsen.">
+  <properties
+      key="ggm-guid"
+      value="{872A0342-EA75-418e-9455-E51875BFD771}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Veiligheid en Vergunningen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="c8d7724a-46bb-40b5-a649-5f6a7b699a76"/>
+</archimate:DataObject>

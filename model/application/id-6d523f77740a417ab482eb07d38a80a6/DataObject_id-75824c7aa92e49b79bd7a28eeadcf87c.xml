@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident"
+    id="id-75824c7aa92e49b79bd7a28eeadcf87c"
+    documentation="Niet-gepland(e) gebeurtenis die of voorval dat tot schade of verlies leidt">
+  <properties
+      key="ggm-guid"
+      value="{CE85A5E9-AD75-40e7-8EBF-A484E4CBEEDC}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Museum"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1145b2ec-ad49-4d87-b2fa-4942f3b9d359"/>
+</archimate:DataObject>

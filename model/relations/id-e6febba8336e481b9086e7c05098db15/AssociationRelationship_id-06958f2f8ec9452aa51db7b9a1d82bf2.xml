@@ -1,0 +1,35 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft betrekking op"
+    id="id-06958f2f8ec9452aa51db7b9a1d82bf2"
+    documentation="Een verwijzing naar het recht dat door een persoon wordt uitgeoefend op een kadastrale onroerende zaak."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{37F7170A-15AE-4bf3-9042-193E6084A3E8}"/>
+  <properties
+      key="toelichting"
+      value="&lt;memo>"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="c09ca4ae-dfcc-4363-be36-0df8afde9d2e"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c75fcd046a964e11ae4fe5c218874335.xml#id-c75fcd046a964e11ae4fe5c218874335"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3f6f9cfeba874e5e98dbb9e98eb8034f.xml#id-3f6f9cfeba874e5e98dbb9e98eb8034f"/>
+</archimate:AssociationRelationship>

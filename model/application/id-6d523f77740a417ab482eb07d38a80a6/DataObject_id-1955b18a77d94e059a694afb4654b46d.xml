@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Melding"
+    id="id-1955b18a77d94e059a694afb4654b46d"
+    documentation="De betekenisvolle formulering van een waargenomen feit, waaraan een waarde kan worden toegekend">
+  <properties
+      key="ggm-guid"
+      value="{C6094F79-D8EA-4763-90DF-4E30EFABA1FA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ef02ce96-45dc-4857-8271-0ae5bfbfa9a5"/>
+</archimate:DataObject>

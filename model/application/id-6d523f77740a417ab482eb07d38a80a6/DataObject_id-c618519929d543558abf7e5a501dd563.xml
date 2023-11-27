@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historisch Persoon "
+    id="id-c618519929d543558abf7e5a501dd563"
+    documentation="Natuurlijk persoon waarvan informatie beschikbaar is uit het verleden.">
+  <properties
+      key="ggm-guid"
+      value="{3BBB3264-592A-4d8c-A741-C2A3C38E3932}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Generieke Entiteiten Erfgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f11d6e7f-1048-462e-a6f6-4e2354ae722d"/>
+</archimate:DataObject>

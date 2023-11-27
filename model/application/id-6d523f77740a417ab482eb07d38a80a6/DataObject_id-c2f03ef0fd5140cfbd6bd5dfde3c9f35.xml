@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikkingsoort"
+    id="id-c2f03ef0fd5140cfbd6bd5dfde3c9f35"
+    documentation="Typering van een beschikking">
+  <properties
+      key="ggm-guid"
+      value="{FD14E04F-26A1-42ba-8E47-5F43AF539877}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek Jeugd en Wmo"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="da454581-4f81-4255-b002-9b43227a29e8"/>
+</archimate:DataObject>

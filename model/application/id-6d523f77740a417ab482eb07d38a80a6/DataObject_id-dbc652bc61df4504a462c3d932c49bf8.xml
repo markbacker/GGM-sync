@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzuim"
+    id="id-dbc652bc61df4504a462c3d932c49bf8"
+    documentation="Een afwezigheid van een werknemer van werk.">
+  <properties
+      key="ggm-guid"
+      value="{610B18E6-B675-4cc0-A883-BAB9D384C668}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="40cd9700-654a-4757-9bc1-b22bda4e21d9"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZAAK"
+    id="id-f9a80416eb2c495aadf8cec2aaeedc86"
+    documentation="&lt;font color=&quot;#610e6a&quot;>Een samenhangende hoeveelheid werk met een welgedefinieerde aanleiding en een welgedefinieerd eindresultaat, waarvan kwaliteit en doorlooptijd bewaakt moeten worden.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{649EFD86-ED52-4293-8577-DBE5445845BF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="RGBZ Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ffaa361e-7baa-4b1f-94e6-01cbff209a4c"/>
+</archimate:DataObject>

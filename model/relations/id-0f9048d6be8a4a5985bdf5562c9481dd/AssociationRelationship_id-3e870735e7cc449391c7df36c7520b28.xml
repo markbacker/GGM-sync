@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hoort bij"
+    id="id-3e870735e7cc449391c7df36c7520b28"
+    documentation="&lt;font color=&quot;#610e6a&quot;>De ORGANISATORISCHE EENHEID waarvan de MEDEWERKER deel uitmaakt of deel heeft uitgemaakt.&lt;/font>"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{CF008EC2-F42E-4e6b-8000-E9A81F3A2ECA}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="69942b84-119a-4a76-899e-2ac34bd304ce"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a82e94be85e04fac9619ed0a546fafd7.xml#id-a82e94be85e04fac9619ed0a546fafd7"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3d82b40787794292884f7cd26f76a4dd.xml#id-3d82b40787794292884f7cd26f76a4dd"/>
+</archimate:AssociationRelationship>

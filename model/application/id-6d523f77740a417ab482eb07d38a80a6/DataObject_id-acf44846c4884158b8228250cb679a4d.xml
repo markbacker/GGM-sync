@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nationaliteit"
+    id="id-acf44846c4884158b8228250cb679a4d">
+  <properties
+      key="ggm-guid"
+      value="{69B41CDD-C3F1-449b-92B4-8F7657840646}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ea0790e2-9aa7-47e4-97fd-e7f55bf48a58"/>
+</archimate:DataObject>

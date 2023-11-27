@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_TypeWaterplant"
+    id="id-6551bec4a1084c4ba189703dbb93c59d">
+  <properties
+      key="ggm-guid"
+      value="{{F5EC227C-2CA6-4688-99A9-6453CF0023CC}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="23ee2a3a-6bd8-45c0-b9e3-60c7c0e867ec"/>
+</archimate:DataObject>

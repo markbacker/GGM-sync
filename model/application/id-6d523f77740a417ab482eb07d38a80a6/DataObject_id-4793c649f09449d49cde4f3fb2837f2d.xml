@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storing"
+    id="id-4793c649f09449d49cde4f3fb2837f2d"
+    documentation="Verlies van de mogelijkheid om volgens een specificatie te werken of om het vereiste resultaat te leveren.">
+  <properties
+      key="ggm-guid"
+      value="{0EF67A8B-AEBE-4a00-B1EF-2EFD0DCC9F5D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="21312258-f59b-485f-89f5-cb2db039947e"/>
+</archimate:DataObject>

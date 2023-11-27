@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="schrijft op"
+    id="id-1ed42c012a0c4e4bbadb30f200afdb60"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{05D36DF8-E8DB-4273-B0C4-D1DDAB7070F4}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="6ab5c0d0-3cd3-40fb-9ceb-cc1287c6c20d"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-191c9f8715434d1797e8716cef295f12.xml#id-191c9f8715434d1797e8716cef295f12"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-b37781b2e4ec44638bd312307ac048ee.xml#id-b37781b2e4ec44638bd312307ac048ee"/>
+</archimate:AssociationRelationship>

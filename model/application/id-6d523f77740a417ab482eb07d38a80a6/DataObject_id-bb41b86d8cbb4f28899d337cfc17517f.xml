@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectsoort"
+    id="id-bb41b86d8cbb4f28899d337cfc17517f"
+    documentation="Typering van een project">
+  <properties
+      key="ggm-guid"
+      value="{4FCF75CC-8296-4b32-BD5E-EC3DEDF17470}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Schuldhulpverlening"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="9f80ad2b-1da6-43db-94a5-6139fbc579fe"/>
+</archimate:DataObject>

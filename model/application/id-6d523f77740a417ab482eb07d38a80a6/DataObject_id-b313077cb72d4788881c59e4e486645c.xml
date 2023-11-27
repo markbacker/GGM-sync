@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_SpeelterreinLeeftijdDoelgroep"
+    id="id-b313077cb72d4788881c59e4e486645c">
+  <properties
+      key="ggm-guid"
+      value="{{ACE7A70E-3776-4953-8068-9A01C1988678}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e41cc5e5-3236-45a1-852d-6b12088d0838"/>
+</archimate:DataObject>

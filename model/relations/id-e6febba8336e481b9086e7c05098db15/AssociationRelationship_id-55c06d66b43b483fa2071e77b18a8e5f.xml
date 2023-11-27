@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="id-55c06d66b43b483fa2071e77b18a8e5f"
+    documentation="In TMS loopt dit via LoanObjRefs"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{F84FAC06-CCCA-41b9-A510-916928881915}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="454d02fd-70f8-4fd4-a0d2-53326169d5b7"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-75337871c5754a3cbde0c6560adf54bc.xml#id-75337871c5754a3cbde0c6560adf54bc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-844bcee78424470fae6fd55c5c550b5e.xml#id-844bcee78424470fae6fd55c5c550b5e"/>
+</archimate:AssociationRelationship>

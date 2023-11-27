@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-076444152cc54be7b16bcf733e70142f"
+    documentation="Een NATUURLIJK PERSOON als specialisatie van BETROKKENE."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{19608E86-9614-4a15-A3CE-8FC5D0508750}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="a9eeb0fb-2601-4a2c-b59c-9904784611e6"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e440ce62d79a4e26a5a5de2f66d162df.xml#id-e440ce62d79a4e26a5a5de2f66d162df"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4dafa9733167427babd4bb0ddbc9a7f4.xml#id-4dafa9733167427babd4bb0ddbc9a7f4"/>
+</archimate:AssociationRelationship>

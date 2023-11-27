@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spoor"
+    id="id-5f47c5560a924ed984d84bc1aaa9bbd5"
+    documentation="Een blijk van eerdere aanwezigheid.">
+  <properties
+      key="ggm-guid"
+      value="{14939C33-2DCE-41bf-A2BE-FF1EDD292FE7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="synoniemen"
+      value="Overblijfsel"/>
+  <properties
+      key="domein-iv3"
+      value="Archeologie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2b6d7337-40ba-47c7-913a-9c4d4c59d809"/>
+</archimate:DataObject>

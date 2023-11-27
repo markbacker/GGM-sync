@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BETROKKENE"
+    id="id-d785b7a6fc6a4fa888821a4b101f9023"
+    documentation="&lt;font color=&quot;#610e6a&quot;>Een SUBJECT, zijnde een NATUURLIJK PERSOON, NIET-NATUURLIJK PERSOON of VESTIGING, ORGANISATORISCHE EENHEID (binnen een vestiging van de zaak-behandelende niet-natuurlijk persoon), of MEDEWERKER (van die organisatorische eenheid) die een rol kan spelen bij een ZAAK.&lt;/font>">
+  <properties
+      key="ggm-guid"
+      value="{16FB8171-A9ED-4027-A663-C035509501C8}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="RGBZ Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="603f558e-3dd1-4a89-8f04-e5f5f7ac59a8"/>
+</archimate:DataObject>

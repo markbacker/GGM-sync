@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AARD ZAKELIJK RECHT"
+    id="id-dc377013183548b085089a047bf85708"
+    documentation="Een opsomming van de diverse aarden van het zakelijk rechten zoals door de Dienst Kadaster is onderscheiden.">
+  <properties
+      key="ggm-guid"
+      value="{AC4F4A9C-1623-4447-9813-0722CDD58E66}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRK"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="9a14aecf-ea2d-4f49-93fe-f1ed7fba6325"/>
+</archimate:DataObject>

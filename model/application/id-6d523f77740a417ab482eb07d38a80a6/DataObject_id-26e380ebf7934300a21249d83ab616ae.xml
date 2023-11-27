@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FunctioneelGebied"
+    id="id-26e380ebf7934300a21249d83ab616ae"
+    documentation="Begrensd en benoemd gebied dat door een functionele eenheid beschreven wordt.   (bron: definities.geostandaarden.nl)">
+  <properties
+      key="ggm-guid"
+      value="{43DD67FD-75F0-4FE0-90F0-DB49048F14C}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1945be15-e247-4ed6-a0d8-4f0c7b011cff"/>
+</archimate:DataObject>

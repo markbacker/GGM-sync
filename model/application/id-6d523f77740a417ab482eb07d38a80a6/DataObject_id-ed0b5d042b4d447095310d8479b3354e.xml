@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlofaanvraag"
+    id="id-ed0b5d042b4d447095310d8479b3354e"
+    documentation="Een verzoek om toestemming te krijgen iets te doen, bijvoorbeeld vakantie of studie">
+  <properties
+      key="ggm-guid"
+      value="{E9DECE41-F7F5-49f1-94B5-63DE941F6094}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Leerplicht en Leerlingenvervoer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="b6f52b20-cc52-4f79-a9f4-6bcc0b94a418"/>
+</archimate:DataObject>

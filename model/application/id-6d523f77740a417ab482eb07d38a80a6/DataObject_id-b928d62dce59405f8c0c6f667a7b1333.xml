@@ -1,0 +1,24 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidiecomponent"
+    id="id-b928d62dce59405f8c0c6f667a7b1333"
+    documentation="Onderdeel van een subisidie met een eigen kostenplaats.">
+  <properties
+      key="ggm-guid"
+      value="{DB093A73-BE89-462b-8FBA-19B2629072ED}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="domein-iv3"
+      value="Subsidies"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="02455d1c-1164-4ba7-b148-547acdd7c4ec"/>
+</archimate:DataObject>

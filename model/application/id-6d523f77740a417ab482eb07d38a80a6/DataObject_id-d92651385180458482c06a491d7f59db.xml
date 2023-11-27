@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitschrijving"
+    id="id-d92651385180458482c06a491d7f59db"
+    documentation="Beeindiging van een inschrijving van een leerling bij een school">
+  <properties
+      key="ggm-guid"
+      value="{133AF611-9FA0-4a09-BF12-74C5FA5F6F60}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Onderwijs"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7410a582-f5f8-4ae7-9072-17bfe7936362"/>
+</archimate:DataObject>

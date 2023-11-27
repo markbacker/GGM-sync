@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is lid van"
+    id="id-eb9ff935e1fe4c5b8a4dd33e23acc3dc"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{1DF94C0B-C6BD-4c7d-9AE2-5761713339DB}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="4d816dca-9fb5-45fd-a780-425f29c2bb31"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d2c7a509dbeb44cfa88aa26124791056.xml#id-d2c7a509dbeb44cfa88aa26124791056"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-886cc1e1e786433792e5bf0fe6208a0f.xml#id-886cc1e1e786433792e5bf0fe6208a0f"/>
+</archimate:AssociationRelationship>

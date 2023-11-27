@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erfgoed Object"
+    id="id-a0fa3bc233fb4b638c3ba0ad8bd30871"
+    documentation="Uit het verleden ge√´rfde materi√´le en immateri√´le objecten ">
+  <properties
+      key="ggm-guid"
+      value="{71A5C565-C2CC-495f-910A-76C199C6AF0E}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Generieke Entiteiten Erfgoed"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3cbaffb7-1061-44f5-82d4-bd6a16fb4a26"/>
+</archimate:DataObject>

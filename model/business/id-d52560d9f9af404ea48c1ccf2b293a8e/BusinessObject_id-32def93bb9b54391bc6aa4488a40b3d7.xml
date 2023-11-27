@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sportpark"
+    id="id-32def93bb9b54391bc6aa4488a40b3d7"
+    documentation="Geheel van terreinen, gebouwen en voorzieningen voor verschillende takken van sport.">
+  <properties
+      key="ggm-guid"
+      value="{FE1A2EF2-44FA-46fa-A583-7BAB858E17FD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="synoniemen"
+      value="Sportterrein"/>
+  <properties
+      key="domein-iv3"
+      value="Sport"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="c5e64800-eab1-45dd-98da-e8501fb72cfe"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

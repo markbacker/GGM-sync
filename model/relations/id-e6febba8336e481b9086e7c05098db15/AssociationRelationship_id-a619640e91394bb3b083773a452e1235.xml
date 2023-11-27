@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tegen prijs"
+    id="id-a619640e91394bb3b083773a452e1235"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{D8CF5F7C-897F-4af8-B199-A0F5127C1236}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="3ff9efc9-1db5-4c17-a701-1953eae13fe6"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6133f313d1fe4549bb0d6a91d0a23465.xml#id-6133f313d1fe4549bb0d6a91d0a23465"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4e50eb71d99a4a79aa0d1fa5bc921bdd.xml#id-4e50eb71d99a4a79aa0d1fa5bc921bdd"/>
+</archimate:AssociationRelationship>

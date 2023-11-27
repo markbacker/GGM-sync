@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geluidsscherm"
+    id="id-39b07f986ec249c3a133031c29b01a6d"
+    documentation="Een scheiding bedoeld om geluidshinder in de buitenlucht te verminderen. (IMGeo)">
+  <properties
+      key="ggm-guid"
+      value="{DD64F32C-3273-4E23-9A61-FCC8EC93977}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f45b3816-7e45-439f-b59f-b0494e06db4c"/>
+</archimate:DataObject>

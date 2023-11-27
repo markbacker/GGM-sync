@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anciennteit"
+    id="id-641569e2a06641ef88e59d45de2d58fc">
+  <properties
+      key="ggm-guid"
+      value="{719D0E34-8AAF-443e-88D7-D52628955B97}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="51f49976-61a5-473d-8a3a-738f2906d6e9"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soortBijzondereRechtstoestandNatuurlijkPersoon"
+    id="id-5de6b32bbf784071be210b9eb229ea41"
+    documentation="Een aanduiding van de bijzondere rechtstoestanden waarin een natuurlijke persoon kan verkeren">
+  <properties
+      key="ggm-guid"
+      value="{8B3F4F93-218F-4014-8698-A840E0D82CE4}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="82807164-f220-40b1-87a2-4ccccba5ab9c"/>
+</archimate:DataObject>

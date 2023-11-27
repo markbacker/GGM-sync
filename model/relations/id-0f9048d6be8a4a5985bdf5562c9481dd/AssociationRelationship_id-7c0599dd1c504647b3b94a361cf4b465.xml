@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beschrijft gebiedsaanwijzing"
+    id="id-7c0599dd1c504647b3b94a361cf4b465"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{328C510A-1E45-4d18-885B-5D37558B5993}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="7aa8b3b7-a530-4c0f-8254-0cd2171c5f89"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6f2ae1fa673e49f5a4564b78e94d4a38.xml#id-6f2ae1fa673e49f5a4564b78e94d4a38"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-1a37fd5f6f1841c8bc987b834a940130.xml#id-1a37fd5f6f1841c8bc987b834a940130"/>
+</archimate:AssociationRelationship>

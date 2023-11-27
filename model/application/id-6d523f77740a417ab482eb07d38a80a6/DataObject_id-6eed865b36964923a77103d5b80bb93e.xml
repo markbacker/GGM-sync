@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelsoort"
+    id="id-6eed865b36964923a77103d5b80bb93e"
+    documentation="Typering van een behandeling">
+  <properties
+      key="ggm-guid"
+      value="{4F518962-5EA3-4f56-8379-3A835FFE84CA}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Sociale Teams"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="8276e335-1f33-4e7a-aec0-319bb80e7810"/>
+</archimate:DataObject>

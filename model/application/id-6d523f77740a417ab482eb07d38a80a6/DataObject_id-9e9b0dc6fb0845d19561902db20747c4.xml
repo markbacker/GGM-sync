@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component"
+    id="id-9e9b0dc6fb0845d19561902db20747c4">
+  <properties
+      key="ggm-guid"
+      value="{F4FD02F2-9FFA-4a35-BA32-B4CDE4002E7A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e62b012c-a9cd-4097-8c22-ce91df5c6fd7"/>
+</archimate:DataObject>

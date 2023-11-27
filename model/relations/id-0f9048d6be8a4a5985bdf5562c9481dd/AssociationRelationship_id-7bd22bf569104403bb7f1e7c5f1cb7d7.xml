@@ -1,0 +1,26 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-7bd22bf569104403bb7f1e7c5f1cb7d7"
+    documentation="De verwijzing naar de VERBLIJFSTITEL die aangeeft over welke verblijfsrechtelijke status de ingezetene beschikt."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{BB758CBA-3CE6-4bcc-BD0E-05CE964EE458}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="cebe7d3f-ad17-49ff-bd34-7a2dccbb3607"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-803f0fa57b2b4b17820f68e0ff22cd4e.xml#id-803f0fa57b2b4b17820f68e0ff22cd4e"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d86db8b948f5494e8f20419dbb3772d9.xml#id-d86db8b948f5494e8f20419dbb3772d9"/>
+</archimate:AssociationRelationship>

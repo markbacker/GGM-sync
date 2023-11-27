@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afgehandeld door"
+    id="id-c090902eb8c3459098ce36fa864cd946"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{6E0A612D-3FC1-4e4e-A882-307582C17A80}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="3541db0c-1cf4-4aec-89d3-f063ed90993d"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-48c752ab26e749449a33cfd4bac937cf.xml#id-48c752ab26e749449a33cfd4bac937cf"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3d82b40787794292884f7cd26f76a4dd.xml#id-3d82b40787794292884f7cd26f76a4dd"/>
+</archimate:AssociationRelationship>

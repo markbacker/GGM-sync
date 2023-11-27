@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is"
+    id="id-ce2ebcf03baf4679b9f9629939df1088"
+    documentation="Een HUISHOUDEN als specialisatie van OBJECT."
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{2CA9E920-CD4C-432e-9A5E-44F84F706FAE}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="f72dbea7-8baf-4513-b649-c23c25034218"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3d4792d13cf548ad801c2275529c285f.xml#id-3d4792d13cf548ad801c2275529c285f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a5cf31e7407a48d8b07a6829f52966a3.xml#id-a5cf31e7407a48d8b07a6829f52966a3"/>
+</archimate:AssociationRelationship>

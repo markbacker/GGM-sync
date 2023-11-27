@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BENOEMD OBJECT"
+    id="id-0bf24a1acc9a4b709b15c83be9e8f318"
+    documentation="Een GEBOUWD OBJECT of een BENOEMD TERREIN">
+  <properties
+      key="ggm-guid"
+      value="{3E9E08B7-574E-43dc-8D93-251BFA8F8D75}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="KING"/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="abca9f16-f509-4c19-bbe9-190d198fd134"/>
+</archimate:DataObject>

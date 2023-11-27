@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doet sollicitatiegesprek"
+    id="id-d22593502e9349fbbed600e3ad73ee21"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{5E83AD01-AAD7-4d8b-9F09-4180F84BF53B}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="91a11963-634e-4b2c-88d4-0df56d7f7591"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8101bb91e1c84adb9acf3472439f87a6.xml#id-8101bb91e1c84adb9acf3472439f87a6"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-6e786114a07e4d66b0472a428d9f5287.xml#id-6e786114a07e4d66b0472a428d9f5287"/>
+</archimate:AssociationRelationship>

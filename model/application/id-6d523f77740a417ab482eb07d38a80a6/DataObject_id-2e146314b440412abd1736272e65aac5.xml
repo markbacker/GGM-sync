@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hardware"
+    id="id-2e146314b440412abd1736272e65aac5"
+    documentation="Alle fysieke componenten of onderdelen die in een computer een rol spelen.">
+  <properties
+      key="ggm-guid"
+      value="{6C92F0F8-BC92-428c-B729-1A10D515DAEF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3dc1eacc-a5cb-46b5-b9ff-8eab5172883c"/>
+</archimate:DataObject>

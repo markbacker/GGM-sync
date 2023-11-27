@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sanctiesoort"
+    id="id-cba08af4f47f476d81cbb3003d93825d">
+  <properties
+      key="ggm-guid"
+      value="{BA10C3E6-8F44-4f8d-B532-DED61E368F5E}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Leerplicht en Leerlingenvervoer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="90add442-00d6-4f83-8300-1366f2866007"/>
+</archimate:DataObject>

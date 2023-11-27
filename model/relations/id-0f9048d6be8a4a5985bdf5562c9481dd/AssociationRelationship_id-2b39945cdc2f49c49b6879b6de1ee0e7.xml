@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soort verzuim"
+    id="id-2b39945cdc2f49c49b6879b6de1ee0e7"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{8B730311-4D6F-4d43-8A5B-8E099B4C421C}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="cd8e32a9-259f-4c14-b244-00323eb8b144"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-dbc652bc61df4504a462c3d932c49bf8.xml#id-dbc652bc61df4504a462c3d932c49bf8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ea4828fa9893496b92fe9a4cc278614c.xml#id-ea4828fa9893496b92fe9a4cc278614c"/>
+</archimate:AssociationRelationship>

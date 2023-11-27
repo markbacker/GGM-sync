@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Markeringspatroon"
+    id="id-6e5dec5060d449f49cf02acdb6939b3c">
+  <properties
+      key="ggm-guid"
+      value="{{E65AB918-984D-4709-BF75-A10ED60C7940}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2ef25468-bd39-493f-a300-b33821b187b2"/>
+</archimate:DataObject>

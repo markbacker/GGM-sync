@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOOR-melding"
+    id="id-abb66fcd4d9a4a5299d1aedb9ecf4ced"
+    documentation="Meldingsproces rondom werkzaamheden aan kabels en leidingen.">
+  <properties
+      key="ggm-guid"
+      value="{30D5F6E6-DE8D-46b6-AC8A-6CA1391ADFF7}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="02c8782c-a82e-425f-900c-67b77f02e3fe"/>
+</archimate:DataObject>

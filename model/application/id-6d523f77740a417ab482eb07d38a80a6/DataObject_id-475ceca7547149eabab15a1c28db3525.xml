@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prijsregel"
+    id="id-475ceca7547149eabab15a1c28db3525">
+  <properties
+      key="ggm-guid"
+      value="{E79C6C20-3D05-49fb-96ED-105B5CD0ABA5}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Afval"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="d2f1afc8-b67c-4b83-9738-138463184554"/>
+</archimate:DataObject>

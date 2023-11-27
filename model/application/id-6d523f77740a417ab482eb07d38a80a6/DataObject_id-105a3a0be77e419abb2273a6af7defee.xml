@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functie"
+    id="id-105a3a0be77e419abb2273a6af7defee"
+    documentation="Een samenhangende verzameling van rollen">
+  <properties
+      key="ggm-guid"
+      value="{F29C11C1-477C-4b90-985C-43F94D08230A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Organisatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="880bbe61-ba10-46ed-a662-7bf152f7518e"/>
+</archimate:DataObject>

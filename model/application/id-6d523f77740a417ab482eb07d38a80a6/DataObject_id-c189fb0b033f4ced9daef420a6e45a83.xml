@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reden Beeindiging"
+    id="id-c189fb0b033f4ced9daef420a6e45a83"
+    documentation="argumentatie voor stopzetting">
+  <properties
+      key="ggm-guid"
+      value="{FF79699B-F356-4168-875F-B4D0266789EE}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="64afb579-b482-408b-8f80-9cbf8d6e105b"/>
+</archimate:DataObject>

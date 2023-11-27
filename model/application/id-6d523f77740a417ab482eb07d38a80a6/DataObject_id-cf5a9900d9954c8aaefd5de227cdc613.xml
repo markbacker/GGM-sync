@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regelingsoort"
+    id="id-cf5a9900d9954c8aaefd5de227cdc613"
+    documentation="Typologie van een regeling">
+  <properties
+      key="ggm-guid"
+      value="{14D3C960-5EF2-433c-8E1C-B493974280E2}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Participatie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="8c99e992-35f5-4f4a-863f-dcc4be688b3b"/>
+</archimate:DataObject>

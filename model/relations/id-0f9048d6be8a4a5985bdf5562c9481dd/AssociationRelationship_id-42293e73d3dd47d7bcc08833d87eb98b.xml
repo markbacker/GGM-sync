@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="staat op"
+    id="id-42293e73d3dd47d7bcc08833d87eb98b"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{8C0C6E8C-2CFD-4f2b-95DB-6417D1A1398D}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="313ac0fa-1c1a-4c64-9d79-5663df0c8b18"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9086d53cff2a4ee3a442f52beb643073.xml#id-9086d53cff2a4ee3a442f52beb643073"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ecca9c7f56f245b6b8416d24921c58c6.xml#id-ecca9c7f56f245b6b8416d24921c58c6"/>
+</archimate:AssociationRelationship>

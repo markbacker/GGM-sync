@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Depot"
+    id="id-8bb04d2445ff4b3190b99a2387f31b65"
+    documentation="Plaats waar iets bewaard wordt.">
+  <properties
+      key="ggm-guid"
+      value="{604A6143-DE7F-4950-B3D4-DFB88C7F4670}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Archief"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="e2c31a3d-f5e4-4863-aa90-65dd50255b8b"/>
+</archimate:DataObject>

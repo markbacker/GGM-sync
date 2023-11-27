@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft uitstroomreden"
+    id="id-7d09e8f82a3b4596b0d5f76ca0db1647"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{79E7A915-07A7-4fbd-939F-5BCF86B282BC}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="4511e7d7-0edf-45b2-8dc1-e0bd9f7afc26"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-66ad0945c64646bfb45dda7d01731a1f.xml#id-66ad0945c64646bfb45dda7d01731a1f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f07dc32925d5441ea25753bda9dd56df.xml#id-f07dc32925d5441ea25753bda9dd56df"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,36 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rioleringsgebied"
+    id="id-766d897eaa3b41288357a6f938b75e8b"
+    documentation="Het gebied waarbinnen Ã©Ã©n of meerdere inliggende rioolstelsel(s) het afvalwater naar Ã©Ã©n gemaal of overnamepunt transporteert/teren. Een rioleringsgebied kan een enkelvoudig gebied zijn, maar kan ook meerdere rioleringsgebieden omvatten. Een gebied is zodanig gekozen dat het voldoende inzicht geeft in de belasting van oppervlaktewater en overnamepunt.&#xA;Toelichting: Het gebied waarbinnen Ã©Ã©n of meerdere inliggende rioolstelsel(s) het afvalwater naar Ã©Ã©n gemaal of overnamepunt transporteert/teren. Een rioleringsgebied kan een enkelvoudig gebied zijn, maar kan ook meerdere rioleringsgebieden omvatten. Een gebied is zodanig gekozen dat het voldoende inzicht geeft in de belasting van oppervlaktewater en overnamepunt.">
+  <properties
+      key="ggm-guid"
+      value="{3252585C-4FAB-4EC1-9BA6-F51EAFF271D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="b40cb68a-9b12-4a5d-99eb-e93f9d864c34"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

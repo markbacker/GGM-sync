@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is gehuisvest in"
+    id="id-3d85330ec6784c3fbb902f7b65f9ddb1"
+    documentation="&lt;font color=&quot;#610e6a&quot;>De VESTIGING VAN ZAAKBEHANDELENDE ORGANISATIE waar de ORGANISATORISCHE EENHEID haar activiteiten uitvoert.&lt;/font>"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{689523F1-DB08-428a-B016-53B63C975012}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="29bfacc2-c2b4-4826-bee8-27db247bd071"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7b29a1f2c796458ab75ccd4e94a0bc72.xml#id-7b29a1f2c796458ab75ccd4e94a0bc72"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c7e5c33f98eb4f15ad29eedb124976cb.xml#id-c7e5c33f98eb4f15ad29eedb124976cb"/>
+</archimate:AssociationRelationship>

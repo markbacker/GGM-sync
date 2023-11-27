@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert tegenprestatie"
+    id="id-4899e1ff868843d2b4651a7d15c5373d"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{240825AF-44A8-4825-A162-265597DE2775}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="13751ec7-6537-49ca-aa62-e9ac5d829b7f"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-66ad0945c64646bfb45dda7d01731a1f.xml#id-66ad0945c64646bfb45dda7d01731a1f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f2923984adf74fc987b99d933a3edc30.xml#id-f2923984adf74fc987b99d933a3edc30"/>
+</archimate:AssociationRelationship>

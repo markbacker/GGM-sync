@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft benoemd object"
+    id="id-376c085a222043fcbea745623ca39626"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{0D455136-E7F3-45b9-856F-99BD1C12F7EF}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="7b8dac85-3409-40b8-b391-695745ddf842"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ecb5fd057c7e441d9fffa520072c016c.xml#id-ecb5fd057c7e441d9fffa520072c016c"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0bf24a1acc9a4b709b15c83be9e8f318.xml#id-0bf24a1acc9a4b709b15c83be9e8f318"/>
+</archimate:AssociationRelationship>

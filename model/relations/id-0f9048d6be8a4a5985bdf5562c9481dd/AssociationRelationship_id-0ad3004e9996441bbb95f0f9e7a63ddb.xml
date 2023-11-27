@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vacature bij functie"
+    id="id-0ad3004e9996441bbb95f0f9e7a63ddb"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{8ACA644F-8D3A-4ab0-B755-24F44D39EEC1}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="0a5879a6-b43c-4cf5-9432-8abb1e5fece9"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d893a4095ae444178f998bc2e1a962ad.xml#id-d893a4095ae444178f998bc2e1a962ad"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-105a3a0be77e419abb2273a6af7defee.xml#id-105a3a0be77e419abb2273a6af7defee"/>
+</archimate:AssociationRelationship>

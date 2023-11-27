@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft leerling"
+    id="id-7062a05bada243db900ac6b17a2efabe"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{DBBD5265-268F-46ea-A748-3BECEA8A9A4A}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="80d39207-76af-4907-902d-c4bd3c314b37"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ac6ad35abc0647c8b600f5d1f49069fe.xml#id-ac6ad35abc0647c8b600f5d1f49069fe"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-766e0caea49a4ef8b45fafe1679f11aa.xml#id-766e0caea49a4ef8b45fafe1679f11aa"/>
+</archimate:AssociationRelationship>

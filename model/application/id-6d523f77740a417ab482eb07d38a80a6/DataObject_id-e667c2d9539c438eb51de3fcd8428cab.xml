@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mast"
+    id="id-e667c2d9539c438eb51de3fcd8428cab"
+    documentation="Draagconstructie, bestaande uit een verticale buispaal, die wordt gebruikt om iets op hoogte te brengen.">
+  <properties
+      key="ggm-guid"
+      value="{CDF116D4-B5B9-4D01-8A5B-4FFB08CEE00}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="71174968-42a2-4717-8a7c-1b4d4f8d3a4a"/>
+</archimate:DataObject>

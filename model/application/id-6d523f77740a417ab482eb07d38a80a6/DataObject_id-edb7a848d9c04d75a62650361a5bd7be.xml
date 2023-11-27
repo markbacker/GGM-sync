@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Waterdoorlatendheid"
+    id="id-edb7a848d9c04d75a62650361a5bd7be">
+  <properties
+      key="ggm-guid"
+      value="{{DE774AB1-14E7-43D3-BC6D-3459E3893455}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="7b0041db-940e-4703-9e63-0cdcbbee9f6c"/>
+</archimate:DataObject>

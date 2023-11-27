@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs"
+    id="id-4b3e570c2fd8483f958c32a032a9e4d3">
+  <properties
+      key="ggm-guid"
+      value="{E4266DEA-CDB0-4568-AB4D-8B3C21976E82}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="domein-iv3"
+      value="Inburgering"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="042aad26-ef5b-473a-85ef-cc261fae2536"/>
+</archimate:DataObject>

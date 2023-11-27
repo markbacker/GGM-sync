@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belangtype"
+    id="id-7aeac69a2280407badd75ec813622f8b"
+    documentation="Sort van belang">
+  <properties
+      key="ggm-guid"
+      value="{3F7BCCE5-7292-40d6-A4EB-21F7B9F25236}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Museum"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0bb2530d-4b41-4c4b-ae3d-9132f3f1ba18"/>
+</archimate:DataObject>

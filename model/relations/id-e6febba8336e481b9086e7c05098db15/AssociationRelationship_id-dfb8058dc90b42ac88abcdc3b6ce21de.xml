@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is projectleider van"
+    id="id-dfb8058dc90b42ac88abcdc3b6ce21de"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{BCAFF0F6-3351-45ae-BD46-EA29D08AB8B5}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="7b05cb8b-182e-41ce-b560-a657a78b4bfc"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-6ec66160a322461e807de8930ffa0a69.xml#id-6ec66160a322461e807de8930ffa0a69"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e88a720b86514b57b302eaf7cbf9a559.xml#id-e88a720b86514b57b302eaf7cbf9a559"/>
+</archimate:AssociationRelationship>

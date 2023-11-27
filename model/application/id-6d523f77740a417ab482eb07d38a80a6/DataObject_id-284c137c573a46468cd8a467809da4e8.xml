@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Declaratie"
+    id="id-284c137c573a46468cd8a467809da4e8"
+    documentation="Een opgave van te vergoeden kosten.">
+  <properties
+      key="ggm-guid"
+      value="{5E542F35-E413-49c4-8FB7-335B6BE9667A}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Generiek Jeugd en Wmo"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ca2a5dc7-cdfb-44a6-8871-a615c7c3ba8f"/>
+</archimate:DataObject>

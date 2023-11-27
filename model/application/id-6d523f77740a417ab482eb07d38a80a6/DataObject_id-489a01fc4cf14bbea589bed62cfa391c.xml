@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheerstatus"
+    id="id-489a01fc4cf14bbea589bed62cfa391c">
+  <properties
+      key="ggm-guid"
+      value="{1FCBFA1B-2703-4ece-A496-EA668AEFCDCD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="ICT"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="8a8d56db-ef33-46c1-830f-b00c414c1a1f"/>
+</archimate:DataObject>

@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikking Leerlingenvervoer"
+    id="id-dda5b0775fe9467ebb545e5c1ada3a0a">
+  <properties
+      key="ggm-guid"
+      value="{81870665-768C-4fb2-8A4F-A9CB7989C884}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Leerplicht en Leerlingenvervoer"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="618d2d5c-17f5-48ae-a22f-e5ac4ff5ef3d"/>
+</archimate:DataObject>

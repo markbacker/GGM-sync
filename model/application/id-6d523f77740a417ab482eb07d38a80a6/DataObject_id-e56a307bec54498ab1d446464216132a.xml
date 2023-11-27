@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor"
+    id="id-e56a307bec54498ab1d446464216132a"
+    documentation="Apparaat voor de meting van een fysieke grootheid (bijv. temperatuur, licht, druk, elektriciteit).">
+  <properties
+      key="ggm-guid"
+      value="{4B32C511-77E9-4ABD-8C02-6F9F336A7A9}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="d465dced-7609-4900-a185-9d209bc1c6cb"/>
+</archimate:DataObject>

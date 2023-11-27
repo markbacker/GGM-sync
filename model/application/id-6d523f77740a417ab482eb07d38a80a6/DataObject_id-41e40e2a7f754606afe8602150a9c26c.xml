@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Groeifase"
+    id="id-41e40e2a7f754606afe8602150a9c26c">
+  <properties
+      key="ggm-guid"
+      value="{{87E0A482-B32D-4E44-B3A9-8EA10459B3F2}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="64f89d0d-18b0-4cac-aa97-d69f40ad417e"/>
+</archimate:DataObject>

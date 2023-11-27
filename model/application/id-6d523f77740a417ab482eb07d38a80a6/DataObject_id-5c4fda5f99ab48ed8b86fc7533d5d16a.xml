@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lener"
+    id="id-5c4fda5f99ab48ed8b86fc7533d5d16a"
+    documentation="Iemand die iets te leen krijgt, met name iemand die boeken, digitale bestanden of apparatuur leent bij een museum, bibliotheek, mediatheek of een andere uitleeninstantie">
+  <properties
+      key="ggm-guid"
+      value="{68C42EEA-6985-483e-99E6-E0F1FB71D622}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Museum"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3fc9c2d9-6f0f-464c-9d49-0c3a2c4d4a99"/>
+</archimate:DataObject>

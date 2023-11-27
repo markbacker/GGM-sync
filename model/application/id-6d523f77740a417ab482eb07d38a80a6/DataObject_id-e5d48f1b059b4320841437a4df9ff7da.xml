@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Weginrichtingsobject"
+    id="id-e5d48f1b059b4320841437a4df9ff7da"
+    documentation="Een ruimtelijk object dat dient voor de inrichting van de openbare weg.">
+  <properties
+      key="ggm-guid"
+      value="{7F3202B1-9A3B-4E02-B4F4-31EBCE6B8DE}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Beheer Openbare Ruimte"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="3abd47ba-4a2b-4de3-96b0-bdc011a351f9"/>
+</archimate:DataObject>

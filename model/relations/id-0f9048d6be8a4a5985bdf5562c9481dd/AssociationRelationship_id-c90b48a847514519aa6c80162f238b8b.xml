@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is lid van"
+    id="id-c90b48a847514519aa6c80162f238b8b"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{1DF94C0B-C6BD-4c7d-9AE2-5761713339DB}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="ec604070-2162-4dde-b0a2-0ce82e62bab2"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-1b203f598bb941c3bae341998e8f02db.xml#id-1b203f598bb941c3bae341998e8f02db"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9886c5db0dde490e9fce224469db937d.xml#id-9886c5db0dde490e9fce224469db937d"/>
+</archimate:AssociationRelationship>

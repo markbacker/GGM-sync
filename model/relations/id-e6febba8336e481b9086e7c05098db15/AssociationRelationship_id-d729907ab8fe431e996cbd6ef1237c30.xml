@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-d729907ab8fe431e996cbd6ef1237c30"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{C07B0FB7-C253-47a8-8D08-228AFC02EC08}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="ba324f5f-f68d-4832-b679-f66528fd93c9"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-47658833808d4208a8e81e833542aef8.xml#id-47658833808d4208a8e81e833542aef8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-cee049961b7b4dc28094a073e5e4fe91.xml#id-cee049961b7b4dc28094a073e5e4fe91"/>
+</archimate:AssociationRelationship>

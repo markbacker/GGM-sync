@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OVERIG BENOEMD TERREIN"
+    id="id-26196d1b962a4984814372a20ab13aa6"
+    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen onbebouwd terrein of een gedeelte daarvan, geen standplaats of gedeelte van een ligplaats zijnde, dat bestemd is voor het gedurende langere tijd verrichten van een maatschappelijke activiteit.">
+  <properties
+      key="ggm-guid"
+      value="{CFA3D54E-C8E0-4559-9475-29D31AF2DECD}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="Door KING toegevoegd objecttype (maakt geen deel uit van enige basisregistratie)."/>
+  <properties
+      key="domein-iv3"
+      value="RSGB Model"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ad157e0d-c42a-4ed8-93b1-6e2ffc5b035c"/>
+</archimate:DataObject>

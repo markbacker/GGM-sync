@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulling"
+    id="id-a2e9138bf0a04c5f8568ee0fcc2fd1b1"
+    documentation="Dunne wegeringsplank gebruikt om de ruimte tussen de bovenste kimweger en de onderste balkweger op te vullen (Sopers, 1974).">
+  <properties
+      key="ggm-guid"
+      value="{8417459E-2193-44a2-A1AC-38C39EA93CBF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="synoniemen"
+      value="Vullingen (plank)"/>
+  <properties
+      key="domein-iv3"
+      value="Archeologie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a2b3c4f7-5853-4b26-9752-96d2a6083321"/>
+</archimate:DataObject>

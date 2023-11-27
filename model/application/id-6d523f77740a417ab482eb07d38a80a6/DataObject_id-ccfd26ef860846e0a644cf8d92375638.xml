@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aanduidingEigenaarGebruiker"
+    id="id-ccfd26ef860846e0a644cf8d92375638"
+    documentation="Een aanduiding van alle waarden waarmee soort belang van een eigenaar / gebruiker wordt aangeduid. ">
+  <properties
+      key="ggm-guid"
+      value="{E5990F7B-3BD5-4e8f-9595-1F50FD952BD5}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="555a865e-dbb5-47a8-8b45-ee14cedf5ae2"/>
+</archimate:DataObject>

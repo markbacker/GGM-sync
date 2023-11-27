@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soort uitstroomreden"
+    id="id-7bf2281bdb8149f48abd14b212a28502"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{B3617104-EBEE-4475-A66C-30242EEF9895}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="b3640075-d2c2-4247-947e-bd87a32c591c"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f07dc32925d5441ea25753bda9dd56df.xml#id-f07dc32925d5441ea25753bda9dd56df"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d675e0edeb3c4cdbb55aa76aa2410adb.xml#id-d675e0edeb3c4cdbb55aa76aa2410adb"/>
+</archimate:AssociationRelationship>

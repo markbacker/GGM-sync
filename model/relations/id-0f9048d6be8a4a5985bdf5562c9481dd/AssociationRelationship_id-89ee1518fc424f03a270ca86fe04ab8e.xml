@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft changelog"
+    id="id-89ee1518fc424f03a270ca86fe04ab8e"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{5410F48D-F52E-4ec6-A270-59AD05B60075}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="bdcbc9ca-1383-4c24-97a8-6ff82e5add56"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a174e88eec84488596822196d44e6a2a.xml#id-a174e88eec84488596822196d44e6a2a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a88bc4c013e94042bb38c034fc283d7c.xml#id-a88bc4c013e94042bb38c034fc283d7c"/>
+</archimate:AssociationRelationship>

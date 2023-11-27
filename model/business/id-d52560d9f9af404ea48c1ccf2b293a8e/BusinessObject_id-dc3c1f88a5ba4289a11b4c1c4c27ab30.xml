@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KADASTRALE GEMEENTE"
+    id="id-dc3c1f88a5ba4289a11b4c1c4c27ab30"
+    documentation="De mogelijke onderscheiden gedeeltes van het grondgebied van Nederland, volgens de Dienst Kadaster en de Openbare Registers, zoals nader omschreven in het Kadasterbesluit">
+  <properties
+      key="ggm-guid"
+      value="{51BA37A4-2E1D-4704-9153-02759084D5E2}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="bron"
+      value="BRK"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Latest GGM GEMMA sync"
+      value="2023-11-27"/>
+  <properties
+      key="is GGM copy"
+      value="Wijzigingen worden overschreven, wijzigingen via het GGM model"/>
+  <properties
+      key="Object ID"
+      value="2210a2c9-45da-4235-9dba-2d9904a0ef66"/>
+  <properties
+      key="GEMMA URL"
+      value="https://redactie.gemmaonline.nl/index.php/GGMsync4/id-7b6a888b-7127-486f-a9c7-1a23d27d1aad"/>
+</archimate:BusinessObject>

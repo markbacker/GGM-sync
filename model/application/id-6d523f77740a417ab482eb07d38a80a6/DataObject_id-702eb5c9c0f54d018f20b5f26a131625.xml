@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvraagdata"
+    id="id-702eb5c9c0f54d018f20b5f26a131625"
+    documentation="Bron: GEN_REQ_DATA&#xA;ID: REQ_DATA icm VELD_NAAM">
+  <properties
+      key="ggm-guid"
+      value="{1F68C981-7E16-4368-8867-CA00AEB08A04}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Dienstverlening"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="39b327df-6e6d-4ef7-a54f-a03e29a8052b"/>
+</archimate:DataObject>

@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert voorziening"
+    id="id-a27f347b3e434d95a09f05697ed52913"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{65B6883C-78DF-48b7-BC4E-C6FDCC1B9E2A}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="e8c48b51-b5fe-4319-9c69-eb7bf4423210"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c98795ae865e49a882287128f64330fa.xml#id-c98795ae865e49a882287128f64330fa"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a3d2c71a30b64e798004df5ea407718a.xml#id-a3d2c71a30b64e798004df5ea407718a"/>
+</archimate:AssociationRelationship>

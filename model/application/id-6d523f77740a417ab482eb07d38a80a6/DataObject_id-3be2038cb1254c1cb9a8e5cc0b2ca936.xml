@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Declaratie"
+    id="id-3be2038cb1254c1cb9a8e5cc0b2ca936"
+    documentation="Een opgave van te vergoeden kosten.">
+  <properties
+      key="ggm-guid"
+      value="{E611CEB2-F4FA-49e2-AA6B-B380BC1918AC}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="HR"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="1c99768f-5c5a-45b8-9c27-2e051dd6566a"/>
+</archimate:DataObject>

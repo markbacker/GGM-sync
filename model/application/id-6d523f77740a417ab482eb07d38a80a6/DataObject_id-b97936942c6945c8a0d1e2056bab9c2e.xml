@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectleider"
+    id="id-b97936942c6945c8a0d1e2056bab9c2e"
+    documentation="De persoon die een project aanstuurt">
+  <properties
+      key="ggm-guid"
+      value="{888BBB4F-BEBA-4b9a-BB2E-0E1F2A3606DF}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Bouwen en Wonen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="2bfea1cf-4758-4992-a44b-c0d13a1cadbd"/>
+</archimate:DataObject>

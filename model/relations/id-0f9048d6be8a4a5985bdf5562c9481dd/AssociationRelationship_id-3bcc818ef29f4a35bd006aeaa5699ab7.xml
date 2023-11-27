@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt samen"
+    id="id-3bcc818ef29f4a35bd006aeaa5699ab7"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{B15FDBFD-05E6-4a55-81FF-DB6F287AE693}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="f19e5849-de29-42de-a43d-41ba92ea4e70"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-9e1c5f44507b4387b7afe0fdd33725c7.xml#id-9e1c5f44507b4387b7afe0fdd33725c7"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-7f26d91937c645afa5e03366d0e636e4.xml#id-7f26d91937c645afa5e03366d0e636e4"/>
+</archimate:AssociationRelationship>

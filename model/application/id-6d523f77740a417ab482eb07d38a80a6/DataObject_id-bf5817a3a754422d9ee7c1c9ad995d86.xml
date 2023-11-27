@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BOA"
+    id="id-bf5817a3a754422d9ee7c1c9ad995d86"
+    documentation="Een buitengewoon opsporingsambtenaar (boa) is een ambtenaar met een specifieke opsporingsbevoegdheid.">
+  <properties
+      key="ggm-guid"
+      value="{90B2A249-8D88-4a14-979F-672223D98E8C}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Veiligheid en Vergunningen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="ee11a0b9-67c8-4b79-a5f0-5ca708c88931"/>
+</archimate:DataObject>

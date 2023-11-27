@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOORT WOZ-OBJECT"
+    id="id-18231698715743498510a2a7f2073abc"
+    documentation="De mogelijke codes  waarin een soort object kan worden uitgedrukt conform de uniforme soort objectcodelijst van de Waarderingskamer">
+  <properties
+      key="ggm-guid"
+      value="{3741181A-07D0-4f62-B076-B3318266500F}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="bron"
+      value="BRWOZ"/>
+  <properties
+      key="domein-iv3"
+      value="Referentielijsten"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="360512c9-adb5-4f93-a2a0-bba07d30d366"/>
+</archimate:DataObject>

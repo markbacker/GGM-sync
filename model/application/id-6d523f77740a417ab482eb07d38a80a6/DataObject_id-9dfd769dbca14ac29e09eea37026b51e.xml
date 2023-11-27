@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fysiekVoorkomenBegroeidTerrein"
+    id="id-9dfd769dbca14ac29e09eea37026b51e"
+    documentation="Een aanduiding van alle waarden waarmee het fysiek voorkomen van een begroeid terrein kan worden verbijzonderd">
+  <properties
+      key="ggm-guid"
+      value="{62B611C8-140B-42dd-8327-D258EB9D9E92}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="0c2bed27-fb91-4b1e-93f6-5173f7ca5c15"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BUURT"
+    id="id-17d8634b0c12440494a1aa9f9710b730"
+    documentation="Een aaneengesloten gedeelte van een wijk, waarvan de grenzen zo veel mogelijk gebaseerd zijn op topografische elementen.">
+  <properties
+      key="ggm-guid"
+      value="{38649FF6-88C6-437d-AF8E-A9023D55E16C}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="bron"
+      value="GFO BG"/>
+  <properties
+      key="domein-iv3"
+      value="BAG"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="a9ae49de-56d2-47f4-93e0-44d012b28289"/>
+</archimate:DataObject>

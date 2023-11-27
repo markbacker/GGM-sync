@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enum_Kweker"
+    id="id-f29ab557fa3f477380f1325872d17b04">
+  <properties
+      key="ggm-guid"
+      value="{{297C8040-FA44-4B86-834E-07E1079D0E13}}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Enumeratiesoort"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="6905279f-7272-486a-bc73-51543ad90a3a"/>
+</archimate:DataObject>

@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanwezige Deelnemer"
+    id="id-349357198a17432ca485b4f9abac4d21"
+    documentation="iemand die meedoet aan eencollege- of raadsvergadering">
+  <properties
+      key="ggm-guid"
+      value="{F1E55DC7-0F33-40ea-8713-2E1AC3D7EE8D}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Class"/>
+  <properties
+      key="archimate-type"
+      value="Business object"/>
+  <properties
+      key="domein-iv3"
+      value="Griffie"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="8da2f2e0-3bc8-4d3e-9d4d-961e8d3411b9"/>
+</archimate:DataObject>

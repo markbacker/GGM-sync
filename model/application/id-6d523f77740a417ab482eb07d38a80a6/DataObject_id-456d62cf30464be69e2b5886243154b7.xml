@@ -1,0 +1,26 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Heffingsoort"
+    id="id-456d62cf30464be69e2b5886243154b7">
+  <properties
+      key="ggm-guid"
+      value="{356C8F59-3721-46d0-BCD0-C17B0130035C}"/>
+  <properties
+      key="Latest Sync Date"
+      value="27/11/2023 11:00:06"/>
+  <properties
+      key="uml-type"
+      value="Enumeration"/>
+  <properties
+      key="archimate-type"
+      value="Data object"/>
+  <properties
+      key="domein-iv3"
+      value="Veiligheid en Vergunningen"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="Object ID"
+      value="f59c4a77-4501-4a2c-ac07-38b0ee14434c"/>
+</archimate:DataObject>

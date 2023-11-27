@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-078dd12bd0b84d4aa09176f24293cbbd"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{E6BACB34-2453-4892-847D-04A542D878FF}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="67812bc6-29d8-4efa-ac4b-2ece0426fe2d"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-95db41f9dc5740598b30499fe85b1df3.xml#id-95db41f9dc5740598b30499fe85b1df3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-3beb26f596e44d1e81e5dcc9f213bb6f.xml#id-3beb26f596e44d1e81e5dcc9f213bb6f"/>
+</archimate:AssociationRelationship>

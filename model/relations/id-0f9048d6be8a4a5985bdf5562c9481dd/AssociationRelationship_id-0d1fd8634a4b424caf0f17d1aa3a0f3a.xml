@@ -1,0 +1,25 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="projectleider"
+    id="id-0d1fd8634a4b424caf0f17d1aa3a0f3a"
+    directed="true">
+  <properties
+      key="ggm-guid"
+      value="{2CDDCD51-E333-4b1a-9030-54231ACDC6C5}"/>
+  <properties
+      key="datum-tijd-export"
+      value="06112023-07:59:13"/>
+  <properties
+      key="uml-type"
+      value="Association"/>
+  <properties
+      key="Object ID"
+      value="d20162bd-ad25-4e16-8d39-5e6097c10cf1"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e58bfd49f0a24c4397bb3addb68e6170.xml#id-e58bfd49f0a24c4397bb3addb68e6170"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-1aba77861e284a62838a1bd73feeccdd.xml#id-1aba77861e284a62838a1bd73feeccdd"/>
+</archimate:AssociationRelationship>
